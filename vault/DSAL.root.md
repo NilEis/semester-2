@@ -7,4 +7,4 @@ created: 1649147877567
 ---
 
 # Datenstrukturen und Algorithmen
-1. [[DSAL.]]
+1. [[Überblick|DSAL.ueberblick]]
