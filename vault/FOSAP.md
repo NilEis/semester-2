@@ -4,6 +4,7 @@ title: 'Formale Systeme, Automaten und Prozesse'
 desc: ''
 updated: 1649312650121
 created: 1649312650121
+stub: true
 ---
 
 # Formale Systeme, Automaten und Prozesse
