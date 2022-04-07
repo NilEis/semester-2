@@ -9,3 +9,4 @@ created: 1649147616743
 # 2. Semester
 ## Module
 - [[Datenstrukturen und Algorithmen|DSAL.root]]
+- [[Formale Systeme, Automaten und Prozesse|FOSAP.root]]
