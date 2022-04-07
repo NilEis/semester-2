@@ -2,7 +2,7 @@
 id: mnd5f0g7rhonsu64f5fjcrh
 title: 2. Semester
 desc: ''
-updated: 1649147616743
+updated: 1649327534645
 created: 1649147616743
 ---
 
@@ -10,3 +10,4 @@ created: 1649147616743
 ## Module
 - [[Datenstrukturen und Algorithmen|DSAL]]
 - [[Formale Systeme, Automaten und Prozesse|FOSAP]]
+- [[Betriebssysteme und Systemsoftware|BUS]]

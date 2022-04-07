@@ -72,7 +72,7 @@ preview:
     enableMermaid: true
     enablePrettyRefs: true
     enableKatex: true
-    automaticallyShowPreview: true
+    automaticallyShowPreview: false
 publishing:
     enableFMTitle: true
     enableNoteTitleForLink: true

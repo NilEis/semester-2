@@ -2,9 +2,8 @@
 id: 0p70eh688cyzdn8bxxwyt4k
 title: Datenstrukturen und Algorithmen
 desc: ''
-updated: 1649324793419
+updated: 1649327566052
 created: 1649147877567
-stub: true
 ---
 
 # Datenstrukturen und Algorithmen
