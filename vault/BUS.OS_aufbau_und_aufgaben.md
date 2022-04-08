@@ -2,7 +2,7 @@
 id: 6z5l0j4qnbvzet32vqcq7a5
 title: "Betriebssysteme: Aufbau und Aufgaben"
 desc: ''
-updated: 1649418664437
+updated: 1649430428110
 created: 1649414063790
 ---
 
@@ -28,7 +28,7 @@ Drucker[Drucker]-->usb[USB Controller]
 Maus[Maus]-->usb[USB Controller]
 Tastatur[Tastatur]-->usb[USB Controller]
 Externe[Externe Laufwerke]-->usb[USB Controller]
-usb[usb]-->Systembus
+usb[USB Controller]-->Systembus
 Monitor[Monitor]-->Grafikkarte
 Grafikkarte[Grafikkarte]-->Systembus
 Systembus-->Hauptspeicher
