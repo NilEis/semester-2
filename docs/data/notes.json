@@ -1,0 +1,1283 @@
+{
+  "notes": {
+    "403": {
+      "vault": {
+        "fsPath": "vault"
+      },
+      "fname": "403",
+      "id": "403",
+      "title": "This page has not yet sprouted",
+      "schemaStub": false,
+      "type": "note",
+      "updated": 1649429084265,
+      "created": 1649429084265,
+      "desc": "",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": null,
+      "data": {}
+    },
+    "mnd5f0g7rhonsu64f5fjcrh": {
+      "id": "mnd5f0g7rhonsu64f5fjcrh",
+      "title": "2. Semester",
+      "desc": "",
+      "updated": 1649327534645,
+      "created": 1649147616743,
+      "custom": {
+        "nav_order": 0,
+        "permalink": "/"
+      },
+      "fname": "root",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "832684760e278533489adc65993ccbaa",
+      "links": [
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "root",
+            "id": "mnd5f0g7rhonsu64f5fjcrh",
+            "vaultName": "vault"
+          },
+          "value": "DSAL",
+          "alias": "Datenstrukturen und Algorithmen",
+          "position": {
+            "start": {
+              "line": 4,
+              "column": 3,
+              "offset": 27
+            },
+            "end": {
+              "line": 4,
+              "column": 43,
+              "offset": 67
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "DSAL"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "root",
+            "id": "mnd5f0g7rhonsu64f5fjcrh",
+            "vaultName": "vault"
+          },
+          "value": "FOSAP",
+          "alias": "Formale Systeme, Automaten und Prozesse",
+          "position": {
+            "start": {
+              "line": 5,
+              "column": 3,
+              "offset": 70
+            },
+            "end": {
+              "line": 5,
+              "column": 52,
+              "offset": 119
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "FOSAP"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "root",
+            "id": "mnd5f0g7rhonsu64f5fjcrh",
+            "vaultName": "vault"
+          },
+          "value": "BUS",
+          "alias": "Betriebssysteme und Systemsoftware",
+          "position": {
+            "start": {
+              "line": 6,
+              "column": 3,
+              "offset": 122
+            },
+            "end": {
+              "line": 6,
+              "column": 45,
+              "offset": 164
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "BUS"
+          }
+        }
+      ],
+      "anchors": {
+        "2-semester": {
+          "type": "header",
+          "text": "2. Semester",
+          "value": "2-semester",
+          "line": 8,
+          "column": 0,
+          "depth": 1
+        },
+        "module": {
+          "type": "header",
+          "text": "Module",
+          "value": "module",
+          "line": 9,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [
+        "ea7m3dmpg0r5un0f05p627b",
+        "0p70eh688cyzdn8bxxwyt4k",
+        "sw9rbls42fxvtuynvtea5yf"
+      ],
+      "parent": null,
+      "data": {}
+    },
+    "sw9rbls42fxvtuynvtea5yf": {
+      "id": "sw9rbls42fxvtuynvtea5yf",
+      "title": "Formale Systeme, Automaten und Prozesse",
+      "desc": "",
+      "updated": 1649327555488,
+      "created": 1649312650121,
+      "custom": {},
+      "fname": "FOSAP",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "5a2908083af5e2229d2faa3bb77b377a",
+      "links": [
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "FOSAP",
+            "id": "sw9rbls42fxvtuynvtea5yf",
+            "vaultName": "vault"
+          },
+          "value": "FOSAP.ueberblick",
+          "alias": "Überblick",
+          "position": {
+            "start": {
+              "line": 3,
+              "column": 4,
+              "offset": 46
+            },
+            "end": {
+              "line": 3,
+              "column": 34,
+              "offset": 76
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "FOSAP.ueberblick"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "FOSAP",
+            "id": "sw9rbls42fxvtuynvtea5yf",
+            "vaultName": "vault"
+          },
+          "value": "FOSAP.DEA",
+          "alias": "Deterministische Endliche Automaten",
+          "position": {
+            "start": {
+              "line": 4,
+              "column": 4,
+              "offset": 80
+            },
+            "end": {
+              "line": 4,
+              "column": 53,
+              "offset": 129
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "FOSAP.DEA"
+          }
+        },
+        {
+          "from": {
+            "fname": "root",
+            "vaultName": "vault"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 5,
+              "column": 3,
+              "offset": 70
+            },
+            "end": {
+              "line": 5,
+              "column": 52,
+              "offset": 119
+            },
+            "indent": []
+          },
+          "value": "FOSAP",
+          "alias": "Formale Systeme, Automaten und Prozesse"
+        }
+      ],
+      "anchors": {
+        "formale-systeme-automaten-und-prozesse": {
+          "type": "header",
+          "text": "Formale Systeme, Automaten und Prozesse",
+          "value": "formale-systeme-automaten-und-prozesse",
+          "line": 8,
+          "column": 0,
+          "depth": 1
+        }
+      },
+      "children": [
+        "wo161knnxca4andavb1d2g3",
+        "k1cv3nh1q6m1td4s9akpo7r"
+      ],
+      "parent": "mnd5f0g7rhonsu64f5fjcrh",
+      "data": {}
+    },
+    "k1cv3nh1q6m1td4s9akpo7r": {
+      "id": "k1cv3nh1q6m1td4s9akpo7r",
+      "title": "Überblick",
+      "desc": "",
+      "updated": 1649313208794,
+      "created": 1649313208794,
+      "custom": {},
+      "fname": "FOSAP.ueberblick",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "012ff55b59fc3a9173629325c5ca85ff",
+      "links": [
+        {
+          "from": {
+            "fname": "FOSAP",
+            "vaultName": "vault"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 3,
+              "column": 4,
+              "offset": 46
+            },
+            "end": {
+              "line": 3,
+              "column": 34,
+              "offset": 76
+            },
+            "indent": []
+          },
+          "value": "FOSAP.ueberblick",
+          "alias": "Überblick"
+        }
+      ],
+      "anchors": {
+        "formale-systeme-und-modelle": {
+          "type": "header",
+          "text": "Formale Systeme und Modelle",
+          "value": "formale-systeme-und-modelle",
+          "line": 8,
+          "column": 0,
+          "depth": 1
+        },
+        "zentrale-fragen": {
+          "type": "header",
+          "text": "Zentrale Fragen",
+          "value": "zentrale-fragen",
+          "line": 17,
+          "column": 0,
+          "depth": 2
+        },
+        "automaten": {
+          "type": "header",
+          "text": "Automaten",
+          "value": "automaten",
+          "line": 23,
+          "column": 0,
+          "depth": 2
+        },
+        "grammatiken": {
+          "type": "header",
+          "text": "Grammatiken",
+          "value": "grammatiken",
+          "line": 26,
+          "column": 0,
+          "depth": 2
+        },
+        "nebenläufige-systene": {
+          "type": "header",
+          "text": "Nebenläufige Systene",
+          "value": "nebenläufige-systene",
+          "line": 29,
+          "column": 0,
+          "depth": 2
+        },
+        "mathematische-methoden": {
+          "type": "header",
+          "text": "Mathematische Methoden",
+          "value": "mathematische-methoden",
+          "line": 32,
+          "column": 0,
+          "depth": 2
+        },
+        "korrektheit": {
+          "type": "header",
+          "text": "Korrektheit",
+          "value": "korrektheit",
+          "line": 37,
+          "column": 0,
+          "depth": 2
+        },
+        "automatisierung": {
+          "type": "header",
+          "text": "Automatisierung",
+          "value": "automatisierung",
+          "line": 40,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [],
+      "parent": "sw9rbls42fxvtuynvtea5yf",
+      "data": {}
+    },
+    "wo161knnxca4andavb1d2g3": {
+      "id": "wo161knnxca4andavb1d2g3",
+      "title": "Deterministische Endliche Automaten",
+      "desc": "",
+      "updated": 1649315714532,
+      "created": 1649315714532,
+      "custom": {},
+      "fname": "FOSAP.DEA",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "1cdab05c944852a31fd38225095971a8",
+      "links": [
+        {
+          "from": {
+            "fname": "FOSAP",
+            "vaultName": "vault"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 4,
+              "column": 4,
+              "offset": 80
+            },
+            "end": {
+              "line": 4,
+              "column": 53,
+              "offset": 129
+            },
+            "indent": []
+          },
+          "value": "FOSAP.DEA",
+          "alias": "Deterministische Endliche Automaten"
+        }
+      ],
+      "anchors": {
+        "deterministische-endliche-automaten": {
+          "type": "header",
+          "text": "Deterministische Endliche Automaten",
+          "value": "deterministische-endliche-automaten",
+          "line": 8,
+          "column": 0,
+          "depth": 1
+        },
+        "endliche-automaten": {
+          "type": "header",
+          "text": "Endliche Automaten",
+          "value": "endliche-automaten",
+          "line": 9,
+          "column": 0,
+          "depth": 2
+        },
+        "mustererkennung": {
+          "type": "header",
+          "text": "Mustererkennung",
+          "value": "mustererkennung",
+          "line": 14,
+          "column": 0,
+          "depth": 3
+        },
+        "teilbarkeit-durch-3": {
+          "type": "header",
+          "text": "Teilbarkeit durch 3",
+          "value": "teilbarkeit-durch-3",
+          "line": 25,
+          "column": 0,
+          "depth": 3
+        },
+        "alphabet": {
+          "type": "header",
+          "text": "Alphabet",
+          "value": "alphabet",
+          "line": 41,
+          "column": 0,
+          "depth": 2
+        },
+        "notation": {
+          "type": "header",
+          "text": "Notation",
+          "value": "notation",
+          "line": 46,
+          "column": 0,
+          "depth": 3
+        },
+        "beispiele": {
+          "type": "header",
+          "text": "Beispiele",
+          "value": "beispiele",
+          "line": 50,
+          "column": 0,
+          "depth": 3
+        },
+        "wörter": {
+          "type": "header",
+          "text": "Wörter",
+          "value": "wörter",
+          "line": 54,
+          "column": 0,
+          "depth": 2
+        },
+        "notation-1": {
+          "type": "header",
+          "text": "Notation",
+          "value": "notation-1",
+          "line": 55,
+          "column": 0,
+          "depth": 3
+        },
+        "sprache": {
+          "type": "header",
+          "text": "Sprache",
+          "value": "sprache",
+          "line": 59,
+          "column": 0,
+          "depth": 2
+        },
+        "dea": {
+          "type": "header",
+          "text": "DEA",
+          "value": "dea",
+          "line": 62,
+          "column": 0,
+          "depth": 1
+        }
+      },
+      "children": [],
+      "parent": "sw9rbls42fxvtuynvtea5yf",
+      "data": {}
+    },
+    "0p70eh688cyzdn8bxxwyt4k": {
+      "id": "0p70eh688cyzdn8bxxwyt4k",
+      "title": "Datenstrukturen und Algorithmen",
+      "desc": "",
+      "updated": 1649327566052,
+      "created": 1649147877567,
+      "custom": {},
+      "fname": "DSAL",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "7a88265a5c2f9e4e2cd440f10bfd2ff6",
+      "links": [
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "DSAL",
+            "id": "0p70eh688cyzdn8bxxwyt4k",
+            "vaultName": "vault"
+          },
+          "value": "DSAL.ueberblick",
+          "alias": "Überblick",
+          "position": {
+            "start": {
+              "line": 3,
+              "column": 4,
+              "offset": 38
+            },
+            "end": {
+              "line": 3,
+              "column": 33,
+              "offset": 67
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "DSAL.ueberblick"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "DSAL",
+            "id": "0p70eh688cyzdn8bxxwyt4k",
+            "vaultName": "vault"
+          },
+          "value": "DSAL.abstraktedatenstrukturen",
+          "alias": "DSAL.abstraktedatenstrukturen",
+          "position": {
+            "start": {
+              "line": 5,
+              "column": 7,
+              "offset": 93
+            },
+            "end": {
+              "line": 5,
+              "column": 40,
+              "offset": 126
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "DSAL.abstraktedatenstrukturen"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "DSAL",
+            "id": "0p70eh688cyzdn8bxxwyt4k",
+            "vaultName": "vault"
+          },
+          "value": "DSAL.linearedatenstrukturen",
+          "alias": "DSAL.linearedatenstrukturen",
+          "position": {
+            "start": {
+              "line": 6,
+              "column": 7,
+              "offset": 133
+            },
+            "end": {
+              "line": 6,
+              "column": 38,
+              "offset": 164
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "DSAL.linearedatenstrukturen"
+          }
+        },
+        {
+          "from": {
+            "fname": "root",
+            "vaultName": "vault"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 4,
+              "column": 3,
+              "offset": 27
+            },
+            "end": {
+              "line": 4,
+              "column": 43,
+              "offset": 67
+            },
+            "indent": []
+          },
+          "value": "DSAL",
+          "alias": "Datenstrukturen und Algorithmen"
+        }
+      ],
+      "anchors": {
+        "datenstrukturen-und-algorithmen": {
+          "type": "header",
+          "text": "Datenstrukturen und Algorithmen",
+          "value": "datenstrukturen-und-algorithmen",
+          "line": 8,
+          "column": 0,
+          "depth": 1
+        }
+      },
+      "children": [
+        "usuwijfnfz44i3bvexmb3vr",
+        "l19obf46ny8oevfoomwnent",
+        "vdvyuts01wn4953l0rbhk2a"
+      ],
+      "parent": "mnd5f0g7rhonsu64f5fjcrh",
+      "data": {}
+    },
+    "vdvyuts01wn4953l0rbhk2a": {
+      "id": "vdvyuts01wn4953l0rbhk2a",
+      "title": "Überblick",
+      "desc": "",
+      "updated": 1649149659835,
+      "created": 1649149659835,
+      "custom": {},
+      "fname": "DSAL.ueberblick",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "cd87cd99d2a0ec227fa8b706038f0544",
+      "links": [
+        {
+          "from": {
+            "fname": "DSAL",
+            "vaultName": "vault"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 3,
+              "column": 4,
+              "offset": 38
+            },
+            "end": {
+              "line": 3,
+              "column": 33,
+              "offset": 67
+            },
+            "indent": []
+          },
+          "value": "DSAL.ueberblick",
+          "alias": "Überblick"
+        }
+      ],
+      "anchors": {
+        "überblick": {
+          "type": "header",
+          "text": "Überblick",
+          "value": "überblick",
+          "line": 8,
+          "column": 0,
+          "depth": 1
+        },
+        "analyse": {
+          "type": "header",
+          "text": "Analyse",
+          "value": "analyse",
+          "line": 17,
+          "column": 0,
+          "depth": 1
+        },
+        "komplexität": {
+          "type": "header",
+          "text": "Komplexität",
+          "value": "komplexität",
+          "line": 26,
+          "column": 0,
+          "depth": 1
+        },
+        "effizienz": {
+          "type": "header",
+          "text": "Effizienz",
+          "value": "effizienz",
+          "line": 32,
+          "column": 0,
+          "depth": 1
+        }
+      },
+      "children": [],
+      "parent": "0p70eh688cyzdn8bxxwyt4k",
+      "data": {}
+    },
+    "l19obf46ny8oevfoomwnent": {
+      "id": "l19obf46ny8oevfoomwnent",
+      "title": "Lineare Datenstrukturen",
+      "desc": "",
+      "updated": 1649324572161,
+      "created": 1649320772516,
+      "custom": {},
+      "fname": "DSAL.linearedatenstrukturen",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "418b1df8efb5d0a07df9c4c544cde201",
+      "links": [
+        {
+          "from": {
+            "fname": "DSAL",
+            "vaultName": "vault"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 6,
+              "column": 7,
+              "offset": 133
+            },
+            "end": {
+              "line": 6,
+              "column": 38,
+              "offset": 164
+            },
+            "indent": []
+          },
+          "value": "DSAL.linearedatenstrukturen",
+          "alias": "DSAL.linearedatenstrukturen"
+        }
+      ],
+      "anchors": {
+        "lineare-datenstrukturen": {
+          "type": "header",
+          "text": "Lineare Datenstrukturen",
+          "value": "lineare-datenstrukturen",
+          "line": 8,
+          "column": 0,
+          "depth": 1
+        },
+        "listen": {
+          "type": "header",
+          "text": "Listen",
+          "value": "listen",
+          "line": 11,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [],
+      "parent": "0p70eh688cyzdn8bxxwyt4k",
+      "data": {}
+    },
+    "usuwijfnfz44i3bvexmb3vr": {
+      "id": "usuwijfnfz44i3bvexmb3vr",
+      "title": "Abstrakte Datenstrukturen",
+      "desc": "",
+      "updated": 1649322964905,
+      "created": 1649320831716,
+      "custom": {},
+      "fname": "DSAL.abstraktedatenstrukturen",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "e8a8a3454d01168333ba8ebd51926b1d",
+      "links": [
+        {
+          "from": {
+            "fname": "DSAL",
+            "vaultName": "vault"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 5,
+              "column": 7,
+              "offset": 93
+            },
+            "end": {
+              "line": 5,
+              "column": 40,
+              "offset": 126
+            },
+            "indent": []
+          },
+          "value": "DSAL.abstraktedatenstrukturen",
+          "alias": "DSAL.abstraktedatenstrukturen"
+        }
+      ],
+      "anchors": {
+        "abstrakte-datenstrukturen": {
+          "type": "header",
+          "text": "Abstrakte Datenstrukturen",
+          "value": "abstrakte-datenstrukturen",
+          "line": 8,
+          "column": 0,
+          "depth": 1
+        },
+        "natürliche-zahlen": {
+          "type": "header",
+          "text": "Natürliche Zahlen",
+          "value": "natürliche-zahlen",
+          "line": 27,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [],
+      "parent": "0p70eh688cyzdn8bxxwyt4k",
+      "data": {}
+    },
+    "ea7m3dmpg0r5un0f05p627b": {
+      "id": "ea7m3dmpg0r5un0f05p627b",
+      "title": "Betriebssysteme und Systemsoftware",
+      "desc": "",
+      "updated": 1649414061883,
+      "created": 1649327538563,
+      "custom": {},
+      "fname": "BUS",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "b55a5a42950e6233394135fc269d0c23",
+      "links": [
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "BUS",
+            "id": "ea7m3dmpg0r5un0f05p627b",
+            "vaultName": "vault"
+          },
+          "value": "BUS.OS_aufbau_und_aufgaben",
+          "alias": "BUS.OS_aufbau_und_aufgaben",
+          "position": {
+            "start": {
+              "line": 3,
+              "column": 4,
+              "offset": 41
+            },
+            "end": {
+              "line": 3,
+              "column": 34,
+              "offset": 71
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "BUS.OS_aufbau_und_aufgaben"
+          }
+        },
+        {
+          "from": {
+            "fname": "root",
+            "vaultName": "vault"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 6,
+              "column": 3,
+              "offset": 122
+            },
+            "end": {
+              "line": 6,
+              "column": 45,
+              "offset": 164
+            },
+            "indent": []
+          },
+          "value": "BUS",
+          "alias": "Betriebssysteme und Systemsoftware"
+        }
+      ],
+      "anchors": {
+        "betriebssysteme-und-systemsoftware": {
+          "type": "header",
+          "text": "Betriebssysteme und Systemsoftware",
+          "value": "betriebssysteme-und-systemsoftware",
+          "line": 8,
+          "column": 0,
+          "depth": 1
+        }
+      },
+      "children": [
+        "6z5l0j4qnbvzet32vqcq7a5"
+      ],
+      "parent": "mnd5f0g7rhonsu64f5fjcrh",
+      "data": {}
+    },
+    "6z5l0j4qnbvzet32vqcq7a5": {
+      "id": "6z5l0j4qnbvzet32vqcq7a5",
+      "title": "Betriebssysteme: Aufbau und Aufgaben",
+      "desc": "",
+      "updated": 1649418664437,
+      "created": 1649414063790,
+      "custom": {},
+      "fname": "BUS.OS_aufbau_und_aufgaben",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "43b272d6be3c80bf58357f3818c8104c",
+      "links": [
+        {
+          "from": {
+            "fname": "BUS",
+            "vaultName": "vault"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 3,
+              "column": 4,
+              "offset": 41
+            },
+            "end": {
+              "line": 3,
+              "column": 34,
+              "offset": 71
+            },
+            "indent": []
+          },
+          "value": "BUS.OS_aufbau_und_aufgaben",
+          "alias": "BUS.OS_aufbau_und_aufgaben"
+        }
+      ],
+      "anchors": {
+        "aufbau-und-aufgaben": {
+          "type": "header",
+          "text": "Aufbau und Aufgaben",
+          "value": "aufbau-und-aufgaben",
+          "line": 8,
+          "column": 0,
+          "depth": 1
+        },
+        "einteilung-des-computers-in-vier-bereiche": {
+          "type": "header",
+          "text": "Einteilung des Computers in vier Bereiche",
+          "value": "einteilung-des-computers-in-vier-bereiche",
+          "line": 9,
+          "column": 0,
+          "depth": 2
+        },
+        "computer-hardware": {
+          "type": "header",
+          "text": "Computer-Hardware",
+          "value": "computer-hardware",
+          "line": 15,
+          "column": 0,
+          "depth": 2
+        },
+        "cpu": {
+          "type": "header",
+          "text": "CPU",
+          "value": "cpu",
+          "line": 35,
+          "column": 0,
+          "depth": 2
+        },
+        "pipelining": {
+          "type": "header",
+          "text": "Pipelining",
+          "value": "pipelining",
+          "line": 44,
+          "column": 0,
+          "depth": 3
+        },
+        "superskalare-ausführung": {
+          "type": "header",
+          "text": "Superskalare Ausführung",
+          "value": "superskalare-ausführung",
+          "line": 53,
+          "column": 0,
+          "depth": 3
+        },
+        "zusammenspiel-der-komponenten": {
+          "type": "header",
+          "text": "Zusammenspiel der Komponenten",
+          "value": "zusammenspiel-der-komponenten",
+          "line": 56,
+          "column": 0,
+          "depth": 2
+        },
+        "betriebssystem": {
+          "type": "header",
+          "text": "Betriebssystem:",
+          "value": "betriebssystem",
+          "line": 68,
+          "column": 0,
+          "depth": 1
+        }
+      },
+      "children": [],
+      "parent": "ea7m3dmpg0r5un0f05p627b",
+      "data": {}
+    }
+  },
+  "domains": [
+    {
+      "id": "mnd5f0g7rhonsu64f5fjcrh",
+      "title": "2. Semester",
+      "desc": "",
+      "updated": 1649327534645,
+      "created": 1649147616743,
+      "custom": {
+        "nav_order": 0,
+        "permalink": "/"
+      },
+      "fname": "root",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "832684760e278533489adc65993ccbaa",
+      "links": [
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "root",
+            "id": "mnd5f0g7rhonsu64f5fjcrh",
+            "vaultName": "vault"
+          },
+          "value": "DSAL",
+          "alias": "Datenstrukturen und Algorithmen",
+          "position": {
+            "start": {
+              "line": 4,
+              "column": 3,
+              "offset": 27
+            },
+            "end": {
+              "line": 4,
+              "column": 43,
+              "offset": 67
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "DSAL"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "root",
+            "id": "mnd5f0g7rhonsu64f5fjcrh",
+            "vaultName": "vault"
+          },
+          "value": "FOSAP",
+          "alias": "Formale Systeme, Automaten und Prozesse",
+          "position": {
+            "start": {
+              "line": 5,
+              "column": 3,
+              "offset": 70
+            },
+            "end": {
+              "line": 5,
+              "column": 52,
+              "offset": 119
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "FOSAP"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "root",
+            "id": "mnd5f0g7rhonsu64f5fjcrh",
+            "vaultName": "vault"
+          },
+          "value": "BUS",
+          "alias": "Betriebssysteme und Systemsoftware",
+          "position": {
+            "start": {
+              "line": 6,
+              "column": 3,
+              "offset": 122
+            },
+            "end": {
+              "line": 6,
+              "column": 45,
+              "offset": 164
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "BUS"
+          }
+        }
+      ],
+      "anchors": {
+        "2-semester": {
+          "type": "header",
+          "text": "2. Semester",
+          "value": "2-semester",
+          "line": 8,
+          "column": 0,
+          "depth": 1
+        },
+        "module": {
+          "type": "header",
+          "text": "Module",
+          "value": "module",
+          "line": 9,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [
+        "ea7m3dmpg0r5un0f05p627b",
+        "0p70eh688cyzdn8bxxwyt4k",
+        "sw9rbls42fxvtuynvtea5yf"
+      ],
+      "parent": null,
+      "data": {},
+      "body": "\n# 2. Semester\n## Module\n- [[Datenstrukturen und Algorithmen|DSAL]]\n- [[Formale Systeme, Automaten und Prozesse|FOSAP]]\n- [[Betriebssysteme und Systemsoftware|BUS]]"
+    }
+  ],
+  "noteIndex": {
+    "id": "mnd5f0g7rhonsu64f5fjcrh",
+    "title": "2. Semester",
+    "desc": "",
+    "updated": 1649327534645,
+    "created": 1649147616743,
+    "custom": {
+      "nav_order": 0,
+      "permalink": "/"
+    },
+    "fname": "root",
+    "type": "note",
+    "vault": {
+      "fsPath": "vault"
+    },
+    "contentHash": "832684760e278533489adc65993ccbaa",
+    "links": [
+      {
+        "type": "wiki",
+        "from": {
+          "fname": "root",
+          "id": "mnd5f0g7rhonsu64f5fjcrh",
+          "vaultName": "vault"
+        },
+        "value": "DSAL",
+        "alias": "Datenstrukturen und Algorithmen",
+        "position": {
+          "start": {
+            "line": 4,
+            "column": 3,
+            "offset": 27
+          },
+          "end": {
+            "line": 4,
+            "column": 43,
+            "offset": 67
+          },
+          "indent": []
+        },
+        "xvault": false,
+        "sameFile": false,
+        "to": {
+          "fname": "DSAL"
+        }
+      },
+      {
+        "type": "wiki",
+        "from": {
+          "fname": "root",
+          "id": "mnd5f0g7rhonsu64f5fjcrh",
+          "vaultName": "vault"
+        },
+        "value": "FOSAP",
+        "alias": "Formale Systeme, Automaten und Prozesse",
+        "position": {
+          "start": {
+            "line": 5,
+            "column": 3,
+            "offset": 70
+          },
+          "end": {
+            "line": 5,
+            "column": 52,
+            "offset": 119
+          },
+          "indent": []
+        },
+        "xvault": false,
+        "sameFile": false,
+        "to": {
+          "fname": "FOSAP"
+        }
+      },
+      {
+        "type": "wiki",
+        "from": {
+          "fname": "root",
+          "id": "mnd5f0g7rhonsu64f5fjcrh",
+          "vaultName": "vault"
+        },
+        "value": "BUS",
+        "alias": "Betriebssysteme und Systemsoftware",
+        "position": {
+          "start": {
+            "line": 6,
+            "column": 3,
+            "offset": 122
+          },
+          "end": {
+            "line": 6,
+            "column": 45,
+            "offset": 164
+          },
+          "indent": []
+        },
+        "xvault": false,
+        "sameFile": false,
+        "to": {
+          "fname": "BUS"
+        }
+      }
+    ],
+    "anchors": {
+      "2-semester": {
+        "type": "header",
+        "text": "2. Semester",
+        "value": "2-semester",
+        "line": 8,
+        "column": 0,
+        "depth": 1
+      },
+      "module": {
+        "type": "header",
+        "text": "Module",
+        "value": "module",
+        "line": 9,
+        "column": 0,
+        "depth": 2
+      }
+    },
+    "children": [
+      "ea7m3dmpg0r5un0f05p627b",
+      "0p70eh688cyzdn8bxxwyt4k",
+      "sw9rbls42fxvtuynvtea5yf"
+    ],
+    "parent": null,
+    "data": {},
+    "body": "\n# 2. Semester\n## Module\n- [[Datenstrukturen und Algorithmen|DSAL]]\n- [[Formale Systeme, Automaten und Prozesse|FOSAP]]\n- [[Betriebssysteme und Systemsoftware|BUS]]"
+  },
+  "vaults": [
+    {
+      "fsPath": "vault"
+    }
+  ]
+}

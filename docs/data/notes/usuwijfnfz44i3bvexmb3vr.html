@@ -1,0 +1,61 @@
+<h1 id="abstrakte-datenstrukturen"><a aria-hidden="true" class="anchor-heading" href="#abstrakte-datenstrukturen"><svg aria-hidden="true" viewBox="0 0 16 16"><use xlink:href="#svg-link"></use></svg></a>Abstrakte Datenstrukturen</h1>
+<h1 id="abstrakte-datenstrukturen-1"><a aria-hidden="true" class="anchor-heading" href="#abstrakte-datenstrukturen-1"><svg aria-hidden="true" viewBox="0 0 16 16"><use xlink:href="#svg-link"></use></svg></a>Abstrakte Datenstrukturen</h1>
+<ul>
+<li>Keine Festlegung der Implementierung</li>
+<li>Axiome beschreiben statische Beziehungen</li>
+<li>Beispiele
+<ul>
+<li>Aufzählungstypen (<code>bool</code>, <code>enum</code>)</li>
+<li>Skalare Typen (<code>char</code>, <code>int</code>, <code>float</code>, ...)
+<ul>
+<li>Eindimensionaler Wertebereich</li>
+<li>In Praxis meist endlich </li>
+</ul>
+</li>
+<li>Zusammengesetzte Typen (<code>struct</code>, <code>class</code>)</li>
+<li>Lineare Strukturen (<code>list</code>, <code>queue</code>, <code>stack</code>)</li>
+<li>Bäume</li>
+<li>Graphen</li>
+</ul>
+</li>
+<li>endlicher Wertebereich
+<ul>
+<li>vollständig durch Tabellen spezifizierbar</li>
+</ul>
+</li>
+<li>Verallgemeinerung
+<ul>
+<li>Aufzählungstypen: <code>enum</code></li>
+<li>z.B. Wochentage, chemische Elemente</li>
+<li>Kodierung (oft) als ganze Zahl Modulo n (implizite Ordnungsrelation)</li>
+</ul>
+</li>
+</ul>
+<h2 id="natürliche-zahlen"><a aria-hidden="true" class="anchor-heading" href="#natürliche-zahlen"><svg aria-hidden="true" viewBox="0 0 16 16"><use xlink:href="#svg-link"></use></svg></a>Natürliche Zahlen</h2>
+<pre class="language-py"><code class="language-py"><span class="token keyword">def</span> <span class="token function">ZERO</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">:</span>
+    <span class="token keyword">return</span> <span class="token punctuation">[</span><span class="token punctuation">]</span>
+
+<span class="token keyword">def</span> <span class="token function">SUCC</span><span class="token punctuation">(</span>x<span class="token punctuation">)</span><span class="token punctuation">:</span>
+    <span class="token keyword">return</span> x <span class="token operator">+</span> <span class="token punctuation">[</span><span class="token number">1</span><span class="token punctuation">]</span>
+
+<span class="token keyword">def</span> <span class="token function">PRED</span><span class="token punctuation">(</span>x<span class="token punctuation">)</span><span class="token punctuation">:</span>
+    <span class="token keyword">return</span> x<span class="token punctuation">[</span><span class="token number">1</span><span class="token punctuation">:</span><span class="token punctuation">]</span>
+
+<span class="token keyword">def</span> <span class="token function">VALUE</span><span class="token punctuation">(</span>x<span class="token punctuation">)</span><span class="token punctuation">:</span>
+    <span class="token keyword">return</span> <span class="token builtin">len</span><span class="token punctuation">(</span>x<span class="token punctuation">)</span>
+
+<span class="token keyword">def</span> <span class="token function">ADD</span><span class="token punctuation">(</span>x<span class="token punctuation">,</span> y<span class="token punctuation">)</span><span class="token punctuation">:</span>
+    <span class="token keyword">if</span> x <span class="token operator">==</span> ZERO<span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">:</span>
+        <span class="token keyword">return</span> y
+    <span class="token keyword">return</span> SUCC<span class="token punctuation">(</span>ADD<span class="token punctuation">(</span>PRED<span class="token punctuation">(</span>X<span class="token punctuation">)</span><span class="token punctuation">,</span>y<span class="token punctuation">)</span><span class="token punctuation">)</span>
+
+<span class="token keyword">def</span> <span class="token function">MUL</span><span class="token punctuation">(</span>x<span class="token punctuation">,</span> y<span class="token punctuation">)</span><span class="token punctuation">:</span>
+    <span class="token keyword">if</span> x <span class="token operator">==</span> ZERO<span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">:</span>
+        <span class="token keyword">return</span> ZERO<span class="token punctuation">(</span><span class="token punctuation">)</span>
+    <span class="token keyword">return</span> ADD<span class="token punctuation">(</span>MUL<span class="token punctuation">(</span>PRED<span class="token punctuation">(</span>x<span class="token punctuation">)</span><span class="token punctuation">,</span> y<span class="token punctuation">)</span><span class="token punctuation">,</span> y<span class="token punctuation">)</span>
+</code></pre>
+<hr>
+<strong>Backlinks</strong>
+<ul>
+<li><a href="/semester-2/notes/0p70eh688cyzdn8bxxwyt4k">Datenstrukturen und Algorithmen</a></li>
+</ul>

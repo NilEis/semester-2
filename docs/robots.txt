@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://nileis.github.io/semester-2
+
+# Sitemaps
+Sitemap: https://nileis.github.io/semester-2/sitemap.xml
