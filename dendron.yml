@@ -84,7 +84,7 @@ publishing:
         - root
     writeStubs: false
     siteRootDir: docs
-    assetsPrefix: semester-2
+    assetsPrefix: /semester-2
     siteUrl: https://nileis.github.io
     seo:
         title: 2. Semester
