@@ -2,11 +2,10 @@
 id: 6z5l0j4qnbvzet32vqcq7a5
 title: "Betriebssysteme: Aufbau und Aufgaben"
 desc: ''
-updated: 1649430428110
+updated: 1649766805194
 created: 1649414063790
 ---
 
-# Aufbau und Aufgaben
 ## Einteilung des Computers in vier Bereiche
 1. Computer Hardware: Ansammlung von Betriebsmitteln, welche die Ausführung von Programmen ermöglichen
 2. Betriebssystem: Verwaltung und Koordination der Hardware

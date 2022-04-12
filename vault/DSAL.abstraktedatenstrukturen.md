@@ -2,11 +2,10 @@
 id: usuwijfnfz44i3bvexmb3vr
 title: Abstrakte Datenstrukturen
 desc: ''
-updated: 1649322964905
+updated: 1649766815147
 created: 1649320831716
 ---
 
-# Abstrakte Datenstrukturen
 - Keine Festlegung der Implementierung
 - Axiome beschreiben statische Beziehungen
 - Beispiele

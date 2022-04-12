@@ -2,11 +2,10 @@
 id: wo161knnxca4andavb1d2g3
 title: Deterministische Endliche Automaten
 desc: ''
-updated: 1649315714532
+updated: 1649766848698
 created: 1649315714532
 ---
 
-# Deterministische Endliche Automaten
 ## Endliche Automaten
 - Berechnungsmodell zur Beschreibung sequentiller Prozesse
 - endliche Menge an Zuständen

@@ -2,11 +2,10 @@
 id: mnd5f0g7rhonsu64f5fjcrh
 title: 2. Semester
 desc: ''
-updated: 1649594250381
+updated: 1649766889355
 created: 1649147616743
 ---
 
-# 2. Semester
 ## Module
 - [[Betriebssysteme und Systemsoftware|BUS]]
 - [[Datenstrukturen und Algorithmen|DSAL]]

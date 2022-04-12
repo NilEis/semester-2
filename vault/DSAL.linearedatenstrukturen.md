@@ -2,11 +2,10 @@
 id: l19obf46ny8oevfoomwnent
 title: Lineare Datenstrukturen
 desc: ''
-updated: 1649757402683
+updated: 1649766822542
 created: 1649320772516
 ---
 
-# Lineare Datenstrukturen
 - Sequenz $\{x_1,\dotsc,x_n\}$
 
 ## Listen

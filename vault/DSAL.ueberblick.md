@@ -2,11 +2,10 @@
 id: vdvyuts01wn4953l0rbhk2a
 title: Überblick
 desc: ''
-updated: 1649149659835
+updated: 1649766841642
 created: 1649149659835
 ---
 
-# Überblick
 - Software = Datenstrukturen + Algorithmen
 - Schrittweise Modifikation von Daten zur Lösung von Problemen
 - Eigenschaften (nach Donald Knuth)
