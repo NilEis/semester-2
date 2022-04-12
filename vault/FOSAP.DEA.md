@@ -2,7 +2,7 @@
 id: wo161knnxca4andavb1d2g3
 title: Deterministische Endliche Automaten
 desc: ''
-updated: 1649766848698
+updated: 1649771864108
 created: 1649315714532
 ---
 
@@ -66,4 +66,34 @@ graph LR
   - $\delta: Q \times \sum \rightarrow Q$: Abbildung: die Transitionsfunktionen
   - $q_0 \in Q$: Der Anfangszustand
   - $F \subseteq Q$: Die Menge der Endzustände
+
+## DEA: ist die binäre Zahlenfolge durch 3 teilbar
+```mermaid
+graph LR
+0((0))
+1((1))
+2((2))
+0-->|0|0
+0-->|1|1
+1-->|1|0
+1-->|0|2
+2-->|0|1
+2-->|1|2
+```
+### Beweis
+Für $w \in {0,1}*$ sei $b(w) \in \mathbb{N}$ der Wert von $w$ als Binärzahl.
+#### Lemma
+Seien $w\in \{0,1\}*$ und $a\in \{0,1\}$. Dann gilt
+$$
+  b(wa) = 2 \cdot b(w) + a
+$$
+##### Beweis
+Sei $w=a_1,\dotsc, a_n$. Dann ist
+$$
+  b(wa) = \sum_{i=1}^n a_i2^{n+1-i}
+$$
+
+# Satz 1.29
+Sei $L\subseteq\sum^*$ DFA-Erkennbar. Dann ist auch $\overline{L}$ DFA-Erkennbar.
+- Wenn zwei Sprachen DFA-erkennbar sind, dann ist auch der Durchschnitt DFA-erkennbar.
 
