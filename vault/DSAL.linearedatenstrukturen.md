@@ -2,7 +2,7 @@
 id: l19obf46ny8oevfoomwnent
 title: Lineare Datenstrukturen
 desc: ''
-updated: 1649324572161
+updated: 1649757402683
 created: 1649320772516
 ---
 
@@ -31,3 +31,17 @@ created: 1649320772516
     - Elementzugriff erfordert lineare Suche
   - Beliebiges Erweitern oder Löschen
 
+### Stack
+- Nur einfügen am Anfang
+- Auslesen auch nur am Anfang
+- Last in, First out
+
+# Suche im Labyrinth
+- Annahme: Array hat keine Zykel
+- Pfad = Liste
+
+# Baum
+- Jeder Knoten ist Wurzelknoten eines Teilbaumes
+- Tiefe: Anzahl der Kanten von Wurzel bis Knoten
+- Grad: Anzahl der Nachfolger
+- Blätter: Knoten ohne Nachfolger
