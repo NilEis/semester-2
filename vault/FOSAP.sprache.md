@@ -2,7 +2,7 @@
 id: oe241jb9h8q8qqkm146bcuo
 title: Sprachen
 desc: ''
-updated: 1649770290602
+updated: 1649857002425
 created: 1649769189570
 ---
 
@@ -24,3 +24,23 @@ $$
 ### Beobachtung
 1. $\epsilon \in L^0 \subseteq L^*$
 2. Ein Wort $u \neq \epsilon$ liegt genau dann in $L^*$, wenn es ein $n\geq1$ und Wörter $v_1,\dotsc,v_n \in L$ gibt.
+
+# Beispiele
+1. Natürliche zahlen $n\in\mathbb{N}$
+   - Alphabet: $\sum=\{0,\dotsc,9\}$ oder $\sum=\{\mathbb{N}\}$
+   - $\{w\in\sum_a^*\vert w\text{ hat keine führende }0\}$
+     - $0001\notin\mathbb{N}$
+   - $v\{0\}$
+2. Alle möglichen Stundenpläne
+   - $\sum=\{\#,\}\cup\{'m','d','m','d','f'\}$
+3. Sucher nach Abgabegruppen
+   - $(\sum_{UTF_8})^*$
+   - $\{w\in \sum_{UTF_8}^*\vert \text{als Infix "Grüße"}\}\cap L_{email}$
+
+## Beweise
+### Zeige oder widerlege
+- $(KL)M=K(LM),$
+  - $x\in(KL)M.\quad\text{Sei }x=uvw, \text{ mit }u\in K,v\in L,w\in M\\\text{Dann ist }x=(uv)w=uvw=u(vw)\in K(LM), vw\in LM,u\in K$
+  - Analog, assozieativität von Kompositionen, gilt genau
+- $L\{\epsilon\}=\{\epsilon\}L=L$
+  - $L\{\epsilon\}\subseteq\{\epsilon\}: \text{ Sei } w \in L\{\epsilon\}. w\in L, \text{ und damit }\epsilon w\in \{\epsilon\}$

@@ -2,7 +2,7 @@
 id: sw9rbls42fxvtuynvtea5yf
 title: 'Formale Systeme, Automaten und Prozesse'
 desc: ''
-updated: 1649769104180
+updated: 1649853889353
 created: 1649312650121
 ---
 
