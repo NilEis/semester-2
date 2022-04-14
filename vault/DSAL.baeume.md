@@ -2,20 +2,12 @@
 id: zvbaxijpphhgr878gipd8mp
 title: Bäume
 desc: ''
-updated: 1649927971507
+updated: 1649929276400
 created: 1649925191942
 ---
 
 <img src="https://c.tenor.com/W8pYfpTSrYIAAAAS/roomba-cat.gif" alt="cat" id=cat>
 
-<script>
-
-    const cat = document.getElementById("cat");
-    const n = Math.floor(cat.parentElement.offsetWidth/cat.width)*4;
-    for(let i = 0; i < n; i++)
-        cat.parentElement.append(cat);
-
-</script>
 
 - Hierarische Datenstrukturen
   - Zusammenfassung von Gruppen
@@ -46,3 +38,18 @@ def ReadTerm():
         op = getChar()
     return L
 ```
+# Effizienz
+- Balancierte Bäume
+  - $N_{bal, max}(h) = 2^{h+1}-1$
+  - $N_{bal, min}(h) = 1+N_{bal,min}(h-1)+N_{bal,min}(h-2)$
+
+
+<script defer>
+
+    const cat = document.getElementById("cat");
+    const n = Math.floor(cat.parentElement.offsetWidth/cat.width)*4+1;
+    for(let i = 0; i < n; i++)
+        cat.parentElement.append(cat.cloneNode());
+    cat.remove();
+
+</script>
