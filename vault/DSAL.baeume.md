@@ -2,7 +2,7 @@
 id: zvbaxijpphhgr878gipd8mp
 title: Bäume
 desc: ''
-updated: 1649929276400
+updated: 1649929776423
 created: 1649925191942
 ---
 
@@ -43,11 +43,23 @@ def ReadTerm():
   - $N_{bal, max}(h) = 2^{h+1}-1$
   - $N_{bal, min}(h) = 1+N_{bal,min}(h-1)+N_{bal,min}(h-2)$
 
+# Suchen
+```py
+def Search(X,T):
+    if X == Value(T):
+        return True
+    elif Leaf(T):
+        return False
+    elif X < Value(T):
+        return Search(X,Left(T))
+    else:
+        return Search(X,Right(T))
+```
 
 <script defer>
 
     const cat = document.getElementById("cat");
-    const n = Math.floor(cat.parentElement.offsetWidth/cat.width)*4+1;
+    const n = Math.floor(cat.parentElement.offsetWidth/cat.width)*4;
     for(let i = 0; i < n; i++)
         cat.parentElement.append(cat.cloneNode());
     cat.remove();
