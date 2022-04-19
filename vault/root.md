@@ -6,6 +6,7 @@ updated: 1649766889355
 created: 1649147616743
 ---
 
+
 ## Module
 - [[Betriebssysteme und Systemsoftware|BUS]]
 - [[Datenstrukturen und Algorithmen|DSAL]]

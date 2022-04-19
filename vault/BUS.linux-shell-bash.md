@@ -1,7 +1,7 @@
 ---
 id: l1i7a0o3wy5ts8r69mnafgh
 title: Linux-shell Bash
-desc: 'Commands of the Bash'
+desc: Commands of the Bash
 updated: 1649937182789
 created: 1649932418950
 ---

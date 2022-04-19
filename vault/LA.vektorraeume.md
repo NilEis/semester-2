@@ -6,6 +6,7 @@ updated: 1649596173380
 created: 1649251299260
 ---
 
+
 # Setup
 - $K$ Körper: Z.B. $K = \mathbb{R},\mathbb{Q},\mathbb{C},\mathbb{F}_p,p \in \mathbb{R}, Z.B. \mathbb{F}_2=\{0,1\}$
 - nach Definition: $V$ Vektorraum über $K$

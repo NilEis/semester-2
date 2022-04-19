@@ -1,6 +1,6 @@
 ---
 id: 6z5l0j4qnbvzet32vqcq7a5
-title: "Betriebssysteme: Aufbau und Aufgaben"
+title: 'Betriebssysteme: Aufbau und Aufgaben'
 desc: ''
 updated: 1649766805194
 created: 1649414063790
