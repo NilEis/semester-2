@@ -2,7 +2,7 @@
 id: zvbaxijpphhgr878gipd8mp
 title: Bäume
 desc: ''
-updated: 1649935373538
+updated: 1650357631731
 created: 1649925191942
 ---
 
@@ -55,6 +55,8 @@ def Search(X,T):
     else:
         return Search(X,Right(T))
 ```
+
+
 
 <script defer>
 
