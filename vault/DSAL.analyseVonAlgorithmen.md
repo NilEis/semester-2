@@ -2,7 +2,7 @@
 id: 86qyjdsuf73nhr1v9lk61uv
 title: Analyse von Algorithmen
 desc: ''
-updated: 1650533408508
+updated: 1650535221924
 created: 1650531964149
 ---
 
@@ -20,6 +20,8 @@ created: 1650531964149
   - Y: Benötigte Rechenzeit
 
 ```
+Y
+^
 |   //  
 |  //  /
 | /|  /
@@ -27,7 +29,7 @@ created: 1650531964149
 | | /                      
 || /          _____________---------------
 ||/-----------
-+-----------------------------------------
++----------------------------------------->X
 ```
 - Abstrakte Analyse
   - Anzahl der wesentlichen Operationen auf einem idelaisierten Computer
@@ -58,4 +60,13 @@ created: 1650531964149
       - Average
         - P = Prob(X=True)
         - OP = OP(X) + p * OP(Y) + (1-P) OP(Z)
-  - 
+  - Kombinatorik
+    - Permutationen: $n!$
+    - Kombinationen: $\binom{n}{k}=\frac{n!}{k!(n-k)!}$
+    - Summe der Kombinationen:$\sum_{k=0}^n\binom{n}{k}=2^n$
+
+--------------------------------------------------------------------------
+
+- Definitionen von Schranken für Funktionen
+
+![](/assets/images/2022-04-21-12-00-18.png)
