@@ -2,7 +2,7 @@
 id: s0htkkk3iv8jau2rmrzkzme
 title: Prioritätsschlangen
 desc: ''
-updated: 1650361318145
+updated: 1650530446655
 created: 1650358885055
 ---
 
@@ -15,4 +15,4 @@ created: 1650358885055
 - Durch implementierung als Baum
   - Nur entlang der Pfade sortiert
   - Implementierung als Array
-
+- 
