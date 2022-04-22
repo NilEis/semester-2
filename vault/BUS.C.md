@@ -2,7 +2,7 @@
 id: ofi07erpq7jgz6mwmypxbw8
 title: C-Programmierung
 desc: ''
-updated: 1650626027905
+updated: 1650627936649
 created: 1650538781703
 ---
 
@@ -21,5 +21,8 @@ int main(int32_t argc, char** argv)
 ```
 - Pass-by-value
 - > Huch fehlgeschlagen
-- `!!convert_int_to_bool`
-- 
+```c
+    !!convert_int_to_bool
+    struct test x;
+    (*x).y == x->y
+```
