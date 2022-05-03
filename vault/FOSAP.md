@@ -2,7 +2,7 @@
 id: sw9rbls42fxvtuynvtea5yf
 title: 'Formale Systeme, Automaten und Prozesse'
 desc: ''
-updated: 1650976423395
+updated: 1651584276550
 created: 1649312650121
 ---
 
@@ -13,6 +13,7 @@ created: 1649312650121
 4. [[Sprachen|FOSAP.sprache]]
 5. [[Nichtdeterministische Endliche Automaten|FOSAP.NFA]]
 6. [[FOSAP.regulSprachen]]
+   1. [[Algorithmen über reguläre Sprachen|FOSAP.regulSprachen.alg]]
 
 
 ## Tutorium

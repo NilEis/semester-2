@@ -2,7 +2,7 @@
 id: gaoww6pfwoli8l6kw7sxkpx
 title: Reguläre Sprachen
 desc: ''
-updated: 1650980188720
+updated: 1651583162937
 created: 1650976425062
 ---
 
@@ -22,3 +22,13 @@ Der reguläre Ausdruck $a(a+b)^*bb$ beschreibt die Sprache über das Alphabet $\
 
 - Semantik
   - ![](/assets/images/2022-04-26-14-52-39.png)
+
+## Pumping-Lemma
+- L ist regulär. Dann ist $n\geq 1$, so dass für alle $w \in L$ eine Zerlegung $w=xyz$ existiert, für die gilt.
+  1. $y\neq \epsilon$
+  2. $|xy|\neq w$
+  3. $xy^kz\in L$ für alle $k\geq 0$
+
+## Myhill-Nerode-Äuivalenz
+- Sei $L\subseteq\sum^*$ eine Sprache. Wir definieren
+- Eine Sprache $L$ ist genau dann regulär, wenn index($L$)$<\infty$
