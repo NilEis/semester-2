@@ -2,7 +2,7 @@
 id: mnd5f0g7rhonsu64f5fjcrh
 title: 2. Semester
 desc: ''
-updated: 1650533596322
+updated: 1652452539811
 created: 1649147616743
 ---
 
@@ -13,3 +13,4 @@ created: 1649147616743
 - [[Datenstrukturen und Algorithmen|DSAL]]
 - [[Formale Systeme, Automaten und Prozesse|FOSAP]]
 - [[Lineare Algebra|LA]]
+- [[Proseminar|PS]]
