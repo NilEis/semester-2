@@ -2,7 +2,7 @@
 id: pcvzcc8l7qd3w4aznic0sc8
 title: Prozesse, Threads und Systemkommunikation
 desc: ''
-updated: 1652439088683
+updated: 1652957392930
 created: 1651230926984
 ---
 # Prozessverwaltung
@@ -31,3 +31,5 @@ Bluetoos -> Bluetoof -> bluetooth
 - Welche Prozesse sollen bedient werden?
   - Fairness: Kein Prozess soll zu lange warten
   - Wichtigkeit: Prozesse mit hoher Priorität sollen bevorzugt werden.
+- Round Robin
+- 
