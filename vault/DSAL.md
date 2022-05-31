@@ -2,7 +2,7 @@
 id: 0p70eh688cyzdn8bxxwyt4k
 title: Datenstrukturen und Algorithmen
 desc: ''
-updated: 1650531961294
+updated: 1653986946742
 created: 1649147877567
 ---
 
@@ -11,6 +11,7 @@ created: 1649147877567
    1. [[DSAL.abstraktedatenstrukturen]]
    2. [[DSAL.linearedatenstrukturen]]
    3. [[Bäume|DSAL.baeume]]
+      1. [[Rot-Schwarz-Bäume|DSAL.baeume.rsbaum]]
    4. [[Prioritätsschlangen|DSAL.prioschlange]]
    5. [[Graphen|DSAL.graphvonf]]
 3. Algorithmen
