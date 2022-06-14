@@ -2,7 +2,7 @@
 id: mnd5f0g7rhonsu64f5fjcrh
 title: 2. Semester
 desc: ''
-updated: 1652452539811
+updated: 1655247033976
 created: 1649147616743
 ---
 
@@ -14,3 +14,4 @@ created: 1649147616743
 - [[Formale Systeme, Automaten und Prozesse|FOSAP]]
 - [[Lineare Algebra|LA]]
 - [[Proseminar|PS]]
+- [[Dictionary|dict]]
