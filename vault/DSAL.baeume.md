@@ -2,7 +2,7 @@
 id: zvbaxijpphhgr878gipd8mp
 title: Bäume
 desc: ''
-updated: 1655198202458
+updated: 1655200714883
 created: 1649925191942
 ---
 
@@ -62,7 +62,7 @@ def Search(X,T):
 
     const cat = document.getElementById("cat");
     const anz = Number(location.hash.substring(1))!=NaN?Number(location.hash.substring(1)):4;
-    const n = Math.floor(cat.parentElement.offsetWidth/cat.width)*4==Infinity?0:Math.floor(cat.parentElement.offsetWidth/cat.width)*();
+    const n = Math.floor(cat.parentElement.offsetWidth/cat.width)*4==Infinity?0:Math.floor(cat.parentElement.offsetWidth/cat.width)*anz;
     for(let i = 0; i < n; i++)
         cat.parentElement.append(cat.cloneNode());
     cat.remove();
