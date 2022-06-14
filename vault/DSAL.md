@@ -2,7 +2,7 @@
 id: 0p70eh688cyzdn8bxxwyt4k
 title: Datenstrukturen und Algorithmen
 desc: ''
-updated: 1654159525709
+updated: 1655198314975
 created: 1649147877567
 ---
 
@@ -15,5 +15,7 @@ created: 1649147877567
       2. [[B-Bäume|DSAL.baeume.bbaum]]
    4. [[Prioritätsschlangen|DSAL.prioschlange]]
    5. [[Graphen|DSAL.graphvonf]]
+   6. [[Union-Find-Strukturen|DSAL.Unionfind]]
+   7. [[Graphen]]
 3. Algorithmen
    1. [[Analyse|DSAL.analyseVonAlgorithmen]]
