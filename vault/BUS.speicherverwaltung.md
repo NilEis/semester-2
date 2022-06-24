@@ -2,7 +2,7 @@
 id: xypymb99679v9l00rou9pze
 title: Speicherverwaltung
 desc: ''
-updated: 1654257348322
+updated: 1655462720650
 created: 1654255972582
 ---
 
@@ -27,4 +27,8 @@ created: 1654255972582
   - Stack
 - Besitzt einen Namen und eine Länge
 - Logische Adresse: $\text{Segmentnummer}+\text{offset}$
-- 
+
+# Adressierung
+- Logische (Virtuelle Adressen)
+  - `0x00000000 - 0xC0000000`
+  - 
