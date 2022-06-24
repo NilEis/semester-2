@@ -1,0 +1,30 @@
+<h1 id="c-programmierung"><a aria-hidden="true" class="anchor-heading" href="#c-programmierung"><svg aria-hidden="true" viewBox="0 0 16 16"><use xlink:href="#svg-link"></use></svg></a>C-Programmierung</h1>
+<h2 id="main"><a aria-hidden="true" class="anchor-heading" href="#main"><svg aria-hidden="true" viewBox="0 0 16 16"><use xlink:href="#svg-link"></use></svg></a>main</h2>
+<pre class="language-c"><code class="language-c"><span class="token macro property"><span class="token directive-hash">#</span><span class="token directive keyword">include</span> <span class="token string">&#x3C;stdint.h></span></span>
+<span class="token keyword">int</span> <span class="token function">main</span><span class="token punctuation">(</span><span class="token class-name">int32_t</span> argc<span class="token punctuation">,</span> <span class="token keyword">char</span><span class="token operator">*</span><span class="token operator">*</span> argv<span class="token punctuation">)</span>
+<span class="token punctuation">{</span>
+    <span class="token function">printf</span><span class="token punctuation">(</span><span class="token string">"Number of arguments: %d\n"</span><span class="token punctuation">,</span>argc<span class="token punctuation">)</span><span class="token punctuation">;</span>
+    <span class="token keyword">for</span><span class="token punctuation">(</span><span class="token keyword">int</span> i <span class="token operator">=</span> <span class="token number">0</span><span class="token punctuation">;</span> i <span class="token operator">&#x3C;</span> argc<span class="token punctuation">;</span> i<span class="token operator">++</span><span class="token punctuation">)</span>
+    <span class="token punctuation">{</span>
+        <span class="token function">printf</span><span class="token punctuation">(</span><span class="token string">"Parameter %d: %s\n"</span><span class="token punctuation">,</span>i<span class="token punctuation">,</span>argv<span class="token punctuation">[</span>i<span class="token punctuation">]</span><span class="token punctuation">)</span><span class="token punctuation">;</span>
+    <span class="token punctuation">}</span>
+    <span class="token keyword">return</span> <span class="token number">0</span><span class="token punctuation">;</span>
+<span class="token punctuation">}</span>
+</code></pre>
+<ul>
+<li>Pass-by-value</li>
+<li>
+<blockquote>
+<p>Huch fehlgeschlagen</p>
+</blockquote>
+</li>
+</ul>
+<pre class="language-c"><code class="language-c">    <span class="token operator">!</span><span class="token operator">!</span>convert_int_to_bool
+    <span class="token keyword">struct</span> <span class="token class-name">test</span> x<span class="token punctuation">;</span>
+    <span class="token punctuation">(</span><span class="token operator">*</span>x<span class="token punctuation">)</span><span class="token punctuation">.</span>y <span class="token operator">==</span> x<span class="token operator">-></span>y
+</code></pre>
+<hr>
+<strong>Backlinks</strong>
+<ul>
+<li><a href="/semester-2/notes/ea7m3dmpg0r5un0f05p627b">Betriebssysteme und Systemsoftware</a></li>
+</ul>

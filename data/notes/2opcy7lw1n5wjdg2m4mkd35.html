@@ -1,0 +1,48 @@
+<h1 id="dateisysteme"><a aria-hidden="true" class="anchor-heading" href="#dateisysteme"><svg aria-hidden="true" viewBox="0 0 16 16"><use xlink:href="#svg-link"></use></svg></a>Dateisysteme</h1>
+<ul>
+<li>Datei: Folge zusammengehöriger Daten</li>
+<li>Jede Datei braucht eine Struktur
+<ul>
+<li>Dateiname</li>
+<li>Identifikator</li>
+<li>Dateityp</li>
+<li>Attribute
+<ul>
+<li>Zugriffsrechte</li>
+<li>Benutzeridentitäten</li>
+<li>Datum/Uhrzeit der Erstellung/Änderung</li>
+<li>Größe</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>Dateiverwaltung
+<ul>
+<li>Verwaltung der geöffneten Dateien</li>
+<li>Abbildung der logischen Bytepositionen in der Datei auf physikalische Blocknummern im Hintergrundspeicher</li>
+<li>Speicherverwaltung</li>
+<li>Ermittlung der Geräteadressen</li>
+<li>Scheduling von Zugriffen auf die Dateien</li>
+<li>File Descriptor
+<ul>
+<li>Erzeugt eine neue Verwaltungsstruktur um die Datei zu verwalten</li>
+</ul>
+</li>
+<li>Jeder Prozess hat eine eigene Tabelle für FDs</li>
+</ul>
+</li>
+</ul>
+<div class="mermaid">
+  graph TD
+Prozess-->|open| Kernel -->Hintergrundspeicher-->f[File control block]
+Hintergrundspeicher -->Verzeichnisstruktur
+</div>
+<pre class="language-c"><code class="language-c"><span class="token function">open</span><span class="token punctuation">(</span>fn<span class="token punctuation">,</span> r<span class="token punctuation">)</span>
+<span class="token function">close</span><span class="token punctuation">(</span>fd<span class="token punctuation">)</span>
+<span class="token function">read</span><span class="token punctuation">(</span>fd<span class="token punctuation">,</span> buf<span class="token punctuation">,</span> n<span class="token punctuation">)</span>
+</code></pre>
+<hr>
+<strong>Backlinks</strong>
+<ul>
+<li><a href="/semester-2/notes/ea7m3dmpg0r5un0f05p627b">Betriebssysteme und Systemsoftware</a></li>
+</ul>

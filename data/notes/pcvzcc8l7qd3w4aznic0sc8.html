@@ -1,0 +1,51 @@
+<h1 id="prozesse-threads-und-systemkommunikation"><a aria-hidden="true" class="anchor-heading" href="#prozesse-threads-und-systemkommunikation"><svg aria-hidden="true" viewBox="0 0 16 16"><use xlink:href="#svg-link"></use></svg></a>Prozesse, Threads und Systemkommunikation</h1>
+<h1 id="prozessverwaltung"><a aria-hidden="true" class="anchor-heading" href="#prozessverwaltung"><svg aria-hidden="true" viewBox="0 0 16 16"><use xlink:href="#svg-link"></use></svg></a>Prozessverwaltung</h1>
+<h1 id="threads"><a aria-hidden="true" class="anchor-heading" href="#threads"><svg aria-hidden="true" viewBox="0 0 16 16"><use xlink:href="#svg-link"></use></svg></a>Threads</h1>
+<ul>
+<li>user-threads
+<ul>
+<li>thread-management im programm, nicht im Betriebssystem</li>
+<li>Kernel sieht nur den Prozess</li>
+<li>Wenn ein Thread hängen bleibt, bleiben alle hängen</li>
+</ul>
+</li>
+<li>Kernel-Thread
+<ul>
+<li>Management durch Kernel</li>
+<li>Blockiert ein Thread, weist der Kernel die Cpu weiter zu</li>
+<li>Multicore-CPUs können genutzt werden</li>
+<li>Wechsel zwischen Threads so aufwendig wie von Prozessen</li>
+</ul>
+</li>
+</ul>
+<p>Bluetoos -> Bluetoof -> bluetooth</p>
+<h1 id="scheduling"><a aria-hidden="true" class="anchor-heading" href="#scheduling"><svg aria-hidden="true" viewBox="0 0 16 16"><use xlink:href="#svg-link"></use></svg></a>Scheduling</h1>
+<ul>
+<li>Mehrere Prozesse müssen gleichzeitig ausgeführt werden
+<ul>
+<li>Prozess muss geladen werden</li>
+<li>CPU-Zeit muss zugeteilt werden</li>
+</ul>
+</li>
+</ul>
+<h2 id="strategien"><a aria-hidden="true" class="anchor-heading" href="#strategien"><svg aria-hidden="true" viewBox="0 0 16 16"><use xlink:href="#svg-link"></use></svg></a>Strategien</h2>
+<ul>
+<li>Long-Term_scheduler
+<ul>
+<li>Entscheidet welche Prozesse zur ready-queue hinzugefügt werden</li>
+</ul>
+</li>
+<li>Welche Prozesse sollen bedient werden?
+<ul>
+<li>Fairness: Kein Prozess soll zu lange warten</li>
+<li>Wichtigkeit: Prozesse mit hoher Priorität sollen bevorzugt werden.</li>
+</ul>
+</li>
+<li>Round Robin</li>
+<li></li>
+</ul>
+<hr>
+<strong>Backlinks</strong>
+<ul>
+<li><a href="/semester-2/notes/ea7m3dmpg0r5un0f05p627b">Betriebssysteme und Systemsoftware</a></li>
+</ul>

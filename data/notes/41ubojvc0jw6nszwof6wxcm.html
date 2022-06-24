@@ -1,0 +1,85 @@
+<h1 id="atomare-operationen"><a aria-hidden="true" class="anchor-heading" href="#atomare-operationen"><svg aria-hidden="true" viewBox="0 0 16 16"><use xlink:href="#svg-link"></use></svg></a>Atomare Operationen</h1>
+<ul>
+<li><a href="https://cdrdv2.intel.com/v1/dl/getContent/671447">Intel</a></li>
+<li><a href="https://www.amd.com/system/files/TechDocs/40332.pdf">AMD</a></li>
+</ul>
+<h1 id="test-and-set-tsl-instruction"><a aria-hidden="true" class="anchor-heading" href="#test-and-set-tsl-instruction"><svg aria-hidden="true" viewBox="0 0 16 16"><use xlink:href="#svg-link"></use></svg></a>Test-and-set: TSL instruction</h1>
+<h2 id="implementierung-des-betretens-und-verlassen-eines-kritischen-bereichs"><a aria-hidden="true" class="anchor-heading" href="#implementierung-des-betretens-und-verlassen-eines-kritischen-bereichs"><svg aria-hidden="true" viewBox="0 0 16 16"><use xlink:href="#svg-link"></use></svg></a>Implementierung des Betretens und Verlassen eines kritischen Bereichs</h2>
+<h3 id="c"><a aria-hidden="true" class="anchor-heading" href="#c"><svg aria-hidden="true" viewBox="0 0 16 16"><use xlink:href="#svg-link"></use></svg></a>C</h3>
+<pre class="language-c"><code class="language-c">bool <span class="token function">test_and_set</span><span class="token punctuation">(</span>bool<span class="token operator">*</span> target<span class="token punctuation">)</span>
+<span class="token punctuation">{</span>
+    bool res <span class="token operator">=</span> <span class="token operator">*</span>target<span class="token punctuation">;</span>
+    <span class="token operator">*</span>target <span class="token operator">=</span> true<span class="token punctuation">;</span>
+    <span class="token keyword">return</span> res<span class="token punctuation">;</span>
+<span class="token punctuation">}</span>
+</code></pre>
+<h3 id="assembler"><a aria-hidden="true" class="anchor-heading" href="#assembler"><svg aria-hidden="true" viewBox="0 0 16 16"><use xlink:href="#svg-link"></use></svg></a>Assembler</h3>
+<pre class="language-asm"><code class="language-asm">enter_region:
+    tsl register, lock
+    cmp register, #0
+    jnz enter_region
+
+    ret
+
+leave_region:
+    mov lock, #0
+    ret
+</code></pre>
+<h1 id="swap"><a aria-hidden="true" class="anchor-heading" href="#swap"><svg aria-hidden="true" viewBox="0 0 16 16"><use xlink:href="#svg-link"></use></svg></a>Swap</h1>
+<h3 id="c-1"><a aria-hidden="true" class="anchor-heading" href="#c-1"><svg aria-hidden="true" viewBox="0 0 16 16"><use xlink:href="#svg-link"></use></svg></a>C</h3>
+<pre class="language-c"><code class="language-c">key <span class="token operator">=</span> true<span class="token punctuation">;</span>
+<span class="token keyword">while</span><span class="token punctuation">(</span>key<span class="token operator">==</span>true<span class="token punctuation">)</span>
+<span class="token punctuation">{</span>
+    <span class="token function">swap</span><span class="token punctuation">(</span><span class="token operator">&#x26;</span>lock<span class="token punctuation">,</span> <span class="token operator">&#x26;</span>key<span class="token punctuation">)</span><span class="token punctuation">;</span>
+<span class="token punctuation">}</span>
+<span class="token comment">/* Kritischer Bereich */</span>
+lock <span class="token operator">=</span> false<span class="token punctuation">;</span>
+</code></pre>
+<h3 id="assembler-1"><a aria-hidden="true" class="anchor-heading" href="#assembler-1"><svg aria-hidden="true" viewBox="0 0 16 16"><use xlink:href="#svg-link"></use></svg></a>Assembler</h3>
+<pre class="language-asm"><code class="language-asm">enter_region:
+    mov register, #1
+    xchg register, lock
+    cmp register, #0
+    jne enter_region
+
+    ret
+
+leave_region:
+    mov lock, #0
+    ret
+</code></pre>
+<h1 id="wait-und-signal"><a aria-hidden="true" class="anchor-heading" href="#wait-und-signal"><svg aria-hidden="true" viewBox="0 0 16 16"><use xlink:href="#svg-link"></use></svg></a>Wait und signal</h1>
+<h3 id="c-2"><a aria-hidden="true" class="anchor-heading" href="#c-2"><svg aria-hidden="true" viewBox="0 0 16 16"><use xlink:href="#svg-link"></use></svg></a>c</h3>
+<pre class="language-c"><code class="language-c">s <span class="token operator">=</span> <span class="token number">1</span><span class="token punctuation">;</span>
+<span class="token keyword">while</span><span class="token punctuation">(</span>s<span class="token punctuation">)</span>
+<span class="token punctuation">{</span>
+    <span class="token keyword">while</span><span class="token punctuation">(</span>s<span class="token operator">==</span><span class="token number">0</span><span class="token punctuation">)</span>
+    <span class="token punctuation">{</span>
+        <span class="token function">__asm</span><span class="token punctuation">(</span><span class="token string">"nop"</span><span class="token punctuation">)</span><span class="token punctuation">;</span>
+    <span class="token punctuation">}</span>
+    s<span class="token operator">=</span>s<span class="token operator">-</span><span class="token number">1</span><span class="token punctuation">;</span>
+<span class="token punctuation">}</span>
+
+<span class="token keyword">void</span> <span class="token function">signal</span><span class="token punctuation">(</span><span class="token punctuation">)</span>
+<span class="token punctuation">{</span>
+    s <span class="token operator">=</span> s <span class="token operator">+</span> <span class="token number">1</span><span class="token punctuation">;</span>
+<span class="token punctuation">}</span>
+</code></pre>
+<h3 id="assembler-2"><a aria-hidden="true" class="anchor-heading" href="#assembler-2"><svg aria-hidden="true" viewBox="0 0 16 16"><use xlink:href="#svg-link"></use></svg></a>Assembler</h3>
+<pre class="language-asm"><code class="language-asm">mutex_lock:
+    tsl register, mutex
+    cmp register, #0
+    jze ok
+    call thread_yield
+    jmp mutex_lock
+ok:
+    ret
+
+leave_region:
+    mov mutex, #0
+</code></pre>
+<hr>
+<strong>Backlinks</strong>
+<ul>
+<li><a href="/semester-2/notes/j0hrsd1q31zskk5hb41llnf">Prozessynchronisation</a></li>
+</ul>

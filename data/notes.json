@@ -1,0 +1,4505 @@
+{
+  "notes": {
+    "403": {
+      "vault": {
+        "fsPath": "vault"
+      },
+      "fname": "403",
+      "id": "403",
+      "title": "This page has not yet sprouted",
+      "schemaStub": false,
+      "type": "note",
+      "updated": 1656074201037,
+      "created": 1656074201037,
+      "desc": "",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": null,
+      "data": {}
+    },
+    "mnd5f0g7rhonsu64f5fjcrh": {
+      "id": "mnd5f0g7rhonsu64f5fjcrh",
+      "title": "2. Semester",
+      "desc": "",
+      "updated": 1655247033976,
+      "created": 1649147616743,
+      "custom": {
+        "nav_order": 0,
+        "permalink": "/"
+      },
+      "fname": "root",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "c5b3115349cc9deb5919fc133f39a1d7",
+      "links": [
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "root",
+            "id": "mnd5f0g7rhonsu64f5fjcrh",
+            "vaultName": "vault"
+          },
+          "value": "BUS",
+          "alias": "Betriebssysteme und Systemsoftware",
+          "position": {
+            "start": {
+              "line": 5,
+              "column": 3,
+              "offset": 191
+            },
+            "end": {
+              "line": 5,
+              "column": 45,
+              "offset": 233
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "BUS"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "root",
+            "id": "mnd5f0g7rhonsu64f5fjcrh",
+            "vaultName": "vault"
+          },
+          "value": "DSAL",
+          "alias": "Datenstrukturen und Algorithmen",
+          "position": {
+            "start": {
+              "line": 6,
+              "column": 3,
+              "offset": 236
+            },
+            "end": {
+              "line": 6,
+              "column": 43,
+              "offset": 276
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "DSAL"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "root",
+            "id": "mnd5f0g7rhonsu64f5fjcrh",
+            "vaultName": "vault"
+          },
+          "value": "FOSAP",
+          "alias": "Formale Systeme, Automaten und Prozesse",
+          "position": {
+            "start": {
+              "line": 7,
+              "column": 3,
+              "offset": 279
+            },
+            "end": {
+              "line": 7,
+              "column": 52,
+              "offset": 328
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "FOSAP"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "root",
+            "id": "mnd5f0g7rhonsu64f5fjcrh",
+            "vaultName": "vault"
+          },
+          "value": "LA",
+          "alias": "Lineare Algebra",
+          "position": {
+            "start": {
+              "line": 8,
+              "column": 3,
+              "offset": 331
+            },
+            "end": {
+              "line": 8,
+              "column": 25,
+              "offset": 353
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "LA"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "root",
+            "id": "mnd5f0g7rhonsu64f5fjcrh",
+            "vaultName": "vault"
+          },
+          "value": "PS",
+          "alias": "Proseminar",
+          "position": {
+            "start": {
+              "line": 9,
+              "column": 3,
+              "offset": 356
+            },
+            "end": {
+              "line": 9,
+              "column": 20,
+              "offset": 373
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "PS"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "root",
+            "id": "mnd5f0g7rhonsu64f5fjcrh",
+            "vaultName": "vault"
+          },
+          "value": "dict",
+          "alias": "Dictionary",
+          "position": {
+            "start": {
+              "line": 10,
+              "column": 3,
+              "offset": 376
+            },
+            "end": {
+              "line": 10,
+              "column": 22,
+              "offset": 395
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "dict"
+          }
+        }
+      ],
+      "anchors": {
+        "module": {
+          "type": "header",
+          "text": "Module",
+          "value": "module",
+          "line": 10,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [
+        "ea7m3dmpg0r5un0f05p627b",
+        "0p70eh688cyzdn8bxxwyt4k",
+        "sw9rbls42fxvtuynvtea5yf",
+        "n2hp765y7aix8pqs9sbes28",
+        "gkq29c1hc0wfqolqse6i2e8",
+        "xt1u0nlwatnmbso2tdmylh9",
+        "k1oe6sqiu6esc2oy9l2pax6"
+      ],
+      "parent": null,
+      "data": {}
+    },
+    "k1oe6sqiu6esc2oy9l2pax6": {
+      "id": "k1oe6sqiu6esc2oy9l2pax6",
+      "title": "Dictionary",
+      "desc": "Jollywap McFunkerdoodlesnickerbottom",
+      "updated": 1655247292252,
+      "created": 1655246978780,
+      "custom": {},
+      "fname": "dict",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "373d9e6c7ea4c42e08fd5d021f476ccb",
+      "links": [
+        {
+          "from": {
+            "fname": "root",
+            "vaultName": "vault"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 10,
+              "column": 3,
+              "offset": 376
+            },
+            "end": {
+              "line": 10,
+              "column": 22,
+              "offset": 395
+            },
+            "indent": []
+          },
+          "value": "dict",
+          "alias": "Dictionary"
+        }
+      ],
+      "anchors": {
+        "among-us": {
+          "type": "header",
+          "text": "Among Us",
+          "value": "among-us",
+          "line": 8,
+          "column": 0,
+          "depth": 1
+        },
+        "names": {
+          "type": "header",
+          "text": "Names",
+          "value": "names",
+          "line": 17,
+          "column": 0,
+          "depth": 1
+        },
+        "morbius": {
+          "type": "header",
+          "text": "Morbius",
+          "value": "morbius",
+          "line": 22,
+          "column": 0,
+          "depth": 1
+        },
+        "meme": {
+          "type": "header",
+          "text": "Meme",
+          "value": "meme",
+          "line": 26,
+          "column": 0,
+          "depth": 1
+        },
+        "german": {
+          "type": "header",
+          "text": "German",
+          "value": "german",
+          "line": 33,
+          "column": 0,
+          "depth": 1
+        }
+      },
+      "children": [],
+      "parent": "mnd5f0g7rhonsu64f5fjcrh",
+      "data": {}
+    },
+    "xt1u0nlwatnmbso2tdmylh9": {
+      "id": "xt1u0nlwatnmbso2tdmylh9",
+      "title": "Proseminar Image Processing",
+      "desc": "",
+      "updated": 1652462264780,
+      "created": 1652452542726,
+      "custom": {},
+      "fname": "PS",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "c2a0a67611d8721c42ae25b924634e38",
+      "links": [
+        {
+          "from": {
+            "fname": "root",
+            "vaultName": "vault"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 9,
+              "column": 3,
+              "offset": 356
+            },
+            "end": {
+              "line": 9,
+              "column": 20,
+              "offset": 373
+            },
+            "indent": []
+          },
+          "value": "PS",
+          "alias": "Proseminar"
+        }
+      ],
+      "anchors": {
+        "scientific-work": {
+          "type": "header",
+          "text": "Scientific work",
+          "value": "scientific-work",
+          "line": 8,
+          "column": 0,
+          "depth": 1
+        },
+        "seminar-report": {
+          "type": "header",
+          "text": "Seminar report",
+          "value": "seminar-report",
+          "line": 9,
+          "column": 0,
+          "depth": 2
+        },
+        "general-guidelines": {
+          "type": "header",
+          "text": "General Guidelines",
+          "value": "general-guidelines",
+          "line": 10,
+          "column": 0,
+          "depth": 3
+        },
+        "scientific-citations": {
+          "type": "header",
+          "text": "Scientific citations",
+          "value": "scientific-citations",
+          "line": 26,
+          "column": 0,
+          "depth": 3
+        },
+        "presentation": {
+          "type": "header",
+          "text": "Presentation",
+          "value": "presentation",
+          "line": 68,
+          "column": 0,
+          "depth": 3
+        },
+        "wichtige-daten": {
+          "type": "header",
+          "text": "Wichtige Daten",
+          "value": "wichtige-daten",
+          "line": 138,
+          "column": 0,
+          "depth": 3
+        }
+      },
+      "children": [],
+      "parent": "mnd5f0g7rhonsu64f5fjcrh",
+      "data": {}
+    },
+    "gkq29c1hc0wfqolqse6i2e8": {
+      "id": "gkq29c1hc0wfqolqse6i2e8",
+      "title": "Lineare Algebra",
+      "desc": "",
+      "updated": 1654700778320,
+      "created": 1649251169254,
+      "custom": {},
+      "fname": "LA",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "dae7625bf3fc1c21c835cd2bed8bff53",
+      "links": [
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "LA",
+            "id": "gkq29c1hc0wfqolqse6i2e8",
+            "vaultName": "vault"
+          },
+          "value": "LA.vektorraeume",
+          "alias": "Vektorräume",
+          "position": {
+            "start": {
+              "line": 3,
+              "column": 4,
+              "offset": 5
+            },
+            "end": {
+              "line": 3,
+              "column": 35,
+              "offset": 36
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "LA.vektorraeume"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "LA",
+            "id": "gkq29c1hc0wfqolqse6i2e8",
+            "vaultName": "vault"
+          },
+          "value": "LA.linearkombi",
+          "alias": "Linearkombination",
+          "position": {
+            "start": {
+              "line": 4,
+              "column": 4,
+              "offset": 40
+            },
+            "end": {
+              "line": 4,
+              "column": 40,
+              "offset": 76
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "LA.linearkombi"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "LA",
+            "id": "gkq29c1hc0wfqolqse6i2e8",
+            "vaultName": "vault"
+          },
+          "value": "LA.lineare_unabhaengikeit",
+          "alias": "Lineare Unabhängigkeit",
+          "position": {
+            "start": {
+              "line": 5,
+              "column": 4,
+              "offset": 80
+            },
+            "end": {
+              "line": 5,
+              "column": 56,
+              "offset": 132
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "LA.lineare_unabhaengikeit"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "LA",
+            "id": "gkq29c1hc0wfqolqse6i2e8",
+            "vaultName": "vault"
+          },
+          "value": "LA.basis",
+          "alias": "Basis eines Vektorraums",
+          "position": {
+            "start": {
+              "line": 6,
+              "column": 4,
+              "offset": 136
+            },
+            "end": {
+              "line": 6,
+              "column": 40,
+              "offset": 172
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "LA.basis"
+          }
+        },
+        {
+          "from": {
+            "fname": "root",
+            "vaultName": "vault"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 8,
+              "column": 3,
+              "offset": 331
+            },
+            "end": {
+              "line": 8,
+              "column": 25,
+              "offset": 353
+            },
+            "indent": []
+          },
+          "value": "LA",
+          "alias": "Lineare Algebra"
+        }
+      ],
+      "anchors": {},
+      "children": [
+        "yx3xmgxwr0e6wh5fimndsur",
+        "lpvqq66ik41dkd1wwujkv8m",
+        "y0iae8lac01iyy5t3bq0myg",
+        "cutdp7yqn6lad4pabdyqd1v"
+      ],
+      "parent": "mnd5f0g7rhonsu64f5fjcrh",
+      "data": {}
+    },
+    "cutdp7yqn6lad4pabdyqd1v": {
+      "id": "cutdp7yqn6lad4pabdyqd1v",
+      "title": "Vektorräume",
+      "desc": "",
+      "updated": 1649596173380,
+      "created": 1649251299260,
+      "custom": {},
+      "fname": "LA.vektorraeume",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "e5b0f78349d01cce962cc8f2c61cb5fa",
+      "links": [
+        {
+          "from": {
+            "fname": "LA",
+            "vaultName": "vault"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 3,
+              "column": 4,
+              "offset": 5
+            },
+            "end": {
+              "line": 3,
+              "column": 35,
+              "offset": 36
+            },
+            "indent": []
+          },
+          "value": "LA.vektorraeume",
+          "alias": "Vektorräume"
+        },
+        {
+          "from": {
+            "fname": "LA.basis",
+            "vaultName": "vault"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 6,
+              "column": 60,
+              "offset": 429
+            },
+            "end": {
+              "line": 6,
+              "column": 91,
+              "offset": 460
+            },
+            "indent": []
+          },
+          "value": "LA.vektorraeume",
+          "alias": "Vektorraums"
+        }
+      ],
+      "anchors": {
+        "setup": {
+          "type": "header",
+          "text": "Setup",
+          "value": "setup",
+          "line": 9,
+          "column": 0,
+          "depth": 1
+        },
+        "definition": {
+          "type": "header",
+          "text": "Definition",
+          "value": "definition",
+          "line": 13,
+          "column": 0,
+          "depth": 1
+        },
+        "k-vektorraum": {
+          "type": "header",
+          "text": "$K$-Vektorraum:",
+          "value": "k-vektorraum",
+          "line": 14,
+          "column": 0,
+          "depth": 2
+        },
+        "terminologien-und-notationen": {
+          "type": "header",
+          "text": "Terminologien und Notationen:",
+          "value": "terminologien-und-notationen",
+          "line": 21,
+          "column": 0,
+          "depth": 2
+        },
+        "vektorraumaxiomeaxiome": {
+          "type": "header",
+          "text": "VektorraumaxiomeAxiome",
+          "value": "vektorraumaxiomeaxiome",
+          "line": 30,
+          "column": 0,
+          "depth": 1
+        },
+        "beispiel": {
+          "type": "header",
+          "text": "Beispiel",
+          "value": "beispiel",
+          "line": 43,
+          "column": 0,
+          "depth": 1
+        },
+        "lemma": {
+          "type": "header",
+          "text": "Lemma",
+          "value": "lemma",
+          "line": 61,
+          "column": 0,
+          "depth": 1
+        },
+        "korollar": {
+          "type": "header",
+          "text": "Korollar",
+          "value": "korollar",
+          "line": 69,
+          "column": 0,
+          "depth": 1
+        },
+        "untervektorraum": {
+          "type": "header",
+          "text": "Untervektorraum",
+          "value": "untervektorraum",
+          "line": 79,
+          "column": 0,
+          "depth": 1
+        }
+      },
+      "children": [],
+      "parent": "gkq29c1hc0wfqolqse6i2e8",
+      "data": {}
+    },
+    "y0iae8lac01iyy5t3bq0myg": {
+      "id": "y0iae8lac01iyy5t3bq0myg",
+      "title": "Linearkombination",
+      "desc": "",
+      "updated": 1649761557141,
+      "created": 1649759267615,
+      "custom": {},
+      "fname": "LA.linearkombi",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "3f49347a120b3167fcd9275f68b0d387",
+      "links": [
+        {
+          "from": {
+            "fname": "LA",
+            "vaultName": "vault"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 4,
+              "column": 4,
+              "offset": 40
+            },
+            "end": {
+              "line": 4,
+              "column": 40,
+              "offset": 76
+            },
+            "indent": []
+          },
+          "value": "LA.linearkombi",
+          "alias": "Linearkombination"
+        }
+      ],
+      "anchors": {
+        "definition": {
+          "type": "header",
+          "text": "Definition",
+          "value": "definition",
+          "line": 8,
+          "column": 0,
+          "depth": 1
+        },
+        "mit-körpern": {
+          "type": "header",
+          "text": "Mit Körpern",
+          "value": "mit-körpern",
+          "line": 15,
+          "column": 0,
+          "depth": 2
+        },
+        "beispiele": {
+          "type": "header",
+          "text": "Beispiele",
+          "value": "beispiele",
+          "line": 20,
+          "column": 0,
+          "depth": 1
+        },
+        "bemerkung-1": {
+          "type": "header",
+          "text": "Bemerkung 1",
+          "value": "bemerkung-1",
+          "line": 23,
+          "column": 0,
+          "depth": 1
+        },
+        "bemerkung-2": {
+          "type": "header",
+          "text": "Bemerkung 2",
+          "value": "bemerkung-2",
+          "line": 30,
+          "column": 0,
+          "depth": 1
+        },
+        "proposition": {
+          "type": "header",
+          "text": "Proposition",
+          "value": "proposition",
+          "line": 36,
+          "column": 0,
+          "depth": 1
+        },
+        "korollar": {
+          "type": "header",
+          "text": "Korollar",
+          "value": "korollar",
+          "line": 46,
+          "column": 0,
+          "depth": 1
+        },
+        "erzeugendensystem": {
+          "type": "header",
+          "text": "Erzeugendensystem:",
+          "value": "erzeugendensystem",
+          "line": 55,
+          "column": 0,
+          "depth": 1
+        },
+        "^na_iv_i": {
+          "type": "block",
+          "value": "na_iv_i",
+          "line": 12,
+          "column": 14
+        },
+        "^n": {
+          "type": "block",
+          "value": "n",
+          "line": 25,
+          "column": 90
+        }
+      },
+      "children": [],
+      "parent": "gkq29c1hc0wfqolqse6i2e8",
+      "data": {}
+    },
+    "lpvqq66ik41dkd1wwujkv8m": {
+      "id": "lpvqq66ik41dkd1wwujkv8m",
+      "title": "Lineare Unabhängigkeit",
+      "desc": "",
+      "updated": 1654700641335,
+      "created": 1650724209376,
+      "custom": {},
+      "fname": "LA.lineare_unabhaengikeit",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "c9a80d67b95f467e681a031b1a6a705e",
+      "links": [
+        {
+          "from": {
+            "fname": "LA",
+            "vaultName": "vault"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 5,
+              "column": 4,
+              "offset": 80
+            },
+            "end": {
+              "line": 5,
+              "column": 56,
+              "offset": 132
+            },
+            "indent": []
+          },
+          "value": "LA.lineare_unabhaengikeit",
+          "alias": "Lineare Unabhängigkeit"
+        },
+        {
+          "from": {
+            "fname": "LA.basis",
+            "vaultName": "vault"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 4,
+              "column": 7,
+              "offset": 144
+            },
+            "end": {
+              "line": 4,
+              "column": 54,
+              "offset": 191
+            },
+            "indent": []
+          },
+          "value": "LA.lineare_unabhaengikeit",
+          "alias": "linear unabhängig"
+        }
+      ],
+      "anchors": {
+        "^n": {
+          "type": "block",
+          "value": "n",
+          "line": 8,
+          "column": 30
+        }
+      },
+      "children": [],
+      "parent": "gkq29c1hc0wfqolqse6i2e8",
+      "data": {}
+    },
+    "yx3xmgxwr0e6wh5fimndsur": {
+      "id": "yx3xmgxwr0e6wh5fimndsur",
+      "title": "Basis eines Vektorraumes",
+      "desc": "",
+      "updated": 1654701631202,
+      "created": 1654700785709,
+      "custom": {},
+      "fname": "LA.basis",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "2509f9aecdd9b87624022fa7851fde9e",
+      "links": [
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "LA.basis",
+            "id": "yx3xmgxwr0e6wh5fimndsur",
+            "vaultName": "vault"
+          },
+          "value": "LA.lineare_unabhaengikeit",
+          "alias": "linear unabhängig",
+          "position": {
+            "start": {
+              "line": 4,
+              "column": 7,
+              "offset": 144
+            },
+            "end": {
+              "line": 4,
+              "column": 54,
+              "offset": 191
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "LA.lineare_unabhaengikeit"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "LA.basis",
+            "id": "yx3xmgxwr0e6wh5fimndsur",
+            "vaultName": "vault"
+          },
+          "value": "LA.vektorraeume",
+          "alias": "Vektorraums",
+          "position": {
+            "start": {
+              "line": 6,
+              "column": 60,
+              "offset": 429
+            },
+            "end": {
+              "line": 6,
+              "column": 91,
+              "offset": 460
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "LA.vektorraeume"
+          }
+        },
+        {
+          "from": {
+            "fname": "LA",
+            "vaultName": "vault"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 6,
+              "column": 4,
+              "offset": 136
+            },
+            "end": {
+              "line": 6,
+              "column": 40,
+              "offset": 172
+            },
+            "indent": []
+          },
+          "value": "LA.basis",
+          "alias": "Basis eines Vektorraums"
+        }
+      ],
+      "anchors": {},
+      "children": [],
+      "parent": "gkq29c1hc0wfqolqse6i2e8",
+      "data": {}
+    },
+    "n2hp765y7aix8pqs9sbes28": {
+      "id": "n2hp765y7aix8pqs9sbes28",
+      "title": "Graphen",
+      "desc": "",
+      "updated": 1655800948684,
+      "created": 1655800948684,
+      "custom": {},
+      "fname": "Graphen",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "45e038875545ef1ff29e8605e8f2bda6",
+      "links": [
+        {
+          "from": {
+            "fname": "DSAL",
+            "vaultName": "vault"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 12,
+              "column": 7,
+              "offset": 382
+            },
+            "end": {
+              "line": 12,
+              "column": 18,
+              "offset": 393
+            },
+            "indent": []
+          },
+          "value": "Graphen",
+          "alias": "Graphen"
+        }
+      ],
+      "anchors": {},
+      "children": [],
+      "parent": "mnd5f0g7rhonsu64f5fjcrh",
+      "data": {}
+    },
+    "sw9rbls42fxvtuynvtea5yf": {
+      "id": "sw9rbls42fxvtuynvtea5yf",
+      "title": "Formale Systeme, Automaten und Prozesse",
+      "desc": "",
+      "updated": 1653395801222,
+      "created": 1649312650121,
+      "custom": {},
+      "fname": "FOSAP",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "9cf60bd2c686550770e14c0c04a69087",
+      "links": [
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "FOSAP",
+            "id": "sw9rbls42fxvtuynvtea5yf",
+            "vaultName": "vault"
+          },
+          "value": "FOSAP.ueberblick",
+          "alias": "Überblick",
+          "position": {
+            "start": {
+              "line": 3,
+              "column": 4,
+              "offset": 46
+            },
+            "end": {
+              "line": 3,
+              "column": 34,
+              "offset": 76
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "FOSAP.ueberblick"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "FOSAP",
+            "id": "sw9rbls42fxvtuynvtea5yf",
+            "vaultName": "vault"
+          },
+          "value": "FOSAP.DEA",
+          "alias": "Deterministische Endliche Automaten",
+          "position": {
+            "start": {
+              "line": 4,
+              "column": 4,
+              "offset": 80
+            },
+            "end": {
+              "line": 4,
+              "column": 53,
+              "offset": 129
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "FOSAP.DEA"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "FOSAP",
+            "id": "sw9rbls42fxvtuynvtea5yf",
+            "vaultName": "vault"
+          },
+          "value": "FOSAP.EA",
+          "alias": "Endliche Automaten",
+          "position": {
+            "start": {
+              "line": 5,
+              "column": 4,
+              "offset": 133
+            },
+            "end": {
+              "line": 5,
+              "column": 35,
+              "offset": 164
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "FOSAP.EA"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "FOSAP",
+            "id": "sw9rbls42fxvtuynvtea5yf",
+            "vaultName": "vault"
+          },
+          "value": "FOSAP.sprache",
+          "alias": "Sprachen",
+          "position": {
+            "start": {
+              "line": 6,
+              "column": 4,
+              "offset": 168
+            },
+            "end": {
+              "line": 6,
+              "column": 30,
+              "offset": 194
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "FOSAP.sprache"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "FOSAP",
+            "id": "sw9rbls42fxvtuynvtea5yf",
+            "vaultName": "vault"
+          },
+          "value": "FOSAP.NFA",
+          "alias": "Nichtdeterministische Endliche Automaten",
+          "position": {
+            "start": {
+              "line": 7,
+              "column": 4,
+              "offset": 198
+            },
+            "end": {
+              "line": 7,
+              "column": 58,
+              "offset": 252
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "FOSAP.NFA"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "FOSAP",
+            "id": "sw9rbls42fxvtuynvtea5yf",
+            "vaultName": "vault"
+          },
+          "value": "FOSAP.regulSprachen",
+          "alias": "FOSAP.regulSprachen",
+          "position": {
+            "start": {
+              "line": 8,
+              "column": 4,
+              "offset": 256
+            },
+            "end": {
+              "line": 8,
+              "column": 27,
+              "offset": 279
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "FOSAP.regulSprachen"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "FOSAP",
+            "id": "sw9rbls42fxvtuynvtea5yf",
+            "vaultName": "vault"
+          },
+          "value": "FOSAP.regulSprachen.alg",
+          "alias": "Algorithmen über reguläre Sprachen",
+          "position": {
+            "start": {
+              "line": 9,
+              "column": 7,
+              "offset": 286
+            },
+            "end": {
+              "line": 9,
+              "column": 69,
+              "offset": 348
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "FOSAP.regulSprachen.alg"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "FOSAP",
+            "id": "sw9rbls42fxvtuynvtea5yf",
+            "vaultName": "vault"
+          },
+          "value": "FOSAP.kontextfrei",
+          "alias": "Kontextfreie Grammatiken",
+          "position": {
+            "start": {
+              "line": 10,
+              "column": 4,
+              "offset": 352
+            },
+            "end": {
+              "line": 10,
+              "column": 50,
+              "offset": 398
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "FOSAP.kontextfrei"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "FOSAP",
+            "id": "sw9rbls42fxvtuynvtea5yf",
+            "vaultName": "vault"
+          },
+          "value": "FOSAP.tut.1",
+          "alias": "Erstes Tutorium",
+          "position": {
+            "start": {
+              "line": 14,
+              "column": 4,
+              "offset": 416
+            },
+            "end": {
+              "line": 14,
+              "column": 35,
+              "offset": 447
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "FOSAP.tut.1"
+          }
+        },
+        {
+          "from": {
+            "fname": "root",
+            "vaultName": "vault"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 7,
+              "column": 3,
+              "offset": 279
+            },
+            "end": {
+              "line": 7,
+              "column": 52,
+              "offset": 328
+            },
+            "indent": []
+          },
+          "value": "FOSAP",
+          "alias": "Formale Systeme, Automaten und Prozesse"
+        }
+      ],
+      "anchors": {
+        "formale-systeme-automaten-und-prozesse": {
+          "type": "header",
+          "text": "Formale Systeme, Automaten und Prozesse",
+          "value": "formale-systeme-automaten-und-prozesse",
+          "line": 8,
+          "column": 0,
+          "depth": 1
+        },
+        "tutorium": {
+          "type": "header",
+          "text": "Tutorium",
+          "value": "tutorium",
+          "line": 19,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [
+        "wo161knnxca4andavb1d2g3",
+        "jldco7rp0fpn9z7stpxh5pp",
+        "pkpf710eccda2mkor5ggk8p",
+        "o1n2rwt7hbyj7quzayf7tab",
+        "gaoww6pfwoli8l6kw7sxkpx",
+        "oe241jb9h8q8qqkm146bcuo",
+        "k1cv3nh1q6m1td4s9akpo7r",
+        "aelcpbbeggd8ugg2f37nedd"
+      ],
+      "parent": "mnd5f0g7rhonsu64f5fjcrh",
+      "data": {}
+    },
+    "aelcpbbeggd8ugg2f37nedd": {
+      "fname": "FOSAP.tut",
+      "stub": true,
+      "vault": {
+        "fsPath": "vault"
+      },
+      "schemaStub": false,
+      "type": "note",
+      "updated": 1656074200987,
+      "created": 1656074200987,
+      "id": "aelcpbbeggd8ugg2f37nedd",
+      "desc": "",
+      "links": [],
+      "anchors": {},
+      "children": [
+        "7sn6lbx4m1jmqzyi1y3426u"
+      ],
+      "parent": "sw9rbls42fxvtuynvtea5yf",
+      "data": {},
+      "title": "tut"
+    },
+    "7sn6lbx4m1jmqzyi1y3426u": {
+      "id": "7sn6lbx4m1jmqzyi1y3426u",
+      "title": "Erstes Tutorium",
+      "desc": "",
+      "updated": 1650455614617,
+      "created": 1650450831445,
+      "custom": {},
+      "fname": "FOSAP.tut.1",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "0c3840d6877646db0ee2ffd142dddfef",
+      "links": [
+        {
+          "from": {
+            "fname": "FOSAP",
+            "vaultName": "vault"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 14,
+              "column": 4,
+              "offset": 416
+            },
+            "end": {
+              "line": 14,
+              "column": 35,
+              "offset": 447
+            },
+            "indent": []
+          },
+          "value": "FOSAP.tut.1",
+          "alias": "Erstes Tutorium"
+        }
+      ],
+      "anchors": {
+        "1": {
+          "type": "header",
+          "text": "1)",
+          "value": "1",
+          "line": 8,
+          "column": 0,
+          "depth": 2
+        },
+        "2": {
+          "type": "header",
+          "text": "2)",
+          "value": "2",
+          "line": 28,
+          "column": 0,
+          "depth": 2
+        },
+        "4": {
+          "type": "header",
+          "text": "4)",
+          "value": "4",
+          "line": 49,
+          "column": 0,
+          "depth": 2
+        },
+        "a": {
+          "type": "header",
+          "text": "a)",
+          "value": "a",
+          "line": 9,
+          "column": 0,
+          "depth": 3
+        },
+        "b": {
+          "type": "header",
+          "text": "b)",
+          "value": "b",
+          "line": 16,
+          "column": 0,
+          "depth": 3
+        },
+        "c": {
+          "type": "header",
+          "text": "c)",
+          "value": "c",
+          "line": 20,
+          "column": 0,
+          "depth": 3
+        },
+        "d": {
+          "type": "header",
+          "text": "d)",
+          "value": "d",
+          "line": 24,
+          "column": 0,
+          "depth": 3
+        },
+        "a-1": {
+          "type": "header",
+          "text": "a)",
+          "value": "a-1",
+          "line": 29,
+          "column": 0,
+          "depth": 3
+        },
+        "c-1": {
+          "type": "header",
+          "text": "c)",
+          "value": "c-1",
+          "line": 31,
+          "column": 0,
+          "depth": 3
+        },
+        "a-2": {
+          "type": "header",
+          "text": "a)",
+          "value": "a-2",
+          "line": 50,
+          "column": 0,
+          "depth": 3
+        },
+        "b-1": {
+          "type": "header",
+          "text": "b)",
+          "value": "b-1",
+          "line": 52,
+          "column": 0,
+          "depth": 3
+        }
+      },
+      "children": [],
+      "parent": "aelcpbbeggd8ugg2f37nedd",
+      "data": {}
+    },
+    "k1cv3nh1q6m1td4s9akpo7r": {
+      "id": "k1cv3nh1q6m1td4s9akpo7r",
+      "title": "Überblick",
+      "desc": "",
+      "updated": 1649313208794,
+      "created": 1649313208794,
+      "custom": {},
+      "fname": "FOSAP.ueberblick",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "012ff55b59fc3a9173629325c5ca85ff",
+      "links": [
+        {
+          "from": {
+            "fname": "FOSAP",
+            "vaultName": "vault"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 3,
+              "column": 4,
+              "offset": 46
+            },
+            "end": {
+              "line": 3,
+              "column": 34,
+              "offset": 76
+            },
+            "indent": []
+          },
+          "value": "FOSAP.ueberblick",
+          "alias": "Überblick"
+        }
+      ],
+      "anchors": {
+        "formale-systeme-und-modelle": {
+          "type": "header",
+          "text": "Formale Systeme und Modelle",
+          "value": "formale-systeme-und-modelle",
+          "line": 8,
+          "column": 0,
+          "depth": 1
+        },
+        "zentrale-fragen": {
+          "type": "header",
+          "text": "Zentrale Fragen",
+          "value": "zentrale-fragen",
+          "line": 17,
+          "column": 0,
+          "depth": 2
+        },
+        "automaten": {
+          "type": "header",
+          "text": "Automaten",
+          "value": "automaten",
+          "line": 23,
+          "column": 0,
+          "depth": 2
+        },
+        "grammatiken": {
+          "type": "header",
+          "text": "Grammatiken",
+          "value": "grammatiken",
+          "line": 26,
+          "column": 0,
+          "depth": 2
+        },
+        "nebenläufige-systene": {
+          "type": "header",
+          "text": "Nebenläufige Systene",
+          "value": "nebenläufige-systene",
+          "line": 29,
+          "column": 0,
+          "depth": 2
+        },
+        "mathematische-methoden": {
+          "type": "header",
+          "text": "Mathematische Methoden",
+          "value": "mathematische-methoden",
+          "line": 32,
+          "column": 0,
+          "depth": 2
+        },
+        "korrektheit": {
+          "type": "header",
+          "text": "Korrektheit",
+          "value": "korrektheit",
+          "line": 37,
+          "column": 0,
+          "depth": 2
+        },
+        "automatisierung": {
+          "type": "header",
+          "text": "Automatisierung",
+          "value": "automatisierung",
+          "line": 40,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [],
+      "parent": "sw9rbls42fxvtuynvtea5yf",
+      "data": {}
+    },
+    "oe241jb9h8q8qqkm146bcuo": {
+      "id": "oe241jb9h8q8qqkm146bcuo",
+      "title": "Sprachen",
+      "desc": "",
+      "updated": 1649857002425,
+      "created": 1649769189570,
+      "custom": {},
+      "fname": "FOSAP.sprache",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "a18ae16073a8d1740d835d8779c09e88",
+      "links": [
+        {
+          "from": {
+            "fname": "FOSAP",
+            "vaultName": "vault"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 6,
+              "column": 4,
+              "offset": 168
+            },
+            "end": {
+              "line": 6,
+              "column": 30,
+              "offset": 194
+            },
+            "indent": []
+          },
+          "value": "FOSAP.sprache",
+          "alias": "Sprachen"
+        }
+      ],
+      "anchors": {
+        "verkettung": {
+          "type": "header",
+          "text": "Verkettung",
+          "value": "verkettung",
+          "line": 8,
+          "column": 0,
+          "depth": 1
+        },
+        "definition-123": {
+          "type": "header",
+          "text": "Definition 1.23",
+          "value": "definition-123",
+          "line": 11,
+          "column": 0,
+          "depth": 2
+        },
+        "definition-126": {
+          "type": "header",
+          "text": "Definition 1.26",
+          "value": "definition-126",
+          "line": 18,
+          "column": 0,
+          "depth": 2
+        },
+        "beobachtung": {
+          "type": "header",
+          "text": "Beobachtung",
+          "value": "beobachtung",
+          "line": 23,
+          "column": 0,
+          "depth": 3
+        },
+        "beispiele": {
+          "type": "header",
+          "text": "Beispiele",
+          "value": "beispiele",
+          "line": 27,
+          "column": 0,
+          "depth": 1
+        },
+        "beweise": {
+          "type": "header",
+          "text": "Beweise",
+          "value": "beweise",
+          "line": 39,
+          "column": 0,
+          "depth": 2
+        },
+        "zeige-oder-widerlege": {
+          "type": "header",
+          "text": "Zeige oder widerlege",
+          "value": "zeige-oder-widerlege",
+          "line": 40,
+          "column": 0,
+          "depth": 3
+        },
+        "^nL": {
+          "type": "block",
+          "value": "nL",
+          "line": 15,
+          "column": 23
+        },
+        "^n": {
+          "type": "block",
+          "value": "n",
+          "line": 21,
+          "column": 43
+        }
+      },
+      "children": [],
+      "parent": "sw9rbls42fxvtuynvtea5yf",
+      "data": {}
+    },
+    "gaoww6pfwoli8l6kw7sxkpx": {
+      "id": "gaoww6pfwoli8l6kw7sxkpx",
+      "title": "Reguläre Sprachen",
+      "desc": "",
+      "updated": 1651583162937,
+      "created": 1650976425062,
+      "custom": {},
+      "fname": "FOSAP.regulSprachen",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "8620c5684e3ffc387de41b9b6f7c5b48",
+      "links": [
+        {
+          "from": {
+            "fname": "FOSAP",
+            "vaultName": "vault"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 8,
+              "column": 4,
+              "offset": 256
+            },
+            "end": {
+              "line": 8,
+              "column": 27,
+              "offset": 279
+            },
+            "indent": []
+          },
+          "value": "FOSAP.regulSprachen",
+          "alias": "FOSAP.regulSprachen"
+        }
+      ],
+      "anchors": {
+        "basisregeln": {
+          "type": "header",
+          "text": "Basisregeln",
+          "value": "basisregeln",
+          "line": 10,
+          "column": 0,
+          "depth": 2
+        },
+        "rekursive-regeln": {
+          "type": "header",
+          "text": "Rekursive Regeln",
+          "value": "rekursive-regeln",
+          "line": 15,
+          "column": 0,
+          "depth": 2
+        },
+        "pumping-lemma": {
+          "type": "header",
+          "text": "Pumping-Lemma",
+          "value": "pumping-lemma",
+          "line": 25,
+          "column": 0,
+          "depth": 2
+        },
+        "myhill-nerode-äuivalenz": {
+          "type": "header",
+          "text": "Myhill-Nerode-Äuivalenz",
+          "value": "myhill-nerode-äuivalenz",
+          "line": 31,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [
+        "kcx3p6z78upuds5wf0y2w9m"
+      ],
+      "parent": "sw9rbls42fxvtuynvtea5yf",
+      "data": {}
+    },
+    "kcx3p6z78upuds5wf0y2w9m": {
+      "id": "kcx3p6z78upuds5wf0y2w9m",
+      "title": "Algoritmen über reguläre Sprachen",
+      "desc": "",
+      "updated": 1651585343123,
+      "created": 1651584289731,
+      "custom": {},
+      "fname": "FOSAP.regulSprachen.alg",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "bb05f08ec714f2e63862559666b5d731",
+      "links": [
+        {
+          "from": {
+            "fname": "FOSAP",
+            "vaultName": "vault"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 9,
+              "column": 7,
+              "offset": 286
+            },
+            "end": {
+              "line": 9,
+              "column": 69,
+              "offset": 348
+            },
+            "indent": []
+          },
+          "value": "FOSAP.regulSprachen.alg",
+          "alias": "Algorithmen über reguläre Sprachen"
+        }
+      ],
+      "anchors": {
+        "minimierung-von-dfa": {
+          "type": "header",
+          "text": "Minimierung von DFA",
+          "value": "minimierung-von-dfa",
+          "line": 8,
+          "column": 0,
+          "depth": 1
+        },
+        "notation": {
+          "type": "header",
+          "text": "Notation",
+          "value": "notation",
+          "line": 11,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [],
+      "parent": "gaoww6pfwoli8l6kw7sxkpx",
+      "data": {}
+    },
+    "o1n2rwt7hbyj7quzayf7tab": {
+      "id": "o1n2rwt7hbyj7quzayf7tab",
+      "title": "Kontextfreie Grammatiken",
+      "desc": "",
+      "updated": 1653396594022,
+      "created": 1653395806456,
+      "custom": {},
+      "fname": "FOSAP.kontextfrei",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "b698c315c793b36aa540d2aadbd1e3fa",
+      "links": [
+        {
+          "from": {
+            "fname": "FOSAP",
+            "vaultName": "vault"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 10,
+              "column": 4,
+              "offset": 352
+            },
+            "end": {
+              "line": 10,
+              "column": 50,
+              "offset": 398
+            },
+            "indent": []
+          },
+          "value": "FOSAP.kontextfrei",
+          "alias": "Kontextfreie Grammatiken"
+        }
+      ],
+      "anchors": {
+        "chomsky-normalform": {
+          "type": "header",
+          "text": "Chomsky-Normalform",
+          "value": "chomsky-normalform",
+          "line": 13,
+          "column": 0,
+          "depth": 1
+        },
+        "umwandlung": {
+          "type": "header",
+          "text": "Umwandlung",
+          "value": "umwandlung",
+          "line": 19,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [],
+      "parent": "sw9rbls42fxvtuynvtea5yf",
+      "data": {}
+    },
+    "pkpf710eccda2mkor5ggk8p": {
+      "id": "pkpf710eccda2mkor5ggk8p",
+      "title": "Nichtdeterministische Endliche Automaten",
+      "desc": "",
+      "updated": 1650376200900,
+      "created": 1650371902199,
+      "custom": {},
+      "fname": "FOSAP.NFA",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "6c81feef86430d8b23191ef7400e2acd",
+      "links": [
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "FOSAP.NFA",
+            "id": "pkpf710eccda2mkor5ggk8p",
+            "vaultName": "vault"
+          },
+          "value": "FOSAP.DEA",
+          "alias": "DEA",
+          "position": {
+            "start": {
+              "line": 2,
+              "column": 18,
+              "offset": 18
+            },
+            "end": {
+              "line": 2,
+              "column": 35,
+              "offset": 35
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "FOSAP.DEA"
+          }
+        },
+        {
+          "from": {
+            "fname": "FOSAP",
+            "vaultName": "vault"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 7,
+              "column": 4,
+              "offset": 198
+            },
+            "end": {
+              "line": 7,
+              "column": 58,
+              "offset": 252
+            },
+            "indent": []
+          },
+          "value": "FOSAP.NFA",
+          "alias": "Nichtdeterministische Endliche Automaten"
+        }
+      ],
+      "anchors": {},
+      "children": [],
+      "parent": "sw9rbls42fxvtuynvtea5yf",
+      "data": {}
+    },
+    "jldco7rp0fpn9z7stpxh5pp": {
+      "id": "jldco7rp0fpn9z7stpxh5pp",
+      "title": "Endliche Automaten",
+      "desc": "",
+      "updated": 1649767229650,
+      "created": 1649766772871,
+      "custom": {},
+      "fname": "FOSAP.EA",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "f45c8731858be3d3a3e0c1a33a285955",
+      "links": [
+        {
+          "from": {
+            "fname": "FOSAP",
+            "vaultName": "vault"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 5,
+              "column": 4,
+              "offset": 133
+            },
+            "end": {
+              "line": 5,
+              "column": 35,
+              "offset": 164
+            },
+            "indent": []
+          },
+          "value": "FOSAP.EA",
+          "alias": "Endliche Automaten"
+        }
+      ],
+      "anchors": {},
+      "children": [],
+      "parent": "sw9rbls42fxvtuynvtea5yf",
+      "data": {}
+    },
+    "wo161knnxca4andavb1d2g3": {
+      "id": "wo161knnxca4andavb1d2g3",
+      "title": "Deterministische Endliche Automaten",
+      "desc": "",
+      "updated": 1649771864108,
+      "created": 1649315714532,
+      "custom": {},
+      "fname": "FOSAP.DEA",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "31fb9f0b6406ca5a0dcc4c16ed18206f",
+      "links": [
+        {
+          "from": {
+            "fname": "FOSAP",
+            "vaultName": "vault"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 4,
+              "column": 4,
+              "offset": 80
+            },
+            "end": {
+              "line": 4,
+              "column": 53,
+              "offset": 129
+            },
+            "indent": []
+          },
+          "value": "FOSAP.DEA",
+          "alias": "Deterministische Endliche Automaten"
+        },
+        {
+          "from": {
+            "fname": "FOSAP.NFA",
+            "vaultName": "vault"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 2,
+              "column": 18,
+              "offset": 18
+            },
+            "end": {
+              "line": 2,
+              "column": 35,
+              "offset": 35
+            },
+            "indent": []
+          },
+          "value": "FOSAP.DEA",
+          "alias": "DEA"
+        }
+      ],
+      "anchors": {
+        "endliche-automaten": {
+          "type": "header",
+          "text": "Endliche Automaten",
+          "value": "endliche-automaten",
+          "line": 8,
+          "column": 0,
+          "depth": 2
+        },
+        "mustererkennung": {
+          "type": "header",
+          "text": "Mustererkennung",
+          "value": "mustererkennung",
+          "line": 13,
+          "column": 0,
+          "depth": 3
+        },
+        "teilbarkeit-durch-3": {
+          "type": "header",
+          "text": "Teilbarkeit durch 3",
+          "value": "teilbarkeit-durch-3",
+          "line": 24,
+          "column": 0,
+          "depth": 3
+        },
+        "alphabet": {
+          "type": "header",
+          "text": "Alphabet",
+          "value": "alphabet",
+          "line": 40,
+          "column": 0,
+          "depth": 2
+        },
+        "notation": {
+          "type": "header",
+          "text": "Notation",
+          "value": "notation",
+          "line": 45,
+          "column": 0,
+          "depth": 3
+        },
+        "beispiele": {
+          "type": "header",
+          "text": "Beispiele",
+          "value": "beispiele",
+          "line": 49,
+          "column": 0,
+          "depth": 3
+        },
+        "wörter": {
+          "type": "header",
+          "text": "Wörter",
+          "value": "wörter",
+          "line": 53,
+          "column": 0,
+          "depth": 2
+        },
+        "notation-1": {
+          "type": "header",
+          "text": "Notation",
+          "value": "notation-1",
+          "line": 54,
+          "column": 0,
+          "depth": 3
+        },
+        "sprache": {
+          "type": "header",
+          "text": "Sprache",
+          "value": "sprache",
+          "line": 58,
+          "column": 0,
+          "depth": 2
+        },
+        "dea": {
+          "type": "header",
+          "text": "DEA",
+          "value": "dea",
+          "line": 61,
+          "column": 0,
+          "depth": 1
+        },
+        "dea-ist-die-binäre-zahlenfolge-durch-3-teilbar": {
+          "type": "header",
+          "text": "DEA: ist die binäre Zahlenfolge durch 3 teilbar",
+          "value": "dea-ist-die-binäre-zahlenfolge-durch-3-teilbar",
+          "line": 69,
+          "column": 0,
+          "depth": 2
+        },
+        "beweis": {
+          "type": "header",
+          "text": "Beweis",
+          "value": "beweis",
+          "line": 82,
+          "column": 0,
+          "depth": 3
+        },
+        "lemma": {
+          "type": "header",
+          "text": "Lemma",
+          "value": "lemma",
+          "line": 84,
+          "column": 0,
+          "depth": 4
+        },
+        "beweis-1": {
+          "type": "header",
+          "text": "Beweis",
+          "value": "beweis-1",
+          "line": 89,
+          "column": 0,
+          "depth": 5
+        },
+        "satz-129": {
+          "type": "header",
+          "text": "Satz 1.29",
+          "value": "satz-129",
+          "line": 95,
+          "column": 0,
+          "depth": 1
+        }
+      },
+      "children": [],
+      "parent": "sw9rbls42fxvtuynvtea5yf",
+      "data": {}
+    },
+    "0p70eh688cyzdn8bxxwyt4k": {
+      "id": "0p70eh688cyzdn8bxxwyt4k",
+      "title": "Datenstrukturen und Algorithmen",
+      "desc": "",
+      "updated": 1655198314975,
+      "created": 1649147877567,
+      "custom": {},
+      "fname": "DSAL",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "ca4d12ccd2b97657d8e1c882d77c3ea3",
+      "links": [
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "DSAL",
+            "id": "0p70eh688cyzdn8bxxwyt4k",
+            "vaultName": "vault"
+          },
+          "value": "DSAL.ueberblick",
+          "alias": "Überblick",
+          "position": {
+            "start": {
+              "line": 2,
+              "column": 4,
+              "offset": 4
+            },
+            "end": {
+              "line": 2,
+              "column": 33,
+              "offset": 33
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "DSAL.ueberblick"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "DSAL",
+            "id": "0p70eh688cyzdn8bxxwyt4k",
+            "vaultName": "vault"
+          },
+          "value": "DSAL.abstraktedatenstrukturen",
+          "alias": "DSAL.abstraktedatenstrukturen",
+          "position": {
+            "start": {
+              "line": 4,
+              "column": 7,
+              "offset": 59
+            },
+            "end": {
+              "line": 4,
+              "column": 40,
+              "offset": 92
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "DSAL.abstraktedatenstrukturen"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "DSAL",
+            "id": "0p70eh688cyzdn8bxxwyt4k",
+            "vaultName": "vault"
+          },
+          "value": "DSAL.linearedatenstrukturen",
+          "alias": "DSAL.linearedatenstrukturen",
+          "position": {
+            "start": {
+              "line": 5,
+              "column": 7,
+              "offset": 99
+            },
+            "end": {
+              "line": 5,
+              "column": 38,
+              "offset": 130
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "DSAL.linearedatenstrukturen"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "DSAL",
+            "id": "0p70eh688cyzdn8bxxwyt4k",
+            "vaultName": "vault"
+          },
+          "value": "DSAL.baeume",
+          "alias": "Bäume",
+          "position": {
+            "start": {
+              "line": 6,
+              "column": 7,
+              "offset": 137
+            },
+            "end": {
+              "line": 6,
+              "column": 28,
+              "offset": 158
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "DSAL.baeume"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "DSAL",
+            "id": "0p70eh688cyzdn8bxxwyt4k",
+            "vaultName": "vault"
+          },
+          "value": "DSAL.baeume.rsbaum",
+          "alias": "Rot-Schwarz-Bäume",
+          "position": {
+            "start": {
+              "line": 7,
+              "column": 10,
+              "offset": 168
+            },
+            "end": {
+              "line": 7,
+              "column": 50,
+              "offset": 208
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "DSAL.baeume.rsbaum"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "DSAL",
+            "id": "0p70eh688cyzdn8bxxwyt4k",
+            "vaultName": "vault"
+          },
+          "value": "DSAL.baeume.bbaum",
+          "alias": "B-Bäume",
+          "position": {
+            "start": {
+              "line": 8,
+              "column": 10,
+              "offset": 218
+            },
+            "end": {
+              "line": 8,
+              "column": 39,
+              "offset": 247
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "DSAL.baeume.bbaum"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "DSAL",
+            "id": "0p70eh688cyzdn8bxxwyt4k",
+            "vaultName": "vault"
+          },
+          "value": "DSAL.prioschlange",
+          "alias": "Prioritätsschlangen",
+          "position": {
+            "start": {
+              "line": 9,
+              "column": 7,
+              "offset": 254
+            },
+            "end": {
+              "line": 9,
+              "column": 48,
+              "offset": 295
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "DSAL.prioschlange"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "DSAL",
+            "id": "0p70eh688cyzdn8bxxwyt4k",
+            "vaultName": "vault"
+          },
+          "value": "DSAL.graphvonf",
+          "alias": "Graphen",
+          "position": {
+            "start": {
+              "line": 10,
+              "column": 7,
+              "offset": 302
+            },
+            "end": {
+              "line": 10,
+              "column": 33,
+              "offset": 328
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "DSAL.graphvonf"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "DSAL",
+            "id": "0p70eh688cyzdn8bxxwyt4k",
+            "vaultName": "vault"
+          },
+          "value": "DSAL.Unionfind",
+          "alias": "Union-Find-Strukturen",
+          "position": {
+            "start": {
+              "line": 11,
+              "column": 7,
+              "offset": 335
+            },
+            "end": {
+              "line": 11,
+              "column": 47,
+              "offset": 375
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "DSAL.Unionfind"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "DSAL",
+            "id": "0p70eh688cyzdn8bxxwyt4k",
+            "vaultName": "vault"
+          },
+          "value": "Graphen",
+          "alias": "Graphen",
+          "position": {
+            "start": {
+              "line": 12,
+              "column": 7,
+              "offset": 382
+            },
+            "end": {
+              "line": 12,
+              "column": 18,
+              "offset": 393
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "Graphen"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "DSAL",
+            "id": "0p70eh688cyzdn8bxxwyt4k",
+            "vaultName": "vault"
+          },
+          "value": "DSAL.analyseVonAlgorithmen",
+          "alias": "Analyse",
+          "position": {
+            "start": {
+              "line": 14,
+              "column": 7,
+              "offset": 415
+            },
+            "end": {
+              "line": 14,
+              "column": 45,
+              "offset": 453
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "DSAL.analyseVonAlgorithmen"
+          }
+        },
+        {
+          "from": {
+            "fname": "root",
+            "vaultName": "vault"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 6,
+              "column": 3,
+              "offset": 236
+            },
+            "end": {
+              "line": 6,
+              "column": 43,
+              "offset": 276
+            },
+            "indent": []
+          },
+          "value": "DSAL",
+          "alias": "Datenstrukturen und Algorithmen"
+        }
+      ],
+      "anchors": {},
+      "children": [
+        "9z57462obeqqdv1fbifz9h3",
+        "usuwijfnfz44i3bvexmb3vr",
+        "86qyjdsuf73nhr1v9lk61uv",
+        "zvbaxijpphhgr878gipd8mp",
+        "k4oh8mvhsd8ehidkoc7ubcx",
+        "l19obf46ny8oevfoomwnent",
+        "s0htkkk3iv8jau2rmrzkzme",
+        "vdvyuts01wn4953l0rbhk2a"
+      ],
+      "parent": "mnd5f0g7rhonsu64f5fjcrh",
+      "data": {}
+    },
+    "vdvyuts01wn4953l0rbhk2a": {
+      "id": "vdvyuts01wn4953l0rbhk2a",
+      "title": "Überblick",
+      "desc": "",
+      "updated": 1649766841642,
+      "created": 1649149659835,
+      "custom": {},
+      "fname": "DSAL.ueberblick",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "4200d8497b7caa4f7f360fa36627bac4",
+      "links": [
+        {
+          "from": {
+            "fname": "DSAL",
+            "vaultName": "vault"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 2,
+              "column": 4,
+              "offset": 4
+            },
+            "end": {
+              "line": 2,
+              "column": 33,
+              "offset": 33
+            },
+            "indent": []
+          },
+          "value": "DSAL.ueberblick",
+          "alias": "Überblick"
+        }
+      ],
+      "anchors": {
+        "analyse": {
+          "type": "header",
+          "text": "Analyse",
+          "value": "analyse",
+          "line": 16,
+          "column": 0,
+          "depth": 1
+        },
+        "komplexität": {
+          "type": "header",
+          "text": "Komplexität",
+          "value": "komplexität",
+          "line": 25,
+          "column": 0,
+          "depth": 1
+        },
+        "effizienz": {
+          "type": "header",
+          "text": "Effizienz",
+          "value": "effizienz",
+          "line": 31,
+          "column": 0,
+          "depth": 1
+        }
+      },
+      "children": [],
+      "parent": "0p70eh688cyzdn8bxxwyt4k",
+      "data": {}
+    },
+    "s0htkkk3iv8jau2rmrzkzme": {
+      "id": "s0htkkk3iv8jau2rmrzkzme",
+      "title": "Prioritätsschlangen",
+      "desc": "",
+      "updated": 1650530446655,
+      "created": 1650358885055,
+      "custom": {},
+      "fname": "DSAL.prioschlange",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "f8071a1e548687a18626115ebcdf0ac4",
+      "links": [
+        {
+          "from": {
+            "fname": "DSAL",
+            "vaultName": "vault"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 9,
+              "column": 7,
+              "offset": 254
+            },
+            "end": {
+              "line": 9,
+              "column": 48,
+              "offset": 295
+            },
+            "indent": []
+          },
+          "value": "DSAL.prioschlange",
+          "alias": "Prioritätsschlangen"
+        }
+      ],
+      "anchors": {},
+      "children": [],
+      "parent": "0p70eh688cyzdn8bxxwyt4k",
+      "data": {}
+    },
+    "l19obf46ny8oevfoomwnent": {
+      "id": "l19obf46ny8oevfoomwnent",
+      "title": "Lineare Datenstrukturen",
+      "desc": "",
+      "updated": 1649766822542,
+      "created": 1649320772516,
+      "custom": {},
+      "fname": "DSAL.linearedatenstrukturen",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "e3b5eb10232b8229df6a23767e781ac8",
+      "links": [
+        {
+          "from": {
+            "fname": "DSAL",
+            "vaultName": "vault"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 5,
+              "column": 7,
+              "offset": 99
+            },
+            "end": {
+              "line": 5,
+              "column": 38,
+              "offset": 130
+            },
+            "indent": []
+          },
+          "value": "DSAL.linearedatenstrukturen",
+          "alias": "DSAL.linearedatenstrukturen"
+        }
+      ],
+      "anchors": {
+        "listen": {
+          "type": "header",
+          "text": "Listen",
+          "value": "listen",
+          "line": 10,
+          "column": 0,
+          "depth": 2
+        },
+        "stack": {
+          "type": "header",
+          "text": "Stack",
+          "value": "stack",
+          "line": 32,
+          "column": 0,
+          "depth": 3
+        },
+        "suche-im-labyrinth": {
+          "type": "header",
+          "text": "Suche im Labyrinth",
+          "value": "suche-im-labyrinth",
+          "line": 37,
+          "column": 0,
+          "depth": 1
+        },
+        "baum": {
+          "type": "header",
+          "text": "Baum",
+          "value": "baum",
+          "line": 41,
+          "column": 0,
+          "depth": 1
+        }
+      },
+      "children": [],
+      "parent": "0p70eh688cyzdn8bxxwyt4k",
+      "data": {}
+    },
+    "k4oh8mvhsd8ehidkoc7ubcx": {
+      "id": "k4oh8mvhsd8ehidkoc7ubcx",
+      "title": "Graphen",
+      "desc": "",
+      "updated": 1650531919128,
+      "created": 1650361346880,
+      "custom": {},
+      "fname": "DSAL.graphvonf",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "375bb53bbebfff23d6cb7fde427543bc",
+      "links": [
+        {
+          "from": {
+            "fname": "DSAL",
+            "vaultName": "vault"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 10,
+              "column": 7,
+              "offset": 302
+            },
+            "end": {
+              "line": 10,
+              "column": 33,
+              "offset": 328
+            },
+            "indent": []
+          },
+          "value": "DSAL.graphvonf",
+          "alias": "Graphen"
+        }
+      ],
+      "anchors": {
+        "representation": {
+          "type": "header",
+          "text": "Representation",
+          "value": "representation",
+          "line": 20,
+          "column": 0,
+          "depth": 1
+        }
+      },
+      "children": [],
+      "parent": "0p70eh688cyzdn8bxxwyt4k",
+      "data": {}
+    },
+    "zvbaxijpphhgr878gipd8mp": {
+      "id": "zvbaxijpphhgr878gipd8mp",
+      "title": "Bäume",
+      "desc": "",
+      "updated": 1655200714883,
+      "created": 1649925191942,
+      "custom": {},
+      "fname": "DSAL.baeume",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "a21872b7a344d2fe83db1884fa73389c",
+      "links": [
+        {
+          "from": {
+            "fname": "DSAL",
+            "vaultName": "vault"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 6,
+              "column": 7,
+              "offset": 137
+            },
+            "end": {
+              "line": 6,
+              "column": 28,
+              "offset": 158
+            },
+            "indent": []
+          },
+          "value": "DSAL.baeume",
+          "alias": "Bäume"
+        }
+      ],
+      "anchors": {
+        "implementation": {
+          "type": "header",
+          "text": "Implementation",
+          "value": "implementation",
+          "line": 15,
+          "column": 0,
+          "depth": 1
+        },
+        "array": {
+          "type": "header",
+          "text": "Array",
+          "value": "array",
+          "line": 23,
+          "column": 0,
+          "depth": 2
+        },
+        "effizienz": {
+          "type": "header",
+          "text": "Effizienz",
+          "value": "effizienz",
+          "line": 40,
+          "column": 0,
+          "depth": 1
+        },
+        "suchen": {
+          "type": "header",
+          "text": "Suchen",
+          "value": "suchen",
+          "line": 45,
+          "column": 0,
+          "depth": 1
+        }
+      },
+      "children": [
+        "8jfix1nhdrb2s7oixgrq3qa",
+        "lykdg76vwrx028h2463hp37"
+      ],
+      "parent": "0p70eh688cyzdn8bxxwyt4k",
+      "data": {}
+    },
+    "lykdg76vwrx028h2463hp37": {
+      "id": "lykdg76vwrx028h2463hp37",
+      "title": "Rot-Schwarz-Bäume",
+      "desc": "",
+      "updated": 1653986961056,
+      "created": 1653986953339,
+      "custom": {},
+      "fname": "DSAL.baeume.rsbaum",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "94a765e669c7c3bf00d643ee40d91b0f",
+      "links": [
+        {
+          "from": {
+            "fname": "DSAL",
+            "vaultName": "vault"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 7,
+              "column": 10,
+              "offset": 168
+            },
+            "end": {
+              "line": 7,
+              "column": 50,
+              "offset": 208
+            },
+            "indent": []
+          },
+          "value": "DSAL.baeume.rsbaum",
+          "alias": "Rot-Schwarz-Bäume"
+        }
+      ],
+      "anchors": {},
+      "children": [],
+      "parent": "zvbaxijpphhgr878gipd8mp",
+      "data": {}
+    },
+    "8jfix1nhdrb2s7oixgrq3qa": {
+      "id": "8jfix1nhdrb2s7oixgrq3qa",
+      "title": "bbaum",
+      "desc": "",
+      "updated": 1654159547045,
+      "created": 1654159527778,
+      "custom": {},
+      "fname": "DSAL.baeume.bbaum",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "2851a57b92f9e534b16f4d0b9dcf8d4c",
+      "links": [
+        {
+          "from": {
+            "fname": "DSAL",
+            "vaultName": "vault"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 8,
+              "column": 10,
+              "offset": 218
+            },
+            "end": {
+              "line": 8,
+              "column": 39,
+              "offset": 247
+            },
+            "indent": []
+          },
+          "value": "DSAL.baeume.bbaum",
+          "alias": "B-Bäume"
+        }
+      ],
+      "anchors": {},
+      "children": [],
+      "parent": "zvbaxijpphhgr878gipd8mp",
+      "data": {}
+    },
+    "86qyjdsuf73nhr1v9lk61uv": {
+      "id": "86qyjdsuf73nhr1v9lk61uv",
+      "title": "Analyse von Algorithmen",
+      "desc": "",
+      "updated": 1650966488637,
+      "created": 1650531964149,
+      "custom": {},
+      "fname": "DSAL.analyseVonAlgorithmen",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "fa91dc3507a11622c6a95334db11c57d",
+      "links": [
+        {
+          "from": {
+            "fname": "DSAL",
+            "vaultName": "vault"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 14,
+              "column": 7,
+              "offset": 415
+            },
+            "end": {
+              "line": 14,
+              "column": 45,
+              "offset": 453
+            },
+            "indent": []
+          },
+          "value": "DSAL.analyseVonAlgorithmen",
+          "alias": "Analyse"
+        }
+      ],
+      "anchors": {
+        "stripped-python": {
+          "type": "header",
+          "text": "Stripped Python",
+          "value": "stripped-python",
+          "line": 37,
+          "column": 0,
+          "depth": 2
+        },
+        "fibonacci": {
+          "type": "header",
+          "text": "Fibonacci",
+          "value": "fibonacci",
+          "line": 74,
+          "column": 0,
+          "depth": 2
+        },
+        "": {
+          "type": "header",
+          "text": "$$",
+          "value": "",
+          "line": 83,
+          "column": 0,
+          "depth": 2
+        },
+        "-1": {
+          "type": "header",
+          "text": "$$",
+          "value": "-1",
+          "line": 96,
+          "column": 0,
+          "depth": 2
+        },
+        "rekursionsgleichung": {
+          "type": "header",
+          "text": "Rekursionsgleichung",
+          "value": "rekursionsgleichung",
+          "line": 100,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [],
+      "parent": "0p70eh688cyzdn8bxxwyt4k",
+      "data": {}
+    },
+    "usuwijfnfz44i3bvexmb3vr": {
+      "id": "usuwijfnfz44i3bvexmb3vr",
+      "title": "Abstrakte Datenstrukturen",
+      "desc": "",
+      "updated": 1649766815147,
+      "created": 1649320831716,
+      "custom": {},
+      "fname": "DSAL.abstraktedatenstrukturen",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "703af0f2e5a08e53a7c6df3aef827802",
+      "links": [
+        {
+          "from": {
+            "fname": "DSAL",
+            "vaultName": "vault"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 4,
+              "column": 7,
+              "offset": 59
+            },
+            "end": {
+              "line": 4,
+              "column": 40,
+              "offset": 92
+            },
+            "indent": []
+          },
+          "value": "DSAL.abstraktedatenstrukturen",
+          "alias": "DSAL.abstraktedatenstrukturen"
+        }
+      ],
+      "anchors": {
+        "natürliche-zahlen": {
+          "type": "header",
+          "text": "Natürliche Zahlen",
+          "value": "natürliche-zahlen",
+          "line": 26,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [],
+      "parent": "0p70eh688cyzdn8bxxwyt4k",
+      "data": {}
+    },
+    "9z57462obeqqdv1fbifz9h3": {
+      "id": "9z57462obeqqdv1fbifz9h3",
+      "title": "Union-Find-Strukturen",
+      "desc": "",
+      "updated": 1655197618019,
+      "created": 1655197334477,
+      "custom": {},
+      "fname": "DSAL.Unionfind",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "48d78d271653f2cd68e8aa5f772518f2",
+      "links": [
+        {
+          "from": {
+            "fname": "DSAL",
+            "vaultName": "vault"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 11,
+              "column": 7,
+              "offset": 335
+            },
+            "end": {
+              "line": 11,
+              "column": 47,
+              "offset": 375
+            },
+            "indent": []
+          },
+          "value": "DSAL.Unionfind",
+          "alias": "Union-Find-Strukturen"
+        }
+      ],
+      "anchors": {},
+      "children": [],
+      "parent": "0p70eh688cyzdn8bxxwyt4k",
+      "data": {}
+    },
+    "ea7m3dmpg0r5un0f05p627b": {
+      "id": "ea7m3dmpg0r5un0f05p627b",
+      "title": "Betriebssysteme und Systemsoftware",
+      "desc": "",
+      "updated": 1656069368338,
+      "created": 1649327538563,
+      "custom": {},
+      "fname": "BUS",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "df56239e914ea3999feb3dbd245c4464",
+      "links": [
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "BUS",
+            "id": "ea7m3dmpg0r5un0f05p627b",
+            "vaultName": "vault"
+          },
+          "value": "BUS.OS_aufbau_und_aufgaben",
+          "alias": "BUS.OS_aufbau_und_aufgaben",
+          "position": {
+            "start": {
+              "line": 2,
+              "column": 4,
+              "offset": 4
+            },
+            "end": {
+              "line": 2,
+              "column": 34,
+              "offset": 34
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "BUS.OS_aufbau_und_aufgaben"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "BUS",
+            "id": "ea7m3dmpg0r5un0f05p627b",
+            "vaultName": "vault"
+          },
+          "value": "BUS.linux-shell-bash",
+          "alias": "Linux-Shell",
+          "position": {
+            "start": {
+              "line": 3,
+              "column": 4,
+              "offset": 38
+            },
+            "end": {
+              "line": 3,
+              "column": 40,
+              "offset": 74
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "BUS.linux-shell-bash"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "BUS",
+            "id": "ea7m3dmpg0r5un0f05p627b",
+            "vaultName": "vault"
+          },
+          "value": "BUS.C",
+          "alias": "C-Programmierung",
+          "position": {
+            "start": {
+              "line": 4,
+              "column": 4,
+              "offset": 78
+            },
+            "end": {
+              "line": 4,
+              "column": 30,
+              "offset": 104
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "BUS.C"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "BUS",
+            "id": "ea7m3dmpg0r5un0f05p627b",
+            "vaultName": "vault"
+          },
+          "value": "BUS.kernel",
+          "alias": "Kernel",
+          "position": {
+            "start": {
+              "line": 5,
+              "column": 4,
+              "offset": 108
+            },
+            "end": {
+              "line": 5,
+              "column": 25,
+              "offset": 129
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "BUS.kernel"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "BUS",
+            "id": "ea7m3dmpg0r5un0f05p627b",
+            "vaultName": "vault"
+          },
+          "value": "BUS.PTScom",
+          "alias": "Prozesse, Threads und Systemkommunikation",
+          "position": {
+            "start": {
+              "line": 6,
+              "column": 4,
+              "offset": 133
+            },
+            "end": {
+              "line": 6,
+              "column": 60,
+              "offset": 189
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "BUS.PTScom"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "BUS",
+            "id": "ea7m3dmpg0r5un0f05p627b",
+            "vaultName": "vault"
+          },
+          "value": "BUS.Prozessynchronisation",
+          "alias": "Prozessynchronisation",
+          "position": {
+            "start": {
+              "line": 7,
+              "column": 4,
+              "offset": 193
+            },
+            "end": {
+              "line": 7,
+              "column": 55,
+              "offset": 244
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "BUS.Prozessynchronisation"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "BUS",
+            "id": "ea7m3dmpg0r5un0f05p627b",
+            "vaultName": "vault"
+          },
+          "value": "BUS.speicherverwaltung",
+          "alias": "Speicherverwaltung",
+          "position": {
+            "start": {
+              "line": 8,
+              "column": 4,
+              "offset": 248
+            },
+            "end": {
+              "line": 8,
+              "column": 49,
+              "offset": 293
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "BUS.speicherverwaltung"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "BUS",
+            "id": "ea7m3dmpg0r5un0f05p627b",
+            "vaultName": "vault"
+          },
+          "value": "BUS.Dateisysteme",
+          "alias": "Dateisysteme",
+          "position": {
+            "start": {
+              "line": 9,
+              "column": 4,
+              "offset": 297
+            },
+            "end": {
+              "line": 9,
+              "column": 37,
+              "offset": 330
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "BUS.Dateisysteme"
+          }
+        },
+        {
+          "from": {
+            "fname": "root",
+            "vaultName": "vault"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 5,
+              "column": 3,
+              "offset": 191
+            },
+            "end": {
+              "line": 5,
+              "column": 45,
+              "offset": 233
+            },
+            "indent": []
+          },
+          "value": "BUS",
+          "alias": "Betriebssysteme und Systemsoftware"
+        }
+      ],
+      "anchors": {},
+      "children": [
+        "ofi07erpq7jgz6mwmypxbw8",
+        "2opcy7lw1n5wjdg2m4mkd35",
+        "6z5l0j4qnbvzet32vqcq7a5",
+        "pcvzcc8l7qd3w4aznic0sc8",
+        "j0hrsd1q31zskk5hb41llnf",
+        "41ubojvc0jw6nszwof6wxcm",
+        "ajtx75oij1xuiwkljn9wvsz",
+        "l1i7a0o3wy5ts8r69mnafgh",
+        "xypymb99679v9l00rou9pze"
+      ],
+      "parent": "mnd5f0g7rhonsu64f5fjcrh",
+      "data": {}
+    },
+    "xypymb99679v9l00rou9pze": {
+      "id": "xypymb99679v9l00rou9pze",
+      "title": "Speicherverwaltung",
+      "desc": "",
+      "updated": 1655462720650,
+      "created": 1654255972582,
+      "custom": {},
+      "fname": "BUS.speicherverwaltung",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "c989421f4e0ac65fed8131ba227bce52",
+      "links": [
+        {
+          "from": {
+            "fname": "BUS",
+            "vaultName": "vault"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 8,
+              "column": 4,
+              "offset": 248
+            },
+            "end": {
+              "line": 8,
+              "column": 49,
+              "offset": 293
+            },
+            "indent": []
+          },
+          "value": "BUS.speicherverwaltung",
+          "alias": "Speicherverwaltung"
+        }
+      ],
+      "anchors": {
+        "swapping": {
+          "type": "header",
+          "text": "Swapping",
+          "value": "swapping",
+          "line": 8,
+          "column": 0,
+          "depth": 1
+        },
+        "probleme": {
+          "type": "header",
+          "text": "Probleme",
+          "value": "probleme",
+          "line": 11,
+          "column": 0,
+          "depth": 1
+        },
+        "frühe-lösung-overlays": {
+          "type": "header",
+          "text": "Frühe Lösung: Overlays",
+          "value": "frühe-lösung-overlays",
+          "line": 15,
+          "column": 0,
+          "depth": 2
+        },
+        "virtueller-speicher": {
+          "type": "header",
+          "text": "virtueller Speicher",
+          "value": "virtueller-speicher",
+          "line": 18,
+          "column": 0,
+          "depth": 2
+        },
+        "segmentierung": {
+          "type": "header",
+          "text": "Segmentierung",
+          "value": "segmentierung",
+          "line": 21,
+          "column": 0,
+          "depth": 1
+        },
+        "adressierung": {
+          "type": "header",
+          "text": "Adressierung",
+          "value": "adressierung",
+          "line": 30,
+          "column": 0,
+          "depth": 1
+        }
+      },
+      "children": [],
+      "parent": "ea7m3dmpg0r5un0f05p627b",
+      "data": {}
+    },
+    "l1i7a0o3wy5ts8r69mnafgh": {
+      "id": "l1i7a0o3wy5ts8r69mnafgh",
+      "title": "Linux-shell Bash",
+      "desc": "Commands of the Bash",
+      "updated": 1649937182789,
+      "created": 1649932418950,
+      "custom": {},
+      "fname": "BUS.linux-shell-bash",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "e520ec925669c5c0f2288a94ee873392",
+      "links": [
+        {
+          "from": {
+            "fname": "BUS",
+            "vaultName": "vault"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 3,
+              "column": 4,
+              "offset": 38
+            },
+            "end": {
+              "line": 3,
+              "column": 40,
+              "offset": 74
+            },
+            "indent": []
+          },
+          "value": "BUS.linux-shell-bash",
+          "alias": "Linux-Shell"
+        }
+      ],
+      "anchors": {},
+      "children": [],
+      "parent": "ea7m3dmpg0r5un0f05p627b",
+      "data": {}
+    },
+    "ajtx75oij1xuiwkljn9wvsz": {
+      "id": "ajtx75oij1xuiwkljn9wvsz",
+      "title": "kernel",
+      "desc": "",
+      "updated": 1651229605718,
+      "created": 1651229605718,
+      "custom": {},
+      "fname": "BUS.kernel",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "ac731c2a17f5a8fbc8bfc5ef5041e70a",
+      "links": [
+        {
+          "from": {
+            "fname": "BUS",
+            "vaultName": "vault"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 5,
+              "column": 4,
+              "offset": 108
+            },
+            "end": {
+              "line": 5,
+              "column": 25,
+              "offset": 129
+            },
+            "indent": []
+          },
+          "value": "BUS.kernel",
+          "alias": "Kernel"
+        }
+      ],
+      "anchors": {},
+      "children": [],
+      "parent": "ea7m3dmpg0r5un0f05p627b",
+      "data": {}
+    },
+    "41ubojvc0jw6nszwof6wxcm": {
+      "id": "41ubojvc0jw6nszwof6wxcm",
+      "title": "Atomare Operationen",
+      "desc": "",
+      "updated": 1653909047755,
+      "created": 1653906880487,
+      "custom": {},
+      "fname": "BUS.atomOp",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "8525bc588e9185a0448be5e9fc2c1479",
+      "links": [
+        {
+          "from": {
+            "fname": "BUS.Prozessynchronisation",
+            "vaultName": "vault"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 2,
+              "column": 4,
+              "offset": 4
+            },
+            "end": {
+              "line": 2,
+              "column": 38,
+              "offset": 38
+            },
+            "indent": []
+          },
+          "value": "BUS.atomOp",
+          "alias": "Atomare Operationen"
+        }
+      ],
+      "anchors": {
+        "test-and-set-tsl-instruction": {
+          "type": "header",
+          "text": "Test-and-set: TSL instruction",
+          "value": "test-and-set-tsl-instruction",
+          "line": 11,
+          "column": 0,
+          "depth": 1
+        },
+        "implementierung-des-betretens-und-verlassen-eines-kritischen-bereichs": {
+          "type": "header",
+          "text": "Implementierung des Betretens und Verlassen eines kritischen Bereichs",
+          "value": "implementierung-des-betretens-und-verlassen-eines-kritischen-bereichs",
+          "line": 12,
+          "column": 0,
+          "depth": 2
+        },
+        "c": {
+          "type": "header",
+          "text": "C",
+          "value": "c",
+          "line": 13,
+          "column": 0,
+          "depth": 3
+        },
+        "assembler": {
+          "type": "header",
+          "text": "Assembler",
+          "value": "assembler",
+          "line": 22,
+          "column": 0,
+          "depth": 3
+        },
+        "swap": {
+          "type": "header",
+          "text": "Swap",
+          "value": "swap",
+          "line": 35,
+          "column": 0,
+          "depth": 1
+        },
+        "c-1": {
+          "type": "header",
+          "text": "C",
+          "value": "c-1",
+          "line": 36,
+          "column": 0,
+          "depth": 3
+        },
+        "assembler-1": {
+          "type": "header",
+          "text": "Assembler",
+          "value": "assembler-1",
+          "line": 46,
+          "column": 0,
+          "depth": 3
+        },
+        "wait-und-signal": {
+          "type": "header",
+          "text": "Wait und signal",
+          "value": "wait-und-signal",
+          "line": 60,
+          "column": 0,
+          "depth": 1
+        },
+        "c-2": {
+          "type": "header",
+          "text": "c",
+          "value": "c-2",
+          "line": 61,
+          "column": 0,
+          "depth": 3
+        },
+        "assembler-2": {
+          "type": "header",
+          "text": "Assembler",
+          "value": "assembler-2",
+          "line": 78,
+          "column": 0,
+          "depth": 3
+        }
+      },
+      "children": [],
+      "parent": "ea7m3dmpg0r5un0f05p627b",
+      "data": {}
+    },
+    "j0hrsd1q31zskk5hb41llnf": {
+      "id": "j0hrsd1q31zskk5hb41llnf",
+      "title": "Prozessynchronisation",
+      "desc": "",
+      "updated": 1653910748583,
+      "created": 1653043147126,
+      "custom": {},
+      "fname": "BUS.Prozessynchronisation",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "893b95b07d28cf5d653c8f19d32ad3b8",
+      "links": [
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "BUS.Prozessynchronisation",
+            "id": "j0hrsd1q31zskk5hb41llnf",
+            "vaultName": "vault"
+          },
+          "value": "BUS.atomOp",
+          "alias": "Atomare Operationen",
+          "position": {
+            "start": {
+              "line": 2,
+              "column": 4,
+              "offset": 4
+            },
+            "end": {
+              "line": 2,
+              "column": 38,
+              "offset": 38
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "BUS.atomOp"
+          }
+        },
+        {
+          "from": {
+            "fname": "BUS",
+            "vaultName": "vault"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 7,
+              "column": 4,
+              "offset": 193
+            },
+            "end": {
+              "line": 7,
+              "column": 55,
+              "offset": 244
+            },
+            "indent": []
+          },
+          "value": "BUS.Prozessynchronisation",
+          "alias": "Prozessynchronisation"
+        }
+      ],
+      "anchors": {
+        "motivation-und-einfache-lösungsversuche": {
+          "type": "header",
+          "text": "Motivation und einfache Lösungsversuche",
+          "value": "motivation-und-einfache-lösungsversuche",
+          "line": 10,
+          "column": 0,
+          "depth": 1
+        },
+        "semaphore": {
+          "type": "header",
+          "text": "Semaphore",
+          "value": "semaphore",
+          "line": 14,
+          "column": 0,
+          "depth": 1
+        },
+        "erweiterte-konstrukte": {
+          "type": "header",
+          "text": "Erweiterte Konstrukte",
+          "value": "erweiterte-konstrukte",
+          "line": 28,
+          "column": 0,
+          "depth": 1
+        }
+      },
+      "children": [],
+      "parent": "ea7m3dmpg0r5un0f05p627b",
+      "data": {}
+    },
+    "pcvzcc8l7qd3w4aznic0sc8": {
+      "id": "pcvzcc8l7qd3w4aznic0sc8",
+      "title": "Prozesse, Threads und Systemkommunikation",
+      "desc": "",
+      "updated": 1652957392930,
+      "created": 1651230926984,
+      "custom": {},
+      "fname": "BUS.PTScom",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "fc53acd0e879a36bff61eb37512df886",
+      "links": [
+        {
+          "from": {
+            "fname": "BUS",
+            "vaultName": "vault"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 6,
+              "column": 4,
+              "offset": 133
+            },
+            "end": {
+              "line": 6,
+              "column": 60,
+              "offset": 189
+            },
+            "indent": []
+          },
+          "value": "BUS.PTScom",
+          "alias": "Prozesse, Threads und Systemkommunikation"
+        }
+      ],
+      "anchors": {
+        "prozessverwaltung": {
+          "type": "header",
+          "text": "Prozessverwaltung",
+          "value": "prozessverwaltung",
+          "line": 7,
+          "column": 0,
+          "depth": 1
+        },
+        "threads": {
+          "type": "header",
+          "text": "Threads",
+          "value": "threads",
+          "line": 9,
+          "column": 0,
+          "depth": 1
+        },
+        "scheduling": {
+          "type": "header",
+          "text": "Scheduling",
+          "value": "scheduling",
+          "line": 21,
+          "column": 0,
+          "depth": 1
+        },
+        "strategien": {
+          "type": "header",
+          "text": "Strategien",
+          "value": "strategien",
+          "line": 27,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [],
+      "parent": "ea7m3dmpg0r5un0f05p627b",
+      "data": {}
+    },
+    "6z5l0j4qnbvzet32vqcq7a5": {
+      "id": "6z5l0j4qnbvzet32vqcq7a5",
+      "title": "Betriebssysteme: Aufbau und Aufgaben",
+      "desc": "",
+      "updated": 1649766805194,
+      "created": 1649414063790,
+      "custom": {},
+      "fname": "BUS.OS_aufbau_und_aufgaben",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "c41f5b1d153384611a9b53ee7c453cc1",
+      "links": [
+        {
+          "from": {
+            "fname": "BUS",
+            "vaultName": "vault"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 2,
+              "column": 4,
+              "offset": 4
+            },
+            "end": {
+              "line": 2,
+              "column": 34,
+              "offset": 34
+            },
+            "indent": []
+          },
+          "value": "BUS.OS_aufbau_und_aufgaben",
+          "alias": "BUS.OS_aufbau_und_aufgaben"
+        }
+      ],
+      "anchors": {
+        "einteilung-des-computers-in-vier-bereiche": {
+          "type": "header",
+          "text": "Einteilung des Computers in vier Bereiche",
+          "value": "einteilung-des-computers-in-vier-bereiche",
+          "line": 8,
+          "column": 0,
+          "depth": 2
+        },
+        "computer-hardware": {
+          "type": "header",
+          "text": "Computer-Hardware",
+          "value": "computer-hardware",
+          "line": 14,
+          "column": 0,
+          "depth": 2
+        },
+        "cpu": {
+          "type": "header",
+          "text": "CPU",
+          "value": "cpu",
+          "line": 34,
+          "column": 0,
+          "depth": 2
+        },
+        "pipelining": {
+          "type": "header",
+          "text": "Pipelining",
+          "value": "pipelining",
+          "line": 43,
+          "column": 0,
+          "depth": 3
+        },
+        "superskalare-ausführung": {
+          "type": "header",
+          "text": "Superskalare Ausführung",
+          "value": "superskalare-ausführung",
+          "line": 52,
+          "column": 0,
+          "depth": 3
+        },
+        "zusammenspiel-der-komponenten": {
+          "type": "header",
+          "text": "Zusammenspiel der Komponenten",
+          "value": "zusammenspiel-der-komponenten",
+          "line": 55,
+          "column": 0,
+          "depth": 2
+        },
+        "betriebssystem": {
+          "type": "header",
+          "text": "Betriebssystem:",
+          "value": "betriebssystem",
+          "line": 67,
+          "column": 0,
+          "depth": 1
+        }
+      },
+      "children": [],
+      "parent": "ea7m3dmpg0r5un0f05p627b",
+      "data": {}
+    },
+    "2opcy7lw1n5wjdg2m4mkd35": {
+      "id": "2opcy7lw1n5wjdg2m4mkd35",
+      "title": "Dateisysteme",
+      "desc": "",
+      "updated": 1656071280579,
+      "created": 1656069371851,
+      "custom": {},
+      "fname": "BUS.Dateisysteme",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "505f0ce633d30f4e9a4baac6e31aeccd",
+      "links": [
+        {
+          "from": {
+            "fname": "BUS",
+            "vaultName": "vault"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 9,
+              "column": 4,
+              "offset": 297
+            },
+            "end": {
+              "line": 9,
+              "column": 37,
+              "offset": 330
+            },
+            "indent": []
+          },
+          "value": "BUS.Dateisysteme",
+          "alias": "Dateisysteme"
+        }
+      ],
+      "anchors": {},
+      "children": [],
+      "parent": "ea7m3dmpg0r5un0f05p627b",
+      "data": {}
+    },
+    "ofi07erpq7jgz6mwmypxbw8": {
+      "id": "ofi07erpq7jgz6mwmypxbw8",
+      "title": "C-Programmierung",
+      "desc": "",
+      "updated": 1650627936649,
+      "created": 1650538781703,
+      "custom": {},
+      "fname": "BUS.C",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "c8758f42478a63c950666b1aaaef40e0",
+      "links": [
+        {
+          "from": {
+            "fname": "BUS",
+            "vaultName": "vault"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 4,
+              "column": 4,
+              "offset": 78
+            },
+            "end": {
+              "line": 4,
+              "column": 30,
+              "offset": 104
+            },
+            "indent": []
+          },
+          "value": "BUS.C",
+          "alias": "C-Programmierung"
+        }
+      ],
+      "anchors": {
+        "main": {
+          "type": "header",
+          "text": "main",
+          "value": "main",
+          "line": 8,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [],
+      "parent": "ea7m3dmpg0r5un0f05p627b",
+      "data": {}
+    }
+  },
+  "domains": [
+    {
+      "id": "mnd5f0g7rhonsu64f5fjcrh",
+      "title": "2. Semester",
+      "desc": "",
+      "updated": 1655247033976,
+      "created": 1649147616743,
+      "custom": {
+        "nav_order": 0,
+        "permalink": "/"
+      },
+      "fname": "root",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "c5b3115349cc9deb5919fc133f39a1d7",
+      "links": [
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "root",
+            "id": "mnd5f0g7rhonsu64f5fjcrh",
+            "vaultName": "vault"
+          },
+          "value": "BUS",
+          "alias": "Betriebssysteme und Systemsoftware",
+          "position": {
+            "start": {
+              "line": 5,
+              "column": 3,
+              "offset": 191
+            },
+            "end": {
+              "line": 5,
+              "column": 45,
+              "offset": 233
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "BUS"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "root",
+            "id": "mnd5f0g7rhonsu64f5fjcrh",
+            "vaultName": "vault"
+          },
+          "value": "DSAL",
+          "alias": "Datenstrukturen und Algorithmen",
+          "position": {
+            "start": {
+              "line": 6,
+              "column": 3,
+              "offset": 236
+            },
+            "end": {
+              "line": 6,
+              "column": 43,
+              "offset": 276
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "DSAL"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "root",
+            "id": "mnd5f0g7rhonsu64f5fjcrh",
+            "vaultName": "vault"
+          },
+          "value": "FOSAP",
+          "alias": "Formale Systeme, Automaten und Prozesse",
+          "position": {
+            "start": {
+              "line": 7,
+              "column": 3,
+              "offset": 279
+            },
+            "end": {
+              "line": 7,
+              "column": 52,
+              "offset": 328
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "FOSAP"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "root",
+            "id": "mnd5f0g7rhonsu64f5fjcrh",
+            "vaultName": "vault"
+          },
+          "value": "LA",
+          "alias": "Lineare Algebra",
+          "position": {
+            "start": {
+              "line": 8,
+              "column": 3,
+              "offset": 331
+            },
+            "end": {
+              "line": 8,
+              "column": 25,
+              "offset": 353
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "LA"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "root",
+            "id": "mnd5f0g7rhonsu64f5fjcrh",
+            "vaultName": "vault"
+          },
+          "value": "PS",
+          "alias": "Proseminar",
+          "position": {
+            "start": {
+              "line": 9,
+              "column": 3,
+              "offset": 356
+            },
+            "end": {
+              "line": 9,
+              "column": 20,
+              "offset": 373
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "PS"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "root",
+            "id": "mnd5f0g7rhonsu64f5fjcrh",
+            "vaultName": "vault"
+          },
+          "value": "dict",
+          "alias": "Dictionary",
+          "position": {
+            "start": {
+              "line": 10,
+              "column": 3,
+              "offset": 376
+            },
+            "end": {
+              "line": 10,
+              "column": 22,
+              "offset": 395
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "dict"
+          }
+        }
+      ],
+      "anchors": {
+        "module": {
+          "type": "header",
+          "text": "Module",
+          "value": "module",
+          "line": 10,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [
+        "ea7m3dmpg0r5un0f05p627b",
+        "0p70eh688cyzdn8bxxwyt4k",
+        "sw9rbls42fxvtuynvtea5yf",
+        "n2hp765y7aix8pqs9sbes28",
+        "gkq29c1hc0wfqolqse6i2e8",
+        "xt1u0nlwatnmbso2tdmylh9",
+        "k1oe6sqiu6esc2oy9l2pax6"
+      ],
+      "parent": null,
+      "data": {},
+      "body": "\n[![Build Dendron Static Site](https://github.com/NilEis/semester-2/actions/workflows/publish.yml/badge.svg)](https://github.com/NilEis/semester-2/actions/workflows/publish.yml)\n\n## Module\n- [[Betriebssysteme und Systemsoftware|BUS]]\n- [[Datenstrukturen und Algorithmen|DSAL]]\n- [[Formale Systeme, Automaten und Prozesse|FOSAP]]\n- [[Lineare Algebra|LA]]\n- [[Proseminar|PS]]\n- [[Dictionary|dict]]"
+    }
+  ],
+  "noteIndex": {
+    "id": "mnd5f0g7rhonsu64f5fjcrh",
+    "title": "2. Semester",
+    "desc": "",
+    "updated": 1655247033976,
+    "created": 1649147616743,
+    "custom": {
+      "nav_order": 0,
+      "permalink": "/"
+    },
+    "fname": "root",
+    "type": "note",
+    "vault": {
+      "fsPath": "vault"
+    },
+    "contentHash": "c5b3115349cc9deb5919fc133f39a1d7",
+    "links": [
+      {
+        "type": "wiki",
+        "from": {
+          "fname": "root",
+          "id": "mnd5f0g7rhonsu64f5fjcrh",
+          "vaultName": "vault"
+        },
+        "value": "BUS",
+        "alias": "Betriebssysteme und Systemsoftware",
+        "position": {
+          "start": {
+            "line": 5,
+            "column": 3,
+            "offset": 191
+          },
+          "end": {
+            "line": 5,
+            "column": 45,
+            "offset": 233
+          },
+          "indent": []
+        },
+        "xvault": false,
+        "sameFile": false,
+        "to": {
+          "fname": "BUS"
+        }
+      },
+      {
+        "type": "wiki",
+        "from": {
+          "fname": "root",
+          "id": "mnd5f0g7rhonsu64f5fjcrh",
+          "vaultName": "vault"
+        },
+        "value": "DSAL",
+        "alias": "Datenstrukturen und Algorithmen",
+        "position": {
+          "start": {
+            "line": 6,
+            "column": 3,
+            "offset": 236
+          },
+          "end": {
+            "line": 6,
+            "column": 43,
+            "offset": 276
+          },
+          "indent": []
+        },
+        "xvault": false,
+        "sameFile": false,
+        "to": {
+          "fname": "DSAL"
+        }
+      },
+      {
+        "type": "wiki",
+        "from": {
+          "fname": "root",
+          "id": "mnd5f0g7rhonsu64f5fjcrh",
+          "vaultName": "vault"
+        },
+        "value": "FOSAP",
+        "alias": "Formale Systeme, Automaten und Prozesse",
+        "position": {
+          "start": {
+            "line": 7,
+            "column": 3,
+            "offset": 279
+          },
+          "end": {
+            "line": 7,
+            "column": 52,
+            "offset": 328
+          },
+          "indent": []
+        },
+        "xvault": false,
+        "sameFile": false,
+        "to": {
+          "fname": "FOSAP"
+        }
+      },
+      {
+        "type": "wiki",
+        "from": {
+          "fname": "root",
+          "id": "mnd5f0g7rhonsu64f5fjcrh",
+          "vaultName": "vault"
+        },
+        "value": "LA",
+        "alias": "Lineare Algebra",
+        "position": {
+          "start": {
+            "line": 8,
+            "column": 3,
+            "offset": 331
+          },
+          "end": {
+            "line": 8,
+            "column": 25,
+            "offset": 353
+          },
+          "indent": []
+        },
+        "xvault": false,
+        "sameFile": false,
+        "to": {
+          "fname": "LA"
+        }
+      },
+      {
+        "type": "wiki",
+        "from": {
+          "fname": "root",
+          "id": "mnd5f0g7rhonsu64f5fjcrh",
+          "vaultName": "vault"
+        },
+        "value": "PS",
+        "alias": "Proseminar",
+        "position": {
+          "start": {
+            "line": 9,
+            "column": 3,
+            "offset": 356
+          },
+          "end": {
+            "line": 9,
+            "column": 20,
+            "offset": 373
+          },
+          "indent": []
+        },
+        "xvault": false,
+        "sameFile": false,
+        "to": {
+          "fname": "PS"
+        }
+      },
+      {
+        "type": "wiki",
+        "from": {
+          "fname": "root",
+          "id": "mnd5f0g7rhonsu64f5fjcrh",
+          "vaultName": "vault"
+        },
+        "value": "dict",
+        "alias": "Dictionary",
+        "position": {
+          "start": {
+            "line": 10,
+            "column": 3,
+            "offset": 376
+          },
+          "end": {
+            "line": 10,
+            "column": 22,
+            "offset": 395
+          },
+          "indent": []
+        },
+        "xvault": false,
+        "sameFile": false,
+        "to": {
+          "fname": "dict"
+        }
+      }
+    ],
+    "anchors": {
+      "module": {
+        "type": "header",
+        "text": "Module",
+        "value": "module",
+        "line": 10,
+        "column": 0,
+        "depth": 2
+      }
+    },
+    "children": [
+      "ea7m3dmpg0r5un0f05p627b",
+      "0p70eh688cyzdn8bxxwyt4k",
+      "sw9rbls42fxvtuynvtea5yf",
+      "n2hp765y7aix8pqs9sbes28",
+      "gkq29c1hc0wfqolqse6i2e8",
+      "xt1u0nlwatnmbso2tdmylh9",
+      "k1oe6sqiu6esc2oy9l2pax6"
+    ],
+    "parent": null,
+    "data": {},
+    "body": "\n[![Build Dendron Static Site](https://github.com/NilEis/semester-2/actions/workflows/publish.yml/badge.svg)](https://github.com/NilEis/semester-2/actions/workflows/publish.yml)\n\n## Module\n- [[Betriebssysteme und Systemsoftware|BUS]]\n- [[Datenstrukturen und Algorithmen|DSAL]]\n- [[Formale Systeme, Automaten und Prozesse|FOSAP]]\n- [[Lineare Algebra|LA]]\n- [[Proseminar|PS]]\n- [[Dictionary|dict]]"
+  },
+  "vaults": [
+    {
+      "fsPath": "vault"
+    }
+  ]
+}

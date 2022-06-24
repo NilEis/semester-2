@@ -1,0 +1,267 @@
+<!DOCTYPE html><html><head><meta name="viewport" content="width=device-width"/><meta charSet="utf-8"/><link rel="icon" href="/favicon.ico"/><title>Proseminar Image Processing</title><meta name="robots" content="index,follow"/><meta name="googlebot" content="index,follow"/><meta name="description" content="Notes"/><meta property="og:title" content="Proseminar Image Processing"/><meta property="og:description" content="Notes"/><meta property="og:url" content="https://nileis.github.io/semester-2/notes/xt1u0nlwatnmbso2tdmylh9/"/><meta property="og:type" content="article"/><meta property="article:published_time" content="5/13/2022"/><meta property="article:modified_time" content="5/13/2022"/><link rel="canonical" href="https://nileis.github.io/semester-2/notes/xt1u0nlwatnmbso2tdmylh9/"/><meta name="next-head-count" content="14"/><link rel="preload" href="/semester-2/_next/static/css/879ed9f1b2bc1dc7.css" as="style"/><link rel="stylesheet" href="/semester-2/_next/static/css/879ed9f1b2bc1dc7.css" data-n-g=""/><noscript data-n-css=""></noscript><script defer="" nomodule="" src="/semester-2/_next/static/chunks/polyfills-5cd94c89d3acac5f.js"></script><script src="/semester-2/_next/static/chunks/webpack-8bb5668614366910.js" defer=""></script><script src="/semester-2/_next/static/chunks/framework-bb5c596eafb42b22.js" defer=""></script><script src="/semester-2/_next/static/chunks/main-07eebc3b2738fda0.js" defer=""></script><script src="/semester-2/_next/static/chunks/pages/_app-7e5744d26e2d9e31.js" defer=""></script><script src="/semester-2/_next/static/chunks/155-3a6c02d7e042edb7.js" defer=""></script><script src="/semester-2/_next/static/chunks/pages/notes/%5Bid%5D-dc9b1cbe134a7143.js" defer=""></script><script src="/semester-2/_next/static/KyJgMcuERFOxxwMS-TJEl/_buildManifest.js" defer=""></script><script src="/semester-2/_next/static/KyJgMcuERFOxxwMS-TJEl/_ssgManifest.js" defer=""></script><script src="/semester-2/_next/static/KyJgMcuERFOxxwMS-TJEl/_middlewareManifest.js" defer=""></script></head><body><div id="__next" data-reactroot=""><section class="ant-layout" style="width:100%;min-height:100%"><header class="ant-layout-header" style="position:fixed;isolation:isolate;z-index:1;width:100%;border-bottom:1px solid #d4dadf;height:64px;padding:0 24px 0 2px"><div class="ant-row ant-row-center" style="max-width:992px;justify-content:space-between;margin:0 auto"><div style="display:flex" class="ant-col ant-col-xs-20 ant-col-sm-4"></div><div class="ant-col gutter-row ant-col-xs-0 ant-col-sm-20 ant-col-md-20 ant-col-lg-19"><div class="ant-select ant-select-lg ant-select-auto-complete ant-select-single ant-select-allow-clear ant-select-show-search" style="width:100%"><div class="ant-select-selector"><span class="ant-select-selection-search"><input type="search" autoComplete="off" class="ant-select-selection-search-input" role="combobox" aria-haspopup="listbox" aria-owns="undefined_list" aria-autocomplete="list" aria-controls="undefined_list" aria-activedescendant="undefined_list_0" value=""/></span><span class="ant-select-selection-placeholder">For full text search please use the &#x27;?&#x27; prefix. e.g. ? Onboarding</span></div></div></div><div style="display:none;align-items:center;justify-content:center" class="ant-col ant-col-xs-4 ant-col-sm-4 ant-col-md-0 ant-col-lg-0"><span role="img" aria-label="menu" style="font-size:24px" tabindex="-1" class="anticon anticon-menu"><svg viewBox="64 64 896 896" focusable="false" data-icon="menu" width="1em" height="1em" fill="currentColor" aria-hidden="true"><path d="M904 160H120c-4.4 0-8 3.6-8 8v64c0 4.4 3.6 8 8 8h784c4.4 0 8-3.6 8-8v-64c0-4.4-3.6-8-8-8zm0 624H120c-4.4 0-8 3.6-8 8v64c0 4.4 3.6 8 8 8h784c4.4 0 8-3.6 8-8v-64c0-4.4-3.6-8-8-8zm0-312H120c-4.4 0-8 3.6-8 8v64c0 4.4 3.6 8 8 8h784c4.4 0 8-3.6 8-8v-64c0-4.4-3.6-8-8-8z"></path></svg></span></div></div></header><section class="ant-layout site-layout" style="margin-top:64px"><section class="ant-layout site-layout" style="flex-direction:row"><section class="ant-layout site-layout-sidebar" style="flex:0 0 auto;width:calc(max((100% - 992px) / 2, 0px) + 200px);min-width:200px;padding-left:calc((100% - 992px) / 2)"><aside class="ant-layout-sider ant-layout-sider-dark" style="position:fixed;overflow:auto;height:calc(100vh - 64px);flex:0 0 200px;max-width:200px;min-width:200px;width:200px"><div class="ant-layout-sider-children"></div></aside></section><section class="ant-layout side-layout-main" style="max-width:1200px;display:initial"><main class="ant-layout-content main-content" role="main" style="padding:0 24px"><div class="ant-row"><div class="ant-col ant-col-24"><div class="ant-row" style="margin-left:-10px;margin-right:-10px"><div style="padding-left:10px;padding-right:10px" class="ant-col ant-col-xs-24 ant-col-md-18"><div><h1 id="proseminar-image-processing"><a aria-hidden="true" class="anchor-heading" href="#proseminar-image-processing"><svg aria-hidden="true" viewBox="0 0 16 16"><use xlink:href="#svg-link"></use></svg></a>Proseminar Image Processing</h1>
+<h1 id="scientific-work"><a aria-hidden="true" class="anchor-heading" href="#scientific-work"><svg aria-hidden="true" viewBox="0 0 16 16"><use xlink:href="#svg-link"></use></svg></a>Scientific work</h1>
+<h2 id="seminar-report"><a aria-hidden="true" class="anchor-heading" href="#seminar-report"><svg aria-hidden="true" viewBox="0 0 16 16"><use xlink:href="#svg-link"></use></svg></a>Seminar report</h2>
+<h3 id="general-guidelines"><a aria-hidden="true" class="anchor-heading" href="#general-guidelines"><svg aria-hidden="true" viewBox="0 0 16 16"><use xlink:href="#svg-link"></use></svg></a>General Guidelines</h3>
+<ul>
+<li>Lesen und <strong>verstehen</strong>
+<ul>
+<li>Nicht nur übersetzen</li>
+<li>In eigenen Worten schreiben</li>
+<li><em>Keine Inhaltsangabe / Übersetzung</em></li>
+</ul>
+</li>
+<li>Nach weiteren Quellen suchen
+<ul>
+<li>Mehr Inhalt</li>
+</ul>
+</li>
+<li>Thema im Detail erklären können</li>
+<li>Bilder und Tabellen
+<ul>
+<li>Überschriften</li>
+<li>Bezug zu Text</li>
+<li>Quellen angeben</li>
+</ul>
+</li>
+<li><span class="math math-inline"><span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mtext>LaTeX</mtext></mrow><annotation encoding="application/x-tex">\LaTeX</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.8988em;vertical-align:-0.2155em;"></span><span class="mord text"><span class="mord textrm">L</span><span class="mspace" style="margin-right:-0.36em;"></span><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.6833em;"><span style="top:-2.905em;"><span class="pstrut" style="height:2.7em;"></span><span class="mord"><span class="mord textrm mtight sizing reset-size6 size3">A</span></span></span></span></span></span><span class="mspace" style="margin-right:-0.15em;"></span><span class="mord text"><span class="mord textrm">T</span><span class="mspace" style="margin-right:-0.1667em;"></span><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.4678em;"><span style="top:-2.7845em;"><span class="pstrut" style="height:3em;"></span><span class="mord"><span class="mord textrm">E</span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.2155em;"><span></span></span></span></span><span class="mspace" style="margin-right:-0.125em;"></span><span class="mord textrm">X</span></span></span></span></span></span></span>
+<ul>
+<li>BibTeX</li>
+</ul>
+</li>
+</ul>
+<hr>
+<h3 id="scientific-citations"><a aria-hidden="true" class="anchor-heading" href="#scientific-citations"><svg aria-hidden="true" viewBox="0 0 16 16"><use xlink:href="#svg-link"></use></svg></a>Scientific citations</h3>
+<ul>
+<li>Immer in Anführungszeichen und mit Quelle</li>
+<li>Bilder nur mit Quelle</li>
+<li>Bei Bezug zu anderen <em>Ideen</em> Quellen angeben</li>
+<li>"<del>We propose</del>"</li>
+<li>Direkte Zitate vermeiden</li>
+<li>Gute Quellen
+<ul>
+<li>Scientific articles
+<ul>
+<li>Struktur
+<ul>
+<li>Autor</li>
+<li>Abstrakt</li>
+<li>Einleitung</li>
+<li>Bezug zu ähnlichen Arbeiten</li>
+<li>Beschreibung der Methoden</li>
+<li>Experiment</li>
+<li><em>Conclusion</em></li>
+<li>Referenzen
+<ul>
+<li><strong>Nicht ignorieren</strong><span class="math math-inline"><span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><msup><mrow></mrow><mrow><mo stretchy="false">(</mo><mtext>best</mtext><mo stretchy="false">)</mo></mrow></msup></mrow><annotation encoding="application/x-tex">^{(\text{best})}</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.888em;"></span><span class="mord"><span></span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.888em;"><span style="top:-3.063em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mopen mtight">(</span><span class="mord text mtight"><span class="mord mtight">best</span></span><span class="mclose mtight">)</span></span></span></span></span></span></span></span></span></span></span></span></span></li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>conference papers</li>
+<li>Bücher</li>
+<li><span class="math math-inline"><span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mo>⇒</mo></mrow><annotation encoding="application/x-tex">\Rightarrow</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.3669em;"></span><span class="mrel">⇒</span></span></span></span></span> RWTH-Netz</li>
+</ul>
+</li>
+<li>Schlechte Quellen
+<ul>
+<li>Wikipedia</li>
+<li>Weblogs</li>
+<li>Hörensagen</li>
+</ul>
+</li>
+<li>???
+<ul>
+<li>ArXiv <span class="math math-inline"><span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mo>→</mo></mrow><annotation encoding="application/x-tex">\rightarrow</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.3669em;"></span><span class="mrel">→</span></span></span></span></span> Vorsicht</li>
+</ul>
+</li>
+<li>Originalquellen</li>
+<li>Einheitliches Zitieren
+<ul>
+<li>Konferenz
+<ul>
+<li>Titel, Autor, Konferenz, Jahr</li>
+</ul>
+</li>
+<li>Artikel
+<ul>
+<li>Titel, Author, Journal, Ausgaben, Nummer, Seite, Jahr, Herausgeber</li>
+</ul>
+</li>
+<li>Bücher
+<ul>
+<li>Titel, Autor, Herausgeber, Jahr</li>
+</ul>
+</li>
+<li>Webseiten
+<ul>
+<li>Link, Autor, Jahr</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>Standard: <span class="math math-inline"><span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mo>→</mo></mrow><annotation encoding="application/x-tex">\rightarrow</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.3669em;"></span><span class="mrel">→</span></span></span></span></span> BibTeX</li>
+<li>"Was will man eigentlich machen"</li>
+<li>Abgaben online</li>
+</ul>
+<hr>
+<h3 id="presentation"><a aria-hidden="true" class="anchor-heading" href="#presentation"><svg aria-hidden="true" viewBox="0 0 16 16"><use xlink:href="#svg-link"></use></svg></a>Presentation</h3>
+<ul>
+<li>Types of presentations
+<ul>
+<li>Overview
+<ul>
+<li>Report
+<ul>
+<li>Conference talk</li>
+<li>30 Minuten
+<ul>
+<li>Interview
+<ul>
+<li>Lecture
+<ul>
+<li>PhD defense
+<ul>
+<li>Tutorial</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>Context <span class="math math-inline"><span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mo>→</mo></mrow><annotation encoding="application/x-tex">\rightarrow</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.3669em;"></span><span class="mrel">→</span></span></span></span></span> Proseminar Image Processing</li>
+<li>Maximaldauer: 15-45 Minuten (Wir: 30 Minuten)</li>
+<li>Publikum
+<ul>
+<li>Vorkenntnisse etc.</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>Vortrag
+<ul>
+<li>Klare Einteilung</li>
+<li>Details sind wichtig, aber nicht zu viel</li>
+</ul>
+<ol>
+<li>Was ist das Thema</li>
+<li>Thema 1</li>
+<li>Thema 2</li>
+</ol>
+<ul>
+<li><span class="math math-inline"><span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mo>⋯</mo></mrow><annotation encoding="application/x-tex">\cdots</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.313em;"></span><span class="minner">⋯</span></span></span></span></span></li>
+</ul>
+<ol start="9">
+<li>Worüber haben wir geredet</li>
+<li>Backup slides</li>
+</ol>
+<ul>
+<li>Wahrscheinliche Fragen  </li>
+</ul>
+</li>
+<li>Inhalt
+<ul>
+<li>Was soll die Hauptaussage sein
+<ul>
+<li>"Warum sollte es die Zuschauer interessieren"</li>
+<li>Zuhörer vergessen den Großteil
+<ul>
+<li><strong>Filtern</strong></li>
+</ul>
+</li>
+<li>Wichtige Konzepte <strong>müssen</strong> erklärt werden</li>
+</ul>
+</li>
+<li>15-20 Minuten Aufmerksamkeitsspanne
+<ul>
+<li>Versuchen zu verlängern
+<ul>
+<li>Klarer Ablauf</li>
+<li>Abgrenzung in klare Sektionen</li>
+<li>Ansprechend Vortragen<span class="math math-inline"><span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><msub><mrow></mrow><mtext>(Anekdoten, Witze)</mtext></msub></mrow><annotation encoding="application/x-tex">_\text{(Anekdoten, Witze)}</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.7em;vertical-align:-0.3552em;"></span><span class="mord"><span></span><span class="msupsub"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.3448em;"><span style="top:-2.5198em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord text mtight"><span class="mord mtight">(Anekdoten, Witze)</span></span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.3552em;"><span></span></span></span></span></span></span></span></span></span></span></li>
+<li>Viele Beispiele
+<ul>
+<li>Bilder, Videos, live Demos, live Coding</li>
+</ul>
+</li>
+<li>Fragen
+<ul>
+<li>Rethorische Fragen</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>Mitnehmen von verlorenen Zuhörern<span class="math math-inline"><span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><msub><mrow></mrow><mtext>(wo sind sie hin? 😳)</mtext></msub></mrow><annotation encoding="application/x-tex">_\text{(wo sind sie hin? 😳)}</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.7em;vertical-align:-0.3552em;"></span><span class="mord"><span></span><span class="msupsub"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.3448em;"><span style="top:-2.5198em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord text mtight"><span class="mord mtight">(wo sind sie hin? 😳)</span></span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.3552em;"><span></span></span></span></span></span></span></span></span></span></span></li>
+<li>
+<blockquote>
+<p>Weniger ist mehr</p>
+</blockquote>
+</li>
+<li>Zweck besserer Lesbarkeit sollten lange, komplizierte und mit Kommata in viele Teilsätze aufgeteilte Sätze vermieden werden.</li>
+<li>Design
+<ul>
+<li><span class="math math-inline"><span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mtext>LaTeX</mtext></mrow><annotation encoding="application/x-tex">\LaTeX</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.8988em;vertical-align:-0.2155em;"></span><span class="mord text"><span class="mord textrm">L</span><span class="mspace" style="margin-right:-0.36em;"></span><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.6833em;"><span style="top:-2.905em;"><span class="pstrut" style="height:2.7em;"></span><span class="mord"><span class="mord textrm mtight sizing reset-size6 size3">A</span></span></span></span></span></span><span class="mspace" style="margin-right:-0.15em;"></span><span class="mord text"><span class="mord textrm">T</span><span class="mspace" style="margin-right:-0.1667em;"></span><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.4678em;"><span style="top:-2.7845em;"><span class="pstrut" style="height:3em;"></span><span class="mord"><span class="mord textrm">E</span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.2155em;"><span></span></span></span></span><span class="mspace" style="margin-right:-0.125em;"></span><span class="mord textrm">X</span></span></span></span></span></span></span></li>
+<li>Powerpoint</li>
+<li><a href="https://impress.js.org/#/bored">Impress.js</a> (<a href="https://github.com/impress/impress.js">GitHub</a>)</li>
+<li>Prezi</li>
+<li>
+<blockquote>
+<p>Kein Grafischer Schnick-Schnack</p>
+</blockquote>
+</li>
+<li>Folie
+<ul>
+<li>Titel</li>
+<li>(Untertitel)</li>
+<li>Name, RWTH etc.</li>
+<li>Event (Konferenz Name, Ort, Datum)</li>
+<li>Seitenzahl</li>
+<li>Negativbeispiel: <img src="/semester-2/assets/images/2022-05-13-17-54-40.png" alt="Negativbeispiel"></li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>Vorbereitung
+<ul>
+<li>Nicht am Handy sein</li>
+<li>Augenkontakt</li>
+<li>Vor<strong>tragen</strong> nicht lesen (Das zu erkennen ist trivial)</li>
+<li>Rechtzeitig beenden
+<ul>
+<li>Zusammenfassen</li>
+<li>Abschlusssatz</li>
+<li>Danken</li>
+<li>Nach Fragen fragen</li>
+<li>Frühzeitig anfangen
+<ul>
+<li>Zu nervös? Schlecht!</li>
+<li>Zu entspannt? Schlecht!</li>
+</ul>
+</li>
+<li>Üben</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<hr>
+<h3 id="wichtige-daten"><a aria-hidden="true" class="anchor-heading" href="#wichtige-daten"><svg aria-hidden="true" viewBox="0 0 16 16"><use xlink:href="#svg-link"></use></svg></a>Wichtige Daten</h3>
+<ul>
+<li>Keine Ahnung (In der Klausurenphase :P)</li>
+</ul>
+<hr>
+<strong>Backlinks</strong>
+<ul>
+<li><a href="/semester-2/notes/mnd5f0g7rhonsu64f5fjcrh">2. Semester</a></li>
+</ul></div></div><div style="padding-left:10px;padding-right:10px" class="ant-col ant-col-xs-0 ant-col-md-6"><div><div class=""><div class="ant-anchor-wrapper dendron-toc" style="max-height:calc(100vh - 64px);z-index:1"><div class="ant-anchor"><div class="ant-anchor-ink"><span class="ant-anchor-ink-ball"></span></div><div class="ant-anchor-link"><a class="ant-anchor-link-title" href="#scientific-work" title="Scientific work">Scientific work</a></div><div class="ant-anchor-link"><a class="ant-anchor-link-title" href="#seminar-report" title="Seminar report">Seminar report</a></div><div class="ant-anchor-link"><a class="ant-anchor-link-title" href="#general-guidelines" title="General Guidelines">General Guidelines</a></div><div class="ant-anchor-link"><a class="ant-anchor-link-title" href="#scientific-citations" title="Scientific citations">Scientific citations</a></div><div class="ant-anchor-link"><a class="ant-anchor-link-title" href="#presentation" title="Presentation">Presentation</a></div><div class="ant-anchor-link"><a class="ant-anchor-link-title" href="#wichtige-daten" title="Wichtige Daten">Wichtige Daten</a></div></div></div></div></div></div></div></div></div></main><div class="ant-divider ant-divider-horizontal" role="separator"></div><footer class="ant-layout-footer" style="padding:0 24px 24px"></footer></section></section></section></section></div><script id="__NEXT_DATA__" type="application/json">{"props":{"pageProps":{"note":{"id":"xt1u0nlwatnmbso2tdmylh9","title":"Proseminar Image Processing","desc":"","updated":1652462264780,"created":1652452542726,"custom":{},"fname":"PS","type":"note","vault":{"fsPath":"vault"},"contentHash":"c2a0a67611d8721c42ae25b924634e38","links":[{"from":{"fname":"root","vaultName":"vault"},"type":"backlink","position":{"start":{"line":9,"column":3,"offset":356},"end":{"line":9,"column":20,"offset":373},"indent":[]},"value":"PS","alias":"Proseminar"}],"anchors":{"scientific-work":{"type":"header","text":"Scientific work","value":"scientific-work","line":8,"column":0,"depth":1},"seminar-report":{"type":"header","text":"Seminar report","value":"seminar-report","line":9,"column":0,"depth":2},"general-guidelines":{"type":"header","text":"General Guidelines","value":"general-guidelines","line":10,"column":0,"depth":3},"scientific-citations":{"type":"header","text":"Scientific citations","value":"scientific-citations","line":26,"column":0,"depth":3},"presentation":{"type":"header","text":"Presentation","value":"presentation","line":68,"column":0,"depth":3},"wichtige-daten":{"type":"header","text":"Wichtige Daten","value":"wichtige-daten","line":138,"column":0,"depth":3}},"children":[],"parent":"mnd5f0g7rhonsu64f5fjcrh","data":{}},"body":"\u003ch1 id=\"proseminar-image-processing\"\u003e\u003ca aria-hidden=\"true\" class=\"anchor-heading\" href=\"#proseminar-image-processing\"\u003e\u003csvg aria-hidden=\"true\" viewBox=\"0 0 16 16\"\u003e\u003cuse xlink:href=\"#svg-link\"\u003e\u003c/use\u003e\u003c/svg\u003e\u003c/a\u003eProseminar Image Processing\u003c/h1\u003e\n\u003ch1 id=\"scientific-work\"\u003e\u003ca aria-hidden=\"true\" class=\"anchor-heading\" href=\"#scientific-work\"\u003e\u003csvg aria-hidden=\"true\" viewBox=\"0 0 16 16\"\u003e\u003cuse xlink:href=\"#svg-link\"\u003e\u003c/use\u003e\u003c/svg\u003e\u003c/a\u003eScientific work\u003c/h1\u003e\n\u003ch2 id=\"seminar-report\"\u003e\u003ca aria-hidden=\"true\" class=\"anchor-heading\" href=\"#seminar-report\"\u003e\u003csvg aria-hidden=\"true\" viewBox=\"0 0 16 16\"\u003e\u003cuse xlink:href=\"#svg-link\"\u003e\u003c/use\u003e\u003c/svg\u003e\u003c/a\u003eSeminar report\u003c/h2\u003e\n\u003ch3 id=\"general-guidelines\"\u003e\u003ca aria-hidden=\"true\" class=\"anchor-heading\" href=\"#general-guidelines\"\u003e\u003csvg aria-hidden=\"true\" viewBox=\"0 0 16 16\"\u003e\u003cuse xlink:href=\"#svg-link\"\u003e\u003c/use\u003e\u003c/svg\u003e\u003c/a\u003eGeneral Guidelines\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eLesen und \u003cstrong\u003everstehen\u003c/strong\u003e\n\u003cul\u003e\n\u003cli\u003eNicht nur übersetzen\u003c/li\u003e\n\u003cli\u003eIn eigenen Worten schreiben\u003c/li\u003e\n\u003cli\u003e\u003cem\u003eKeine Inhaltsangabe / Übersetzung\u003c/em\u003e\u003c/li\u003e\n\u003c/ul\u003e\n\u003c/li\u003e\n\u003cli\u003eNach weiteren Quellen suchen\n\u003cul\u003e\n\u003cli\u003eMehr Inhalt\u003c/li\u003e\n\u003c/ul\u003e\n\u003c/li\u003e\n\u003cli\u003eThema im Detail erklären können\u003c/li\u003e\n\u003cli\u003eBilder und Tabellen\n\u003cul\u003e\n\u003cli\u003eÜberschriften\u003c/li\u003e\n\u003cli\u003eBezug zu Text\u003c/li\u003e\n\u003cli\u003eQuellen angeben\u003c/li\u003e\n\u003c/ul\u003e\n\u003c/li\u003e\n\u003cli\u003e\u003cspan class=\"math math-inline\"\u003e\u003cspan class=\"katex\"\u003e\u003cspan class=\"katex-mathml\"\u003e\u003cmath xmlns=\"http://www.w3.org/1998/Math/MathML\"\u003e\u003csemantics\u003e\u003cmrow\u003e\u003cmtext\u003eLaTeX\u003c/mtext\u003e\u003c/mrow\u003e\u003cannotation encoding=\"application/x-tex\"\u003e\\LaTeX\u003c/annotation\u003e\u003c/semantics\u003e\u003c/math\u003e\u003c/span\u003e\u003cspan class=\"katex-html\" aria-hidden=\"true\"\u003e\u003cspan class=\"base\"\u003e\u003cspan class=\"strut\" style=\"height:0.8988em;vertical-align:-0.2155em;\"\u003e\u003c/span\u003e\u003cspan class=\"mord text\"\u003e\u003cspan class=\"mord textrm\"\u003eL\u003c/span\u003e\u003cspan class=\"mspace\" style=\"margin-right:-0.36em;\"\u003e\u003c/span\u003e\u003cspan class=\"vlist-t\"\u003e\u003cspan class=\"vlist-r\"\u003e\u003cspan class=\"vlist\" style=\"height:0.6833em;\"\u003e\u003cspan style=\"top:-2.905em;\"\u003e\u003cspan class=\"pstrut\" style=\"height:2.7em;\"\u003e\u003c/span\u003e\u003cspan class=\"mord\"\u003e\u003cspan class=\"mord textrm mtight sizing reset-size6 size3\"\u003eA\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003cspan class=\"mspace\" style=\"margin-right:-0.15em;\"\u003e\u003c/span\u003e\u003cspan class=\"mord text\"\u003e\u003cspan class=\"mord textrm\"\u003eT\u003c/span\u003e\u003cspan class=\"mspace\" style=\"margin-right:-0.1667em;\"\u003e\u003c/span\u003e\u003cspan class=\"vlist-t vlist-t2\"\u003e\u003cspan class=\"vlist-r\"\u003e\u003cspan class=\"vlist\" style=\"height:0.4678em;\"\u003e\u003cspan style=\"top:-2.7845em;\"\u003e\u003cspan class=\"pstrut\" style=\"height:3em;\"\u003e\u003c/span\u003e\u003cspan class=\"mord\"\u003e\u003cspan class=\"mord textrm\"\u003eE\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003cspan class=\"vlist-s\"\u003e​\u003c/span\u003e\u003c/span\u003e\u003cspan class=\"vlist-r\"\u003e\u003cspan class=\"vlist\" style=\"height:0.2155em;\"\u003e\u003cspan\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003cspan class=\"mspace\" style=\"margin-right:-0.125em;\"\u003e\u003c/span\u003e\u003cspan class=\"mord textrm\"\u003eX\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\n\u003cul\u003e\n\u003cli\u003eBibTeX\u003c/li\u003e\n\u003c/ul\u003e\n\u003c/li\u003e\n\u003c/ul\u003e\n\u003chr\u003e\n\u003ch3 id=\"scientific-citations\"\u003e\u003ca aria-hidden=\"true\" class=\"anchor-heading\" href=\"#scientific-citations\"\u003e\u003csvg aria-hidden=\"true\" viewBox=\"0 0 16 16\"\u003e\u003cuse xlink:href=\"#svg-link\"\u003e\u003c/use\u003e\u003c/svg\u003e\u003c/a\u003eScientific citations\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eImmer in Anführungszeichen und mit Quelle\u003c/li\u003e\n\u003cli\u003eBilder nur mit Quelle\u003c/li\u003e\n\u003cli\u003eBei Bezug zu anderen \u003cem\u003eIdeen\u003c/em\u003e Quellen angeben\u003c/li\u003e\n\u003cli\u003e\"\u003cdel\u003eWe propose\u003c/del\u003e\"\u003c/li\u003e\n\u003cli\u003eDirekte Zitate vermeiden\u003c/li\u003e\n\u003cli\u003eGute Quellen\n\u003cul\u003e\n\u003cli\u003eScientific articles\n\u003cul\u003e\n\u003cli\u003eStruktur\n\u003cul\u003e\n\u003cli\u003eAutor\u003c/li\u003e\n\u003cli\u003eAbstrakt\u003c/li\u003e\n\u003cli\u003eEinleitung\u003c/li\u003e\n\u003cli\u003eBezug zu ähnlichen Arbeiten\u003c/li\u003e\n\u003cli\u003eBeschreibung der Methoden\u003c/li\u003e\n\u003cli\u003eExperiment\u003c/li\u003e\n\u003cli\u003e\u003cem\u003eConclusion\u003c/em\u003e\u003c/li\u003e\n\u003cli\u003eReferenzen\n\u003cul\u003e\n\u003cli\u003e\u003cstrong\u003eNicht ignorieren\u003c/strong\u003e\u003cspan class=\"math math-inline\"\u003e\u003cspan class=\"katex\"\u003e\u003cspan class=\"katex-mathml\"\u003e\u003cmath xmlns=\"http://www.w3.org/1998/Math/MathML\"\u003e\u003csemantics\u003e\u003cmrow\u003e\u003cmsup\u003e\u003cmrow\u003e\u003c/mrow\u003e\u003cmrow\u003e\u003cmo stretchy=\"false\"\u003e(\u003c/mo\u003e\u003cmtext\u003ebest\u003c/mtext\u003e\u003cmo stretchy=\"false\"\u003e)\u003c/mo\u003e\u003c/mrow\u003e\u003c/msup\u003e\u003c/mrow\u003e\u003cannotation encoding=\"application/x-tex\"\u003e^{(\\text{best})}\u003c/annotation\u003e\u003c/semantics\u003e\u003c/math\u003e\u003c/span\u003e\u003cspan class=\"katex-html\" aria-hidden=\"true\"\u003e\u003cspan class=\"base\"\u003e\u003cspan class=\"strut\" style=\"height:0.888em;\"\u003e\u003c/span\u003e\u003cspan class=\"mord\"\u003e\u003cspan\u003e\u003c/span\u003e\u003cspan class=\"msupsub\"\u003e\u003cspan class=\"vlist-t\"\u003e\u003cspan class=\"vlist-r\"\u003e\u003cspan class=\"vlist\" style=\"height:0.888em;\"\u003e\u003cspan style=\"top:-3.063em;margin-right:0.05em;\"\u003e\u003cspan class=\"pstrut\" style=\"height:2.7em;\"\u003e\u003c/span\u003e\u003cspan class=\"sizing reset-size6 size3 mtight\"\u003e\u003cspan class=\"mord mtight\"\u003e\u003cspan class=\"mopen mtight\"\u003e(\u003c/span\u003e\u003cspan class=\"mord text mtight\"\u003e\u003cspan class=\"mord mtight\"\u003ebest\u003c/span\u003e\u003c/span\u003e\u003cspan class=\"mclose mtight\"\u003e)\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/li\u003e\n\u003c/ul\u003e\n\u003c/li\u003e\n\u003c/ul\u003e\n\u003c/li\u003e\n\u003c/ul\u003e\n\u003c/li\u003e\n\u003cli\u003econference papers\u003c/li\u003e\n\u003cli\u003eBücher\u003c/li\u003e\n\u003cli\u003e\u003cspan class=\"math math-inline\"\u003e\u003cspan class=\"katex\"\u003e\u003cspan class=\"katex-mathml\"\u003e\u003cmath xmlns=\"http://www.w3.org/1998/Math/MathML\"\u003e\u003csemantics\u003e\u003cmrow\u003e\u003cmo\u003e⇒\u003c/mo\u003e\u003c/mrow\u003e\u003cannotation encoding=\"application/x-tex\"\u003e\\Rightarrow\u003c/annotation\u003e\u003c/semantics\u003e\u003c/math\u003e\u003c/span\u003e\u003cspan class=\"katex-html\" aria-hidden=\"true\"\u003e\u003cspan class=\"base\"\u003e\u003cspan class=\"strut\" style=\"height:0.3669em;\"\u003e\u003c/span\u003e\u003cspan class=\"mrel\"\u003e⇒\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e RWTH-Netz\u003c/li\u003e\n\u003c/ul\u003e\n\u003c/li\u003e\n\u003cli\u003eSchlechte Quellen\n\u003cul\u003e\n\u003cli\u003eWikipedia\u003c/li\u003e\n\u003cli\u003eWeblogs\u003c/li\u003e\n\u003cli\u003eHörensagen\u003c/li\u003e\n\u003c/ul\u003e\n\u003c/li\u003e\n\u003cli\u003e???\n\u003cul\u003e\n\u003cli\u003eArXiv \u003cspan class=\"math math-inline\"\u003e\u003cspan class=\"katex\"\u003e\u003cspan class=\"katex-mathml\"\u003e\u003cmath xmlns=\"http://www.w3.org/1998/Math/MathML\"\u003e\u003csemantics\u003e\u003cmrow\u003e\u003cmo\u003e→\u003c/mo\u003e\u003c/mrow\u003e\u003cannotation encoding=\"application/x-tex\"\u003e\\rightarrow\u003c/annotation\u003e\u003c/semantics\u003e\u003c/math\u003e\u003c/span\u003e\u003cspan class=\"katex-html\" aria-hidden=\"true\"\u003e\u003cspan class=\"base\"\u003e\u003cspan class=\"strut\" style=\"height:0.3669em;\"\u003e\u003c/span\u003e\u003cspan class=\"mrel\"\u003e→\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e Vorsicht\u003c/li\u003e\n\u003c/ul\u003e\n\u003c/li\u003e\n\u003cli\u003eOriginalquellen\u003c/li\u003e\n\u003cli\u003eEinheitliches Zitieren\n\u003cul\u003e\n\u003cli\u003eKonferenz\n\u003cul\u003e\n\u003cli\u003eTitel, Autor, Konferenz, Jahr\u003c/li\u003e\n\u003c/ul\u003e\n\u003c/li\u003e\n\u003cli\u003eArtikel\n\u003cul\u003e\n\u003cli\u003eTitel, Author, Journal, Ausgaben, Nummer, Seite, Jahr, Herausgeber\u003c/li\u003e\n\u003c/ul\u003e\n\u003c/li\u003e\n\u003cli\u003eBücher\n\u003cul\u003e\n\u003cli\u003eTitel, Autor, Herausgeber, Jahr\u003c/li\u003e\n\u003c/ul\u003e\n\u003c/li\u003e\n\u003cli\u003eWebseiten\n\u003cul\u003e\n\u003cli\u003eLink, Autor, Jahr\u003c/li\u003e\n\u003c/ul\u003e\n\u003c/li\u003e\n\u003c/ul\u003e\n\u003c/li\u003e\n\u003cli\u003eStandard: \u003cspan class=\"math math-inline\"\u003e\u003cspan class=\"katex\"\u003e\u003cspan class=\"katex-mathml\"\u003e\u003cmath xmlns=\"http://www.w3.org/1998/Math/MathML\"\u003e\u003csemantics\u003e\u003cmrow\u003e\u003cmo\u003e→\u003c/mo\u003e\u003c/mrow\u003e\u003cannotation encoding=\"application/x-tex\"\u003e\\rightarrow\u003c/annotation\u003e\u003c/semantics\u003e\u003c/math\u003e\u003c/span\u003e\u003cspan class=\"katex-html\" aria-hidden=\"true\"\u003e\u003cspan class=\"base\"\u003e\u003cspan class=\"strut\" style=\"height:0.3669em;\"\u003e\u003c/span\u003e\u003cspan class=\"mrel\"\u003e→\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e BibTeX\u003c/li\u003e\n\u003cli\u003e\"Was will man eigentlich machen\"\u003c/li\u003e\n\u003cli\u003eAbgaben online\u003c/li\u003e\n\u003c/ul\u003e\n\u003chr\u003e\n\u003ch3 id=\"presentation\"\u003e\u003ca aria-hidden=\"true\" class=\"anchor-heading\" href=\"#presentation\"\u003e\u003csvg aria-hidden=\"true\" viewBox=\"0 0 16 16\"\u003e\u003cuse xlink:href=\"#svg-link\"\u003e\u003c/use\u003e\u003c/svg\u003e\u003c/a\u003ePresentation\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eTypes of presentations\n\u003cul\u003e\n\u003cli\u003eOverview\n\u003cul\u003e\n\u003cli\u003eReport\n\u003cul\u003e\n\u003cli\u003eConference talk\u003c/li\u003e\n\u003cli\u003e30 Minuten\n\u003cul\u003e\n\u003cli\u003eInterview\n\u003cul\u003e\n\u003cli\u003eLecture\n\u003cul\u003e\n\u003cli\u003ePhD defense\n\u003cul\u003e\n\u003cli\u003eTutorial\u003c/li\u003e\n\u003c/ul\u003e\n\u003c/li\u003e\n\u003c/ul\u003e\n\u003c/li\u003e\n\u003c/ul\u003e\n\u003c/li\u003e\n\u003c/ul\u003e\n\u003c/li\u003e\n\u003c/ul\u003e\n\u003c/li\u003e\n\u003c/ul\u003e\n\u003c/li\u003e\n\u003cli\u003eContext \u003cspan class=\"math math-inline\"\u003e\u003cspan class=\"katex\"\u003e\u003cspan class=\"katex-mathml\"\u003e\u003cmath xmlns=\"http://www.w3.org/1998/Math/MathML\"\u003e\u003csemantics\u003e\u003cmrow\u003e\u003cmo\u003e→\u003c/mo\u003e\u003c/mrow\u003e\u003cannotation encoding=\"application/x-tex\"\u003e\\rightarrow\u003c/annotation\u003e\u003c/semantics\u003e\u003c/math\u003e\u003c/span\u003e\u003cspan class=\"katex-html\" aria-hidden=\"true\"\u003e\u003cspan class=\"base\"\u003e\u003cspan class=\"strut\" style=\"height:0.3669em;\"\u003e\u003c/span\u003e\u003cspan class=\"mrel\"\u003e→\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e Proseminar Image Processing\u003c/li\u003e\n\u003cli\u003eMaximaldauer: 15-45 Minuten (Wir: 30 Minuten)\u003c/li\u003e\n\u003cli\u003ePublikum\n\u003cul\u003e\n\u003cli\u003eVorkenntnisse etc.\u003c/li\u003e\n\u003c/ul\u003e\n\u003c/li\u003e\n\u003c/ul\u003e\n\u003c/li\u003e\n\u003cli\u003eVortrag\n\u003cul\u003e\n\u003cli\u003eKlare Einteilung\u003c/li\u003e\n\u003cli\u003eDetails sind wichtig, aber nicht zu viel\u003c/li\u003e\n\u003c/ul\u003e\n\u003col\u003e\n\u003cli\u003eWas ist das Thema\u003c/li\u003e\n\u003cli\u003eThema 1\u003c/li\u003e\n\u003cli\u003eThema 2\u003c/li\u003e\n\u003c/ol\u003e\n\u003cul\u003e\n\u003cli\u003e\u003cspan class=\"math math-inline\"\u003e\u003cspan class=\"katex\"\u003e\u003cspan class=\"katex-mathml\"\u003e\u003cmath xmlns=\"http://www.w3.org/1998/Math/MathML\"\u003e\u003csemantics\u003e\u003cmrow\u003e\u003cmo\u003e⋯\u003c/mo\u003e\u003c/mrow\u003e\u003cannotation encoding=\"application/x-tex\"\u003e\\cdots\u003c/annotation\u003e\u003c/semantics\u003e\u003c/math\u003e\u003c/span\u003e\u003cspan class=\"katex-html\" aria-hidden=\"true\"\u003e\u003cspan class=\"base\"\u003e\u003cspan class=\"strut\" style=\"height:0.313em;\"\u003e\u003c/span\u003e\u003cspan class=\"minner\"\u003e⋯\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/li\u003e\n\u003c/ul\u003e\n\u003col start=\"9\"\u003e\n\u003cli\u003eWorüber haben wir geredet\u003c/li\u003e\n\u003cli\u003eBackup slides\u003c/li\u003e\n\u003c/ol\u003e\n\u003cul\u003e\n\u003cli\u003eWahrscheinliche Fragen  \u003c/li\u003e\n\u003c/ul\u003e\n\u003c/li\u003e\n\u003cli\u003eInhalt\n\u003cul\u003e\n\u003cli\u003eWas soll die Hauptaussage sein\n\u003cul\u003e\n\u003cli\u003e\"Warum sollte es die Zuschauer interessieren\"\u003c/li\u003e\n\u003cli\u003eZuhörer vergessen den Großteil\n\u003cul\u003e\n\u003cli\u003e\u003cstrong\u003eFiltern\u003c/strong\u003e\u003c/li\u003e\n\u003c/ul\u003e\n\u003c/li\u003e\n\u003cli\u003eWichtige Konzepte \u003cstrong\u003emüssen\u003c/strong\u003e erklärt werden\u003c/li\u003e\n\u003c/ul\u003e\n\u003c/li\u003e\n\u003cli\u003e15-20 Minuten Aufmerksamkeitsspanne\n\u003cul\u003e\n\u003cli\u003eVersuchen zu verlängern\n\u003cul\u003e\n\u003cli\u003eKlarer Ablauf\u003c/li\u003e\n\u003cli\u003eAbgrenzung in klare Sektionen\u003c/li\u003e\n\u003cli\u003eAnsprechend Vortragen\u003cspan class=\"math math-inline\"\u003e\u003cspan class=\"katex\"\u003e\u003cspan class=\"katex-mathml\"\u003e\u003cmath xmlns=\"http://www.w3.org/1998/Math/MathML\"\u003e\u003csemantics\u003e\u003cmrow\u003e\u003cmsub\u003e\u003cmrow\u003e\u003c/mrow\u003e\u003cmtext\u003e(Anekdoten, Witze)\u003c/mtext\u003e\u003c/msub\u003e\u003c/mrow\u003e\u003cannotation encoding=\"application/x-tex\"\u003e_\\text{(Anekdoten, Witze)}\u003c/annotation\u003e\u003c/semantics\u003e\u003c/math\u003e\u003c/span\u003e\u003cspan class=\"katex-html\" aria-hidden=\"true\"\u003e\u003cspan class=\"base\"\u003e\u003cspan class=\"strut\" style=\"height:0.7em;vertical-align:-0.3552em;\"\u003e\u003c/span\u003e\u003cspan class=\"mord\"\u003e\u003cspan\u003e\u003c/span\u003e\u003cspan class=\"msupsub\"\u003e\u003cspan class=\"vlist-t vlist-t2\"\u003e\u003cspan class=\"vlist-r\"\u003e\u003cspan class=\"vlist\" style=\"height:0.3448em;\"\u003e\u003cspan style=\"top:-2.5198em;margin-right:0.05em;\"\u003e\u003cspan class=\"pstrut\" style=\"height:2.7em;\"\u003e\u003c/span\u003e\u003cspan class=\"sizing reset-size6 size3 mtight\"\u003e\u003cspan class=\"mord text mtight\"\u003e\u003cspan class=\"mord mtight\"\u003e(Anekdoten, Witze)\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003cspan class=\"vlist-s\"\u003e​\u003c/span\u003e\u003c/span\u003e\u003cspan class=\"vlist-r\"\u003e\u003cspan class=\"vlist\" style=\"height:0.3552em;\"\u003e\u003cspan\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/li\u003e\n\u003cli\u003eViele Beispiele\n\u003cul\u003e\n\u003cli\u003eBilder, Videos, live Demos, live Coding\u003c/li\u003e\n\u003c/ul\u003e\n\u003c/li\u003e\n\u003cli\u003eFragen\n\u003cul\u003e\n\u003cli\u003eRethorische Fragen\u003c/li\u003e\n\u003c/ul\u003e\n\u003c/li\u003e\n\u003c/ul\u003e\n\u003c/li\u003e\n\u003cli\u003eMitnehmen von verlorenen Zuhörern\u003cspan class=\"math math-inline\"\u003e\u003cspan class=\"katex\"\u003e\u003cspan class=\"katex-mathml\"\u003e\u003cmath xmlns=\"http://www.w3.org/1998/Math/MathML\"\u003e\u003csemantics\u003e\u003cmrow\u003e\u003cmsub\u003e\u003cmrow\u003e\u003c/mrow\u003e\u003cmtext\u003e(wo sind sie hin? 😳)\u003c/mtext\u003e\u003c/msub\u003e\u003c/mrow\u003e\u003cannotation encoding=\"application/x-tex\"\u003e_\\text{(wo sind sie hin? 😳)}\u003c/annotation\u003e\u003c/semantics\u003e\u003c/math\u003e\u003c/span\u003e\u003cspan class=\"katex-html\" aria-hidden=\"true\"\u003e\u003cspan class=\"base\"\u003e\u003cspan class=\"strut\" style=\"height:0.7em;vertical-align:-0.3552em;\"\u003e\u003c/span\u003e\u003cspan class=\"mord\"\u003e\u003cspan\u003e\u003c/span\u003e\u003cspan class=\"msupsub\"\u003e\u003cspan class=\"vlist-t vlist-t2\"\u003e\u003cspan class=\"vlist-r\"\u003e\u003cspan class=\"vlist\" style=\"height:0.3448em;\"\u003e\u003cspan style=\"top:-2.5198em;margin-right:0.05em;\"\u003e\u003cspan class=\"pstrut\" style=\"height:2.7em;\"\u003e\u003c/span\u003e\u003cspan class=\"sizing reset-size6 size3 mtight\"\u003e\u003cspan class=\"mord text mtight\"\u003e\u003cspan class=\"mord mtight\"\u003e(wo sind sie hin? 😳)\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003cspan class=\"vlist-s\"\u003e​\u003c/span\u003e\u003c/span\u003e\u003cspan class=\"vlist-r\"\u003e\u003cspan class=\"vlist\" style=\"height:0.3552em;\"\u003e\u003cspan\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/li\u003e\n\u003cli\u003e\n\u003cblockquote\u003e\n\u003cp\u003eWeniger ist mehr\u003c/p\u003e\n\u003c/blockquote\u003e\n\u003c/li\u003e\n\u003cli\u003eZweck besserer Lesbarkeit sollten lange, komplizierte und mit Kommata in viele Teilsätze aufgeteilte Sätze vermieden werden.\u003c/li\u003e\n\u003cli\u003eDesign\n\u003cul\u003e\n\u003cli\u003e\u003cspan class=\"math math-inline\"\u003e\u003cspan class=\"katex\"\u003e\u003cspan class=\"katex-mathml\"\u003e\u003cmath xmlns=\"http://www.w3.org/1998/Math/MathML\"\u003e\u003csemantics\u003e\u003cmrow\u003e\u003cmtext\u003eLaTeX\u003c/mtext\u003e\u003c/mrow\u003e\u003cannotation encoding=\"application/x-tex\"\u003e\\LaTeX\u003c/annotation\u003e\u003c/semantics\u003e\u003c/math\u003e\u003c/span\u003e\u003cspan class=\"katex-html\" aria-hidden=\"true\"\u003e\u003cspan class=\"base\"\u003e\u003cspan class=\"strut\" style=\"height:0.8988em;vertical-align:-0.2155em;\"\u003e\u003c/span\u003e\u003cspan class=\"mord text\"\u003e\u003cspan class=\"mord textrm\"\u003eL\u003c/span\u003e\u003cspan class=\"mspace\" style=\"margin-right:-0.36em;\"\u003e\u003c/span\u003e\u003cspan class=\"vlist-t\"\u003e\u003cspan class=\"vlist-r\"\u003e\u003cspan class=\"vlist\" style=\"height:0.6833em;\"\u003e\u003cspan style=\"top:-2.905em;\"\u003e\u003cspan class=\"pstrut\" style=\"height:2.7em;\"\u003e\u003c/span\u003e\u003cspan class=\"mord\"\u003e\u003cspan class=\"mord textrm mtight sizing reset-size6 size3\"\u003eA\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003cspan class=\"mspace\" style=\"margin-right:-0.15em;\"\u003e\u003c/span\u003e\u003cspan class=\"mord text\"\u003e\u003cspan class=\"mord textrm\"\u003eT\u003c/span\u003e\u003cspan class=\"mspace\" style=\"margin-right:-0.1667em;\"\u003e\u003c/span\u003e\u003cspan class=\"vlist-t vlist-t2\"\u003e\u003cspan class=\"vlist-r\"\u003e\u003cspan class=\"vlist\" style=\"height:0.4678em;\"\u003e\u003cspan style=\"top:-2.7845em;\"\u003e\u003cspan class=\"pstrut\" style=\"height:3em;\"\u003e\u003c/span\u003e\u003cspan class=\"mord\"\u003e\u003cspan class=\"mord textrm\"\u003eE\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003cspan class=\"vlist-s\"\u003e​\u003c/span\u003e\u003c/span\u003e\u003cspan class=\"vlist-r\"\u003e\u003cspan class=\"vlist\" style=\"height:0.2155em;\"\u003e\u003cspan\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003cspan class=\"mspace\" style=\"margin-right:-0.125em;\"\u003e\u003c/span\u003e\u003cspan class=\"mord textrm\"\u003eX\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/li\u003e\n\u003cli\u003ePowerpoint\u003c/li\u003e\n\u003cli\u003e\u003ca href=\"https://impress.js.org/#/bored\"\u003eImpress.js\u003c/a\u003e (\u003ca href=\"https://github.com/impress/impress.js\"\u003eGitHub\u003c/a\u003e)\u003c/li\u003e\n\u003cli\u003ePrezi\u003c/li\u003e\n\u003cli\u003e\n\u003cblockquote\u003e\n\u003cp\u003eKein Grafischer Schnick-Schnack\u003c/p\u003e\n\u003c/blockquote\u003e\n\u003c/li\u003e\n\u003cli\u003eFolie\n\u003cul\u003e\n\u003cli\u003eTitel\u003c/li\u003e\n\u003cli\u003e(Untertitel)\u003c/li\u003e\n\u003cli\u003eName, RWTH etc.\u003c/li\u003e\n\u003cli\u003eEvent (Konferenz Name, Ort, Datum)\u003c/li\u003e\n\u003cli\u003eSeitenzahl\u003c/li\u003e\n\u003cli\u003eNegativbeispiel: \u003cimg src=\"/semester-2/assets/images/2022-05-13-17-54-40.png\" alt=\"Negativbeispiel\"\u003e\u003c/li\u003e\n\u003c/ul\u003e\n\u003c/li\u003e\n\u003c/ul\u003e\n\u003c/li\u003e\n\u003c/ul\u003e\n\u003c/li\u003e\n\u003c/ul\u003e\n\u003c/li\u003e\n\u003cli\u003eVorbereitung\n\u003cul\u003e\n\u003cli\u003eNicht am Handy sein\u003c/li\u003e\n\u003cli\u003eAugenkontakt\u003c/li\u003e\n\u003cli\u003eVor\u003cstrong\u003etragen\u003c/strong\u003e nicht lesen (Das zu erkennen ist trivial)\u003c/li\u003e\n\u003cli\u003eRechtzeitig beenden\n\u003cul\u003e\n\u003cli\u003eZusammenfassen\u003c/li\u003e\n\u003cli\u003eAbschlusssatz\u003c/li\u003e\n\u003cli\u003eDanken\u003c/li\u003e\n\u003cli\u003eNach Fragen fragen\u003c/li\u003e\n\u003cli\u003eFrühzeitig anfangen\n\u003cul\u003e\n\u003cli\u003eZu nervös? Schlecht!\u003c/li\u003e\n\u003cli\u003eZu entspannt? Schlecht!\u003c/li\u003e\n\u003c/ul\u003e\n\u003c/li\u003e\n\u003cli\u003eÜben\u003c/li\u003e\n\u003c/ul\u003e\n\u003c/li\u003e\n\u003c/ul\u003e\n\u003c/li\u003e\n\u003c/ul\u003e\n\u003chr\u003e\n\u003ch3 id=\"wichtige-daten\"\u003e\u003ca aria-hidden=\"true\" class=\"anchor-heading\" href=\"#wichtige-daten\"\u003e\u003csvg aria-hidden=\"true\" viewBox=\"0 0 16 16\"\u003e\u003cuse xlink:href=\"#svg-link\"\u003e\u003c/use\u003e\u003c/svg\u003e\u003c/a\u003eWichtige Daten\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eKeine Ahnung (In der Klausurenphase :P)\u003c/li\u003e\n\u003c/ul\u003e\n\u003chr\u003e\n\u003cstrong\u003eBacklinks\u003c/strong\u003e\n\u003cul\u003e\n\u003cli\u003e\u003ca href=\"/semester-2/notes/mnd5f0g7rhonsu64f5fjcrh\"\u003e2. Semester\u003c/a\u003e\u003c/li\u003e\n\u003c/ul\u003e","noteIndex":{"id":"mnd5f0g7rhonsu64f5fjcrh","title":"2. Semester","desc":"","updated":1655247033976,"created":1649147616743,"custom":{"nav_order":0,"permalink":"/"},"fname":"root","type":"note","vault":{"fsPath":"vault"},"contentHash":"c5b3115349cc9deb5919fc133f39a1d7","links":[{"type":"wiki","from":{"fname":"root","id":"mnd5f0g7rhonsu64f5fjcrh","vaultName":"vault"},"value":"BUS","alias":"Betriebssysteme und Systemsoftware","position":{"start":{"line":5,"column":3,"offset":191},"end":{"line":5,"column":45,"offset":233},"indent":[]},"xvault":false,"sameFile":false,"to":{"fname":"BUS"}},{"type":"wiki","from":{"fname":"root","id":"mnd5f0g7rhonsu64f5fjcrh","vaultName":"vault"},"value":"DSAL","alias":"Datenstrukturen und Algorithmen","position":{"start":{"line":6,"column":3,"offset":236},"end":{"line":6,"column":43,"offset":276},"indent":[]},"xvault":false,"sameFile":false,"to":{"fname":"DSAL"}},{"type":"wiki","from":{"fname":"root","id":"mnd5f0g7rhonsu64f5fjcrh","vaultName":"vault"},"value":"FOSAP","alias":"Formale Systeme, Automaten und Prozesse","position":{"start":{"line":7,"column":3,"offset":279},"end":{"line":7,"column":52,"offset":328},"indent":[]},"xvault":false,"sameFile":false,"to":{"fname":"FOSAP"}},{"type":"wiki","from":{"fname":"root","id":"mnd5f0g7rhonsu64f5fjcrh","vaultName":"vault"},"value":"LA","alias":"Lineare Algebra","position":{"start":{"line":8,"column":3,"offset":331},"end":{"line":8,"column":25,"offset":353},"indent":[]},"xvault":false,"sameFile":false,"to":{"fname":"LA"}},{"type":"wiki","from":{"fname":"root","id":"mnd5f0g7rhonsu64f5fjcrh","vaultName":"vault"},"value":"PS","alias":"Proseminar","position":{"start":{"line":9,"column":3,"offset":356},"end":{"line":9,"column":20,"offset":373},"indent":[]},"xvault":false,"sameFile":false,"to":{"fname":"PS"}},{"type":"wiki","from":{"fname":"root","id":"mnd5f0g7rhonsu64f5fjcrh","vaultName":"vault"},"value":"dict","alias":"Dictionary","position":{"start":{"line":10,"column":3,"offset":376},"end":{"line":10,"column":22,"offset":395},"indent":[]},"xvault":false,"sameFile":false,"to":{"fname":"dict"}}],"anchors":{"module":{"type":"header","text":"Module","value":"module","line":10,"column":0,"depth":2}},"children":["ea7m3dmpg0r5un0f05p627b","0p70eh688cyzdn8bxxwyt4k","sw9rbls42fxvtuynvtea5yf","n2hp765y7aix8pqs9sbes28","gkq29c1hc0wfqolqse6i2e8","xt1u0nlwatnmbso2tdmylh9","k1oe6sqiu6esc2oy9l2pax6"],"parent":null,"data":{},"body":"\n[![Build Dendron Static Site](https://github.com/NilEis/semester-2/actions/workflows/publish.yml/badge.svg)](https://github.com/NilEis/semester-2/actions/workflows/publish.yml)\n\n## Module\n- [[Betriebssysteme und Systemsoftware|BUS]]\n- [[Datenstrukturen und Algorithmen|DSAL]]\n- [[Formale Systeme, Automaten und Prozesse|FOSAP]]\n- [[Lineare Algebra|LA]]\n- [[Proseminar|PS]]\n- [[Dictionary|dict]]"},"collectionChildren":null,"customHeadContent":null,"config":{"version":5,"dev":{"enablePreviewV2":true},"commands":{"lookup":{"note":{"selectionMode":"extract","confirmVaultOnCreate":true,"vaultSelectionModeOnCreate":"smart","leaveTrace":false,"bubbleUpCreateNew":true,"fuzzThreshold":0.2}},"randomNote":{},"insertNote":{"initialValue":"templates"},"insertNoteLink":{"aliasMode":"none","enableMultiSelect":false},"insertNoteIndex":{"enableMarker":false},"copyNoteLink":{}},"workspace":{"vaults":[{"fsPath":"vault"}],"journal":{"dailyDomain":"daily","name":"journal","dateFormat":"y.MM.dd","addBehavior":"childOfDomain"},"scratch":{"name":"scratch","dateFormat":"y.MM.dd.HHmmss","addBehavior":"asOwnDomain"},"task":{"name":"","dateFormat":"","addBehavior":"childOfCurrent","statusSymbols":{"":" ","wip":"w","done":"x","assigned":"a","moved":"m","blocked":"b","delegated":"l","dropped":"d","pending":"y"},"prioritySymbols":{"H":"high","M":"medium","L":"low"},"todoIntegration":false,"createTaskSelectionType":"selection2link","taskCompleteStatus":["done","x"]},"graph":{"zoomSpeed":1,"createStub":false},"enableAutoCreateOnDefinition":false,"enableXVaultWikiLink":false,"enableRemoteVaultInit":true,"enableUserTags":true,"enableHashTags":true,"workspaceVaultSyncMode":"noCommit","enableAutoFoldFrontmatter":false,"enableEditorDecorations":true,"maxPreviewsCached":10,"maxNoteLength":204800,"enableHandlebarTemplates":false,"enableFullHierarchyNoteTitle":false,"templateHierarchy":"template"},"preview":{"enableFMTitle":true,"enableNoteTitleForLink":true,"enableFrontmatterTags":true,"enableHashesForFMTags":false,"enableMermaid":true,"enablePrettyRefs":true,"enableKatex":true,"automaticallyShowPreview":false},"publishing":{"enableFMTitle":true,"enableNoteTitleForLink":true,"enableMermaid":true,"enablePrettyRefs":true,"enableKatex":true,"copyAssets":true,"siteHierarchies":["root"],"writeStubs":false,"siteRootDir":"docs","assetsPrefix":"/semester-2","siteUrl":"https://nileis.github.io","seo":{"title":"2. Semester","description":"Notes"},"github":{"enableEditLink":true,"editLinkText":"Edit this page on GitHub","editBranch":"main","editViewMode":"tree"},"enableSiteLastModified":true,"enableFrontmatterTags":true,"enableHashesForFMTags":false,"enableRandomlyColoredTags":true,"enablePrettyLinks":true,"duplicateNoteBehavior":{"action":"useVault","payload":["vault"]},"siteFaviconPath":"favicon.ico","siteIndex":"root","enableTaskNotes":true}}},"__N_SSG":true},"page":"/notes/[id]","query":{"id":"xt1u0nlwatnmbso2tdmylh9"},"buildId":"KyJgMcuERFOxxwMS-TJEl","assetPrefix":"/semester-2","isFallback":false,"gsp":true,"scriptLoader":[]}</script></body></html>

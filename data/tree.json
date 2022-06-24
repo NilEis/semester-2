@@ -1,0 +1,384 @@
+{
+  "roots": [
+    {
+      "key": "mnd5f0g7rhonsu64f5fjcrh",
+      "title": "2. Semester",
+      "icon": null,
+      "hasTitleNumberOutlined": false,
+      "vaultName": "vault",
+      "children": [
+        {
+          "key": "ea7m3dmpg0r5un0f05p627b",
+          "title": "Betriebssysteme und Systemsoftware",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "vault",
+          "children": [
+            {
+              "key": "41ubojvc0jw6nszwof6wxcm",
+              "title": "Atomare Operationen",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "vault",
+              "children": []
+            },
+            {
+              "key": "6z5l0j4qnbvzet32vqcq7a5",
+              "title": "Betriebssysteme: Aufbau und Aufgaben",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "vault",
+              "children": []
+            },
+            {
+              "key": "ofi07erpq7jgz6mwmypxbw8",
+              "title": "C-Programmierung",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "vault",
+              "children": []
+            },
+            {
+              "key": "2opcy7lw1n5wjdg2m4mkd35",
+              "title": "Dateisysteme",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "vault",
+              "children": []
+            },
+            {
+              "key": "l1i7a0o3wy5ts8r69mnafgh",
+              "title": "Linux-shell Bash",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "vault",
+              "children": []
+            },
+            {
+              "key": "pcvzcc8l7qd3w4aznic0sc8",
+              "title": "Prozesse, Threads und Systemkommunikation",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "vault",
+              "children": []
+            },
+            {
+              "key": "j0hrsd1q31zskk5hb41llnf",
+              "title": "Prozessynchronisation",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "vault",
+              "children": []
+            },
+            {
+              "key": "xypymb99679v9l00rou9pze",
+              "title": "Speicherverwaltung",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "vault",
+              "children": []
+            },
+            {
+              "key": "ajtx75oij1xuiwkljn9wvsz",
+              "title": "kernel",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "vault",
+              "children": []
+            }
+          ]
+        },
+        {
+          "key": "0p70eh688cyzdn8bxxwyt4k",
+          "title": "Datenstrukturen und Algorithmen",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "vault",
+          "children": [
+            {
+              "key": "usuwijfnfz44i3bvexmb3vr",
+              "title": "Abstrakte Datenstrukturen",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "vault",
+              "children": []
+            },
+            {
+              "key": "86qyjdsuf73nhr1v9lk61uv",
+              "title": "Analyse von Algorithmen",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "vault",
+              "children": []
+            },
+            {
+              "key": "zvbaxijpphhgr878gipd8mp",
+              "title": "Bäume",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "vault",
+              "children": [
+                {
+                  "key": "lykdg76vwrx028h2463hp37",
+                  "title": "Rot-Schwarz-Bäume",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "vault",
+                  "children": []
+                },
+                {
+                  "key": "8jfix1nhdrb2s7oixgrq3qa",
+                  "title": "bbaum",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "vault",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "key": "k4oh8mvhsd8ehidkoc7ubcx",
+              "title": "Graphen",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "vault",
+              "children": []
+            },
+            {
+              "key": "l19obf46ny8oevfoomwnent",
+              "title": "Lineare Datenstrukturen",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "vault",
+              "children": []
+            },
+            {
+              "key": "s0htkkk3iv8jau2rmrzkzme",
+              "title": "Prioritätsschlangen",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "vault",
+              "children": []
+            },
+            {
+              "key": "9z57462obeqqdv1fbifz9h3",
+              "title": "Union-Find-Strukturen",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "vault",
+              "children": []
+            },
+            {
+              "key": "vdvyuts01wn4953l0rbhk2a",
+              "title": "Überblick",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "vault",
+              "children": []
+            }
+          ]
+        },
+        {
+          "key": "k1oe6sqiu6esc2oy9l2pax6",
+          "title": "Dictionary",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "vault",
+          "children": []
+        },
+        {
+          "key": "sw9rbls42fxvtuynvtea5yf",
+          "title": "Formale Systeme, Automaten und Prozesse",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "vault",
+          "children": [
+            {
+              "key": "wo161knnxca4andavb1d2g3",
+              "title": "Deterministische Endliche Automaten",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "vault",
+              "children": []
+            },
+            {
+              "key": "jldco7rp0fpn9z7stpxh5pp",
+              "title": "Endliche Automaten",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "vault",
+              "children": []
+            },
+            {
+              "key": "o1n2rwt7hbyj7quzayf7tab",
+              "title": "Kontextfreie Grammatiken",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "vault",
+              "children": []
+            },
+            {
+              "key": "pkpf710eccda2mkor5ggk8p",
+              "title": "Nichtdeterministische Endliche Automaten",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "vault",
+              "children": []
+            },
+            {
+              "key": "gaoww6pfwoli8l6kw7sxkpx",
+              "title": "Reguläre Sprachen",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "vault",
+              "children": [
+                {
+                  "key": "kcx3p6z78upuds5wf0y2w9m",
+                  "title": "Algoritmen über reguläre Sprachen",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "vault",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "key": "oe241jb9h8q8qqkm146bcuo",
+              "title": "Sprachen",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "vault",
+              "children": []
+            },
+            {
+              "key": "aelcpbbeggd8ugg2f37nedd",
+              "title": "tut",
+              "icon": "plusOutlined",
+              "hasTitleNumberOutlined": false,
+              "vaultName": "vault",
+              "children": [
+                {
+                  "key": "7sn6lbx4m1jmqzyi1y3426u",
+                  "title": "Erstes Tutorium",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "vault",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "key": "k1cv3nh1q6m1td4s9akpo7r",
+              "title": "Überblick",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "vault",
+              "children": []
+            }
+          ]
+        },
+        {
+          "key": "n2hp765y7aix8pqs9sbes28",
+          "title": "Graphen",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "vault",
+          "children": []
+        },
+        {
+          "key": "gkq29c1hc0wfqolqse6i2e8",
+          "title": "Lineare Algebra",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "vault",
+          "children": [
+            {
+              "key": "yx3xmgxwr0e6wh5fimndsur",
+              "title": "Basis eines Vektorraumes",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "vault",
+              "children": []
+            },
+            {
+              "key": "lpvqq66ik41dkd1wwujkv8m",
+              "title": "Lineare Unabhängigkeit",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "vault",
+              "children": []
+            },
+            {
+              "key": "y0iae8lac01iyy5t3bq0myg",
+              "title": "Linearkombination",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "vault",
+              "children": []
+            },
+            {
+              "key": "cutdp7yqn6lad4pabdyqd1v",
+              "title": "Vektorräume",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "vault",
+              "children": []
+            }
+          ]
+        },
+        {
+          "key": "xt1u0nlwatnmbso2tdmylh9",
+          "title": "Proseminar Image Processing",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "vault",
+          "children": []
+        }
+      ]
+    }
+  ],
+  "child2parent": {
+    "403": null,
+    "mnd5f0g7rhonsu64f5fjcrh": null,
+    "k1oe6sqiu6esc2oy9l2pax6": "mnd5f0g7rhonsu64f5fjcrh",
+    "xt1u0nlwatnmbso2tdmylh9": "mnd5f0g7rhonsu64f5fjcrh",
+    "gkq29c1hc0wfqolqse6i2e8": "mnd5f0g7rhonsu64f5fjcrh",
+    "cutdp7yqn6lad4pabdyqd1v": "gkq29c1hc0wfqolqse6i2e8",
+    "y0iae8lac01iyy5t3bq0myg": "gkq29c1hc0wfqolqse6i2e8",
+    "lpvqq66ik41dkd1wwujkv8m": "gkq29c1hc0wfqolqse6i2e8",
+    "yx3xmgxwr0e6wh5fimndsur": "gkq29c1hc0wfqolqse6i2e8",
+    "n2hp765y7aix8pqs9sbes28": "mnd5f0g7rhonsu64f5fjcrh",
+    "sw9rbls42fxvtuynvtea5yf": "mnd5f0g7rhonsu64f5fjcrh",
+    "aelcpbbeggd8ugg2f37nedd": "sw9rbls42fxvtuynvtea5yf",
+    "7sn6lbx4m1jmqzyi1y3426u": "aelcpbbeggd8ugg2f37nedd",
+    "k1cv3nh1q6m1td4s9akpo7r": "sw9rbls42fxvtuynvtea5yf",
+    "oe241jb9h8q8qqkm146bcuo": "sw9rbls42fxvtuynvtea5yf",
+    "gaoww6pfwoli8l6kw7sxkpx": "sw9rbls42fxvtuynvtea5yf",
+    "kcx3p6z78upuds5wf0y2w9m": "gaoww6pfwoli8l6kw7sxkpx",
+    "o1n2rwt7hbyj7quzayf7tab": "sw9rbls42fxvtuynvtea5yf",
+    "pkpf710eccda2mkor5ggk8p": "sw9rbls42fxvtuynvtea5yf",
+    "jldco7rp0fpn9z7stpxh5pp": "sw9rbls42fxvtuynvtea5yf",
+    "wo161knnxca4andavb1d2g3": "sw9rbls42fxvtuynvtea5yf",
+    "0p70eh688cyzdn8bxxwyt4k": "mnd5f0g7rhonsu64f5fjcrh",
+    "vdvyuts01wn4953l0rbhk2a": "0p70eh688cyzdn8bxxwyt4k",
+    "s0htkkk3iv8jau2rmrzkzme": "0p70eh688cyzdn8bxxwyt4k",
+    "l19obf46ny8oevfoomwnent": "0p70eh688cyzdn8bxxwyt4k",
+    "k4oh8mvhsd8ehidkoc7ubcx": "0p70eh688cyzdn8bxxwyt4k",
+    "zvbaxijpphhgr878gipd8mp": "0p70eh688cyzdn8bxxwyt4k",
+    "lykdg76vwrx028h2463hp37": "zvbaxijpphhgr878gipd8mp",
+    "8jfix1nhdrb2s7oixgrq3qa": "zvbaxijpphhgr878gipd8mp",
+    "86qyjdsuf73nhr1v9lk61uv": "0p70eh688cyzdn8bxxwyt4k",
+    "usuwijfnfz44i3bvexmb3vr": "0p70eh688cyzdn8bxxwyt4k",
+    "9z57462obeqqdv1fbifz9h3": "0p70eh688cyzdn8bxxwyt4k",
+    "ea7m3dmpg0r5un0f05p627b": "mnd5f0g7rhonsu64f5fjcrh",
+    "xypymb99679v9l00rou9pze": "ea7m3dmpg0r5un0f05p627b",
+    "l1i7a0o3wy5ts8r69mnafgh": "ea7m3dmpg0r5un0f05p627b",
+    "ajtx75oij1xuiwkljn9wvsz": "ea7m3dmpg0r5un0f05p627b",
+    "41ubojvc0jw6nszwof6wxcm": "ea7m3dmpg0r5un0f05p627b",
+    "j0hrsd1q31zskk5hb41llnf": "ea7m3dmpg0r5un0f05p627b",
+    "pcvzcc8l7qd3w4aznic0sc8": "ea7m3dmpg0r5un0f05p627b",
+    "6z5l0j4qnbvzet32vqcq7a5": "ea7m3dmpg0r5un0f05p627b",
+    "2opcy7lw1n5wjdg2m4mkd35": "ea7m3dmpg0r5un0f05p627b",
+    "ofi07erpq7jgz6mwmypxbw8": "ea7m3dmpg0r5un0f05p627b"
+  }
+}
